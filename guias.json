@@ -1,0 +1,102 @@
+{
+ "guias": [
+  {
+   "id": "denunciar-hurto",
+   "titulo": "Cómo denunciar un hurto por internet",
+   "bajada": "La denuncia virtual recibe algunos delitos. El hurto es uno.",
+   "revisado": "2026-11-11",
+   "parrafos": [
+    "Si te robaron el celular, la billetera u otra cosa, puedes denunciarlo por internet en ¡ADenunciar!, el sistema de denuncia virtual de la Policía Nacional y la Fiscalía. Es gratis.",
+    "Ten a mano tu cédula, un correo electrónico y los datos del hecho: qué pasó, dónde y cuándo. La denuncia no es anónima y se hace bajo juramento. Si tienes videos, audios o documentos, puedes adjuntarlos.",
+    "Al enviarla te llega por correo el número del incidente. Si la denuncia es aceptada, recibes después el Número Único de Noticia Criminal, que es con el que se le hace seguimiento. Si no la aceptan, te explican por qué y qué camino seguir.",
+    "Si lo que te pasó no está entre los delitos que ofrece el sistema, o requiere valoración médico-legal, la denuncia se pone en persona. Y si hay peligro ahora mismo, no es momento de formularios: llama al 123."
+   ],
+   "fuentes": [
+    {
+     "nombre": "Policía Nacional: Sistema Nacional de Denuncia Virtual",
+     "url": "https://www.policia.gov.co/sistema-nacional-denuncia-virtual-adenunciar"
+    },
+    {
+     "nombre": "Policía Nacional: delitos que recibe ¡ADenunciar!",
+     "url": "https://www.policia.gov.co/noticia/sistema-denuncia-virtual-adenunciar-crece"
+    },
+    {
+     "nombre": "Policía Nacional: cómo instaurar la denuncia",
+     "url": "https://www.policia.gov.co/noticia/sabia-usted-que-esta-un-solo-clic-instaurar-una-denuncia"
+    }
+   ]
+  },
+  {
+   "id": "perdida-documentos",
+   "titulo": "Qué hacer si pierdes tus documentos",
+   "bajada": "Ni denuncia ni constancia: ve directo a quien los expide.",
+   "revisado": "2026-11-11",
+   "parrafos": [
+    "Si perdiste la cédula, la licencia o una tarjeta, no tienes que pasar por la Policía. Para sacar el duplicado no hace falta denuncia ni constancia por pérdida: lo advierte la propia Policía Nacional, y desde 2012 la ley prohíbe a las autoridades exigir esa denuncia.",
+    "Pide el duplicado a quien expidió el documento: la Registraduría para la cédula y la tarjeta de identidad, la Cancillería para el pasaporte, el organismo de tránsito para la licencia de conducción y tu banco para las tarjetas.",
+    "Otra cosa es que te los hayan robado. El hurto sí se denuncia, y una constancia por pérdida no reemplaza esa denuncia.",
+    "La excepción son los documentos de identificación de la fuerza pública y de los cuerpos de seguridad: a ellos esa regla no les aplica."
+   ],
+   "fuentes": [
+    {
+     "nombre": "Policía Nacional: por qué no hace falta la constancia",
+     "url": "https://www.policia.gov.co/constancia-perdida-documentos"
+    },
+    {
+     "nombre": "Decreto 19 de 2012, artículo 30",
+     "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=45322"
+    }
+   ]
+  },
+  {
+   "id": "linea-o-cuadrante",
+   "titulo": "El 123 y el número de tu cuadrante",
+   "bajada": "Los dos te comunican con la Policía. Ante una urgencia, el 123.",
+   "revisado": "2026-11-11",
+   "parrafos": [
+    "El 123 es la línea única de emergencias: gratuita y atendida las 24 horas, todos los días. La Policía pide usarla para informar delitos, emergencias y lo que ponga en riesgo la tranquilidad del barrio.",
+    "El número de tu cuadrante es la línea directa de los policías asignados a tu sector. La Policía lo ofrece como otra forma de avisar, junto al 123.",
+    "En esta app ves ese celular cuando los datos oficiales lo publican: no todos los cuadrantes lo tienen, y los números cambian. Si no contestan, o si dudas, marca 123."
+   ],
+   "fuentes": [
+    {
+     "nombre": "Policía Nacional: para qué es la línea 123",
+     "url": "https://www.policia.gov.co/noticia/linea-123-aliada-clave-para-seguridad-convivencia-en-monteria"
+    },
+    {
+     "nombre": "Policía Nacional: el 123 o el número del cuadrante",
+     "url": "https://www.policia.gov.co/noticia/llamada-linea-emergencias-123-permite-rapida-accion-policial"
+    },
+    {
+     "nombre": "Función Pública: línea única de emergencias 123",
+     "url": "https://www1.funcionpublica.gov.co/preguntas-frecuentes/-/asset_publisher/sqxafjubsrEu/content/linea-unica-de-emergencias-nacional-123/28585938"
+    }
+   ]
+  },
+  {
+   "id": "consultar-comparendos",
+   "titulo": "Cómo consultar tus comparendos",
+   "bajada": "Hay dos clases y cada una está en un registro distinto.",
+   "revisado": "2026-11-11",
+   "parrafos": [
+    "Un comparendo puede ser de convivencia o de tránsito. No se consultan en el mismo sitio ni se pagan a la misma entidad.",
+    "Los de convivencia, los del Código Nacional de Seguridad y Convivencia Ciudadana, quedan en el Registro Nacional de Medidas Correctivas, que lleva la Policía. Se consulta por internet con tu documento o con el número del comparendo. La multa se paga a la alcaldía, y baja a la mitad si pagas dentro de los 5 días hábiles siguientes.",
+    "Los de tránsito no los lleva la Policía: están en el SIMIT, el sistema de la Federación Colombiana de Municipios. La ley también premia el pronto pago: se paga la mitad dentro de los 5 días siguientes al comparendo, o el 75 % dentro de los 20 días, en ambos casos haciendo el curso sobre normas de tránsito."
+   ],
+   "fuentes": [
+    {
+     "nombre": "Ley 1801 de 2016, artículos 180 y 184",
+     "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=80538"
+    },
+    {
+     "nombre": "Ley 769 de 2002, artículos 10 y 136",
+     "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5557"
+    },
+    {
+     "nombre": "Policía Nacional: preguntas frecuentes del registro",
+     "url": "https://srvcnpc.policia.gov.co/multimedia/formatos/PREGUNTAS_FRECUENTES_CNSCC_RNMC.pdf"
+    }
+   ]
+  }
+ ]
+}

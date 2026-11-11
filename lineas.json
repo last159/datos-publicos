@@ -1,0 +1,200 @@
+{
+ "verificado": "2026-11-09",
+ "entidades": [
+  {
+   "id": "emergencias-123",
+   "nombre": "Línea de emergencias",
+   "descripcion": "Número único de emergencias. Atiende en todo el país.",
+   "categoria": "emergencia",
+   "linea": "123",
+   "fuente": "https://www.policia.gov.co/"
+  },
+  {
+   "id": "bomberos-119",
+   "nombre": "Bomberos",
+   "descripcion": "Línea de emergencias de los cuerpos de bomberos.",
+   "categoria": "emergencia",
+   "linea": "119",
+   "conmutador": "6017461121",
+   "sitio": "https://dnbc.gov.co/",
+   "fuente": "https://normativa.colpensiones.gov.co/colpens/docs/resolucion_crc_5937_2020.htm",
+   "fuenteNombre": "CRC, matriz de numeración 1XY"
+  },
+  {
+   "id": "cruz-roja-132",
+   "nombre": "Cruz Roja Colombiana",
+   "descripcion": "Línea de emergencias de la Cruz Roja.",
+   "categoria": "emergencia",
+   "linea": "132",
+   "gratuita": "018005198534",
+   "conmutador": "6017946566",
+   "sitio": "https://www.cruzrojacolombiana.org/",
+   "fuente": "https://normativa.colpensiones.gov.co/colpens/docs/resolucion_crc_5937_2020.htm",
+   "fuenteNombre": "CRC, matriz de numeración 1XY"
+  },
+  {
+   "id": "defensa-civil-144",
+   "nombre": "Defensa Civil Colombiana",
+   "descripcion": "Línea de emergencias de la Defensa Civil.",
+   "categoria": "emergencia",
+   "linea": "144",
+   "conmutador": "6013199000",
+   "sitio": "https://www.defensacivil.gov.co/",
+   "fuente": "https://www.defensacivil.gov.co/"
+  },
+  {
+   "id": "policia-112",
+   "nombre": "Policía Nacional",
+   "descripcion": "Línea de la Policía. La línea gratuita y el conmutador son de atención al ciudadano.",
+   "categoria": "policia",
+   "linea": "112",
+   "gratuita": "018000910112",
+   "conmutador": "6015159000",
+   "sitio": "https://www.policia.gov.co/",
+   "fuente": "https://normativa.colpensiones.gov.co/colpens/docs/resolucion_crc_5937_2020.htm",
+   "fuenteNombre": "CRC, matriz de numeración 1XY"
+  },
+  {
+   "id": "gaula-165",
+   "nombre": "GAULA",
+   "descripcion": "Antisecuestro y antiextorsión.",
+   "categoria": "policia",
+   "linea": "165",
+   "sitio": "https://www.policia.gov.co/",
+   "fuente": "https://www.policia.gov.co/"
+  },
+  {
+   "id": "seguridad-vial-767",
+   "nombre": "Seguridad vial",
+   "descripcion": "Línea de seguridad vial de la Policía, para las carreteras.",
+   "categoria": "policia",
+   "linea": "#767",
+   "sitio": "https://www.policia.gov.co/",
+   "fuente": "https://www.policia.gov.co/"
+  },
+  {
+   "id": "antinarcoticos-167",
+   "nombre": "Antinarcóticos",
+   "descripcion": "Información sobre tráfico, venta y consumo de drogas.",
+   "categoria": "policia",
+   "linea": "167",
+   "sitio": "https://www.policia.gov.co/",
+   "fuente": "https://www.policia.gov.co/"
+  },
+  {
+   "id": "anticontrabando-159",
+   "nombre": "Anticontrabando",
+   "descripcion": "Línea de la Policía contra el contrabando.",
+   "categoria": "policia",
+   "linea": "159",
+   "sitio": "https://www.policia.gov.co/",
+   "fuente": "https://www.policia.gov.co/"
+  },
+  {
+   "id": "anticorrupcion-157",
+   "nombre": "Anticorrupción",
+   "descripcion": "Línea anticorrupción de la Policía.",
+   "categoria": "policia",
+   "linea": "157",
+   "sitio": "https://www.policia.gov.co/",
+   "fuente": "https://www.policia.gov.co/"
+  },
+  {
+   "id": "fiscalia-122",
+   "nombre": "Fiscalía General de la Nación",
+   "descripcion": "Centro de contacto para denuncias e información. El 122 se marca desde celular; la línea gratuita, desde fijo.",
+   "categoria": "justicia",
+   "linea": "122",
+   "gratuita": "018000919748",
+   "sitio": "https://www.fiscalia.gov.co/",
+   "fuente": "https://www.fiscalia.gov.co/servicios-de-informacion-al-ciudadano/centro-de-contacto/"
+  },
+  {
+   "id": "medicina-legal",
+   "nombre": "Medicina Legal",
+   "descripcion": "Instituto Nacional de Medicina Legal y Ciencias Forenses. La línea gratuita es de peticiones, quejas y reclamos.",
+   "categoria": "justicia",
+   "gratuita": "018005190565",
+   "conmutador": "6019187020",
+   "sitio": "https://www.medicinalegal.gov.co/",
+   "fuente": "https://www.medicinalegal.gov.co/en/servicios-a-la-ciudadania/canales-de-atencion"
+  },
+  {
+   "id": "inpec",
+   "nombre": "INPEC",
+   "descripcion": "Instituto Nacional Penitenciario y Carcelario.",
+   "categoria": "justicia",
+   "conmutador": "6012347474",
+   "sitio": "https://www.inpec.gov.co/",
+   "fuente": "https://www.inpec.gov.co/"
+  },
+  {
+   "id": "icbf-141",
+   "nombre": "ICBF",
+   "descripcion": "Protección, emergencia y orientación para niños, niñas y adolescentes. El 141 atiende las 24 horas.",
+   "categoria": "proteccion",
+   "linea": "141",
+   "gratuita": "018000918080",
+   "conmutador": "6014377630",
+   "sitio": "https://www.icbf.gov.co/",
+   "fuente": "https://www.icbf.gov.co/proteccion/linea-141"
+  },
+  {
+   "id": "linea-155",
+   "nombre": "Línea 155",
+   "descripcion": "Orientación a mujeres víctimas de violencia.",
+   "categoria": "proteccion",
+   "linea": "155",
+   "fuente": "https://www.policia.gov.co/"
+  },
+  {
+   "id": "unp",
+   "nombre": "Unidad Nacional de Protección",
+   "descripcion": "Protección a personas en situación de riesgo.",
+   "categoria": "proteccion",
+   "gratuita": "018000118228",
+   "conmutador": "6014269800",
+   "sitio": "https://www.unp.gov.co/",
+   "fuente": "https://www.unp.gov.co/atencion-y-servicios-a-la-ciudadania/directorio/"
+  },
+  {
+   "id": "procuraduria",
+   "nombre": "Procuraduría General de la Nación",
+   "descripcion": "Quejas disciplinarias contra servidores públicos.",
+   "categoria": "control",
+   "gratuita": "018000940808",
+   "conmutador": "6015878750",
+   "sitio": "https://www.procuraduria.gov.co/",
+   "fuente": "https://www.procuraduria.gov.co/"
+  },
+  {
+   "id": "defensoria",
+   "nombre": "Defensoría del Pueblo",
+   "descripcion": "Defensa y promoción de los derechos humanos.",
+   "categoria": "control",
+   "gratuita": "018000914814",
+   "conmutador": "6013144000",
+   "sitio": "https://www.defensoria.gov.co/",
+   "fuente": "https://www.defensoria.gov.co/"
+  },
+  {
+   "id": "mindefensa",
+   "nombre": "Ministerio de Defensa Nacional",
+   "descripcion": "Cabeza del sector defensa, al que pertenece la Policía.",
+   "categoria": "gobierno",
+   "gratuita": "018000954513",
+   "conmutador": "6013150111",
+   "sitio": "https://www.mindefensa.gov.co/",
+   "fuente": "https://www.mindefensa.gov.co/"
+  },
+  {
+   "id": "migracion",
+   "nombre": "Migración Colombia",
+   "descripcion": "Control migratorio y trámites de extranjería.",
+   "categoria": "gobierno",
+   "gratuita": "018000515515",
+   "sitio": "https://www.migracioncolombia.gov.co/",
+   "fuente": "https://www.migracioncolombia.gov.co/"
+  }
+ ]
+}

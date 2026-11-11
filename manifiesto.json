@@ -1,0 +1,34 @@
+{
+  "conjuntos": {
+    "lineas": {
+      "publicado": "2026-11-11T15:29:31.000Z",
+      "formato": 1,
+      "bytes": 6670,
+      "sha256": "aecafa7351336b07215fcdb0a4d6b68c376de108a7cfccfd18c7de57c7a5fd14"
+    },
+    "tramites": {
+      "publicado": "2026-11-11T15:37:14.000Z",
+      "formato": 1,
+      "bytes": 4773,
+      "sha256": "0fa210e32a9d12e020174aedd55f33bc56da9e951ca87f4f3b3b755896408583"
+    },
+    "guias": {
+      "publicado": "2026-11-11T15:37:14.000Z",
+      "formato": 1,
+      "bytes": 5944,
+      "sha256": "acc36d422960a90f5cd6b4d0869e24fa7b262db976d4178bcddb508e281f252c"
+    },
+    "noticias": {
+      "publicado": "2026-11-11T15:29:31.000Z",
+      "formato": 1,
+      "bytes": 10769,
+      "sha256": "f2aabdd13f0c0e7030147493b20294e955545418139b32c59c23012ace52a7a1"
+    },
+    "sedes": {
+      "publicado": "2026-11-11T15:29:31.000Z",
+      "formato": 1,
+      "bytes": 1186722,
+      "sha256": "408a92ce2f7778f62c4bcf010cf8a2b8fd4311c21290dd2192e389c1ad273bd2"
+    }
+  }
+}

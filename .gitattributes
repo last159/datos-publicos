@@ -1,0 +1,2 @@
+# Los archivos se comparan por su huella: sus bytes no se tocan.
+*.json -text

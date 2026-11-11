@@ -1,0 +1,93 @@
+{
+ "verificado": "2026-11-11",
+ "tramites": [
+  {
+   "id": "antecedentes",
+   "titulo": "Antecedentes judiciales",
+   "resumen": "Consulta por internet si tienes antecedentes.",
+   "entidad": "Policía Nacional",
+   "modalidad": "enLinea",
+   "costo": "Gratis",
+   "icono": "certificado",
+   "sitio": "https://antecedentes.policia.gov.co:7005/WebJudicial/",
+   "pasos": [
+    "Abre la consulta de antecedentes de la Policía Nacional.",
+    "Lee los términos de uso, marca «Acepto» y pulsa «Enviar».",
+    "Escribe tu número de cédula, de ciudadanía o de extranjería, y el código de seguridad que aparece en pantalla.",
+    "El resultado sale en pantalla. Si lo necesitas en papel, imprímelo desde el navegador."
+   ],
+   "requisitos": [
+    "Tu número de cédula de ciudadanía o de extranjería"
+   ],
+   "avisos": [
+    "Es para consultar tus propios antecedentes, con fines personales.",
+    "No entrega un certificado ni un PDF: el certificado judicial se suprimió en 2012. Lo que vale es la consulta.",
+    "No tiene vigencia: muestra lo que hay el día en que consultas.",
+    "No certifica antecedentes de menores de edad.",
+    "Si lo necesitas para el exterior, la apostilla se pide en la Cancillería."
+   ],
+   "fuente": "https://www.gov.co/ficha-tramites-y-servicios/T86503",
+   "fuenteNombre": "Ficha del trámite en gov.co"
+  },
+  {
+   "id": "denuncia-virtual",
+   "titulo": "Denuncia virtual",
+   "resumen": "Denuncia por internet ciertos delitos, sin ir a una estación.",
+   "entidad": "Policía Nacional y Fiscalía General de la Nación",
+   "modalidad": "enLinea",
+   "costo": "Gratis",
+   "icono": "denuncia",
+   "sitio": "https://adenunciar.policia.gov.co/Adenunciar/",
+   "pasos": [
+    "Abre ¡ADenunciar! y elige «Denuncia en línea».",
+    "Lee el aviso de privacidad y acéptalo.",
+    "Elige el delito que vas a denunciar.",
+    "Escribe tus datos y cuenta qué pasó, dónde y cuándo.",
+    "Adjunta videos, audios o documentos si los tienes.",
+    "Envía la denuncia. Te llega por correo el número del incidente."
+   ],
+   "requisitos": [
+    "Nombre completo y número de cédula",
+    "Correo electrónico",
+    "Los datos del hecho: qué pasó, dónde y cuándo"
+   ],
+   "avisos": [
+    "No es para pedir ayuda urgente: si hay peligro ahora, llama al 123.",
+    "Solo recibe ciertos delitos. La Policía ha anunciado estos: hurto a personas, a residencias y a comercios, delitos informáticos, extorsión, estafa, falsedad en documento y material de explotación sexual infantil. La lista vigente la ves al entrar; si tu caso no está, la denuncia se pone en persona.",
+    "No es anónima y se hace bajo juramento: una denuncia falsa tiene consecuencias penales.",
+    "Está pensada para delitos que no requieren valoración médico-legal.",
+    "Si la víctima es menor de edad, la denuncia la hace un adulto.",
+    "El número del incidente todavía no es la denuncia aceptada. Si la aceptan, recibes después el Número Único de Noticia Criminal; si no, un mensaje que explica por qué y qué camino seguir."
+   ],
+   "fuente": "https://www.policia.gov.co/sistema-nacional-denuncia-virtual-adenunciar"
+  },
+  {
+   "id": "medidas-correctivas",
+   "titulo": "Medidas correctivas",
+   "resumen": "Consulta si tienes comparendos del Código de Convivencia.",
+   "entidad": "Policía Nacional",
+   "modalidad": "enLinea",
+   "costo": "Consulta pública",
+   "icono": "comprobante",
+   "sitio": "https://srvcnpc.policia.gov.co/PSC/frm_cnp_consulta.aspx",
+   "pasos": [
+    "Abre la consulta del Registro Nacional de Medidas Correctivas.",
+    "En «Consultar por», elige tu tipo de documento o el número del comparendo.",
+    "Escribe el número. Si consultas por documento, te pide también su fecha de expedición.",
+    "Pulsa la lupa y revisa si tienes medidas pendientes."
+   ],
+   "requisitos": [
+    "Tu documento y su fecha de expedición, o el número del comparendo"
+   ],
+   "avisos": [
+    "La multa no se le paga a la Policía: se consigna en la cuenta que indique tu alcaldía.",
+    "Si pagas dentro de los 5 días hábiles siguientes al comparendo, la multa baja a la mitad. En ese mismo plazo, las multas tipo 1 y 2 se pueden cambiar por un programa comunitario o una actividad pedagógica.",
+    "Si no estás de acuerdo, tienes 3 días hábiles para objetar ante la autoridad de policía.",
+    "Pagar no cierra el registro por sí solo: lleva el recibo al inspector de policía, que es quien lo cierra.",
+    "Una multa sin pagar genera intereses y, pasados seis meses, las restricciones que fija la ley."
+   ],
+   "fuente": "https://srvcnpc.policia.gov.co/multimedia/formatos/PREGUNTAS_FRECUENTES_CNSCC_RNMC.pdf",
+   "fuenteNombre": "Policía Nacional, preguntas frecuentes del registro"
+  }
+ ]
+}
