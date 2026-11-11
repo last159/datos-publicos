@@ -1,8 +1,96 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-11T15:29:31.850084Z",
+ "descargado": "2026-11-11T23:30:42.735022Z",
  "noticias": [
+  {
+   "id": "escuela-suboficiales-nivel-ejecutivo-gonzalo-jimenez-quesada-vanguardia-en-inteligencia",
+   "titulo": "La Escuela de Suboficiales y Nivel Ejecutivo “Gonzalo Jiménez de Quesada”, a la vanguardia en la inteligencia artificial al servicio de la educación y la función policial",
+   "lugar": "Sibaté",
+   "publicado": "2026-11-11T18:01:30.000Z",
+   "resumen": "Sibaté. En el marco del proceso de profesionalización y fortalecimiento institucional, la Policía Nacional de Colombia a…",
+   "enlace": "https://www.policia.gov.co/noticia/escuela-suboficiales-nivel-ejecutivo-gonzalo-jimenez-quesada-vanguardia-en-inteligencia"
+  },
+  {
+   "id": "captura-aprehension-por-delito-receptacion",
+   "titulo": "captura y aprehensión por el delito de receptación",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T03:34:23.000Z",
+   "resumen": "La Policía Nacional, a través del Modelo del Servicio de Policía Orientado a las Personas y los Territorios, logró la recuperación de una…",
+   "enlace": "https://www.policia.gov.co/noticia/captura-aprehension-por-delito-receptacion"
+  },
+  {
+   "id": "captura-por-trafico-fabricacion-o-portes-estupefacientes",
+   "titulo": "captura por trafico fabricación o portes de estupefacientes",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T03:20:32.000Z",
+   "resumen": "Durante el procedimiento, realizado sobre la vía al sector de El Paujil, fueron incautados aproximadamente 50 gramos de una sustancia que por sus…",
+   "enlace": "https://www.policia.gov.co/noticia/captura-por-trafico-fabricacion-o-portes-estupefacientes"
+  },
+  {
+   "id": "captura-por-violacion-habitacion-ajena",
+   "titulo": "captura por violacion a habitacion ajena",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T03:04:34.000Z",
+   "resumen": "El procedimiento policial se desarrolló en el barrio Primavera 2, luego de que la comunidad alertara sobre el ingreso no autorizado de una persona…",
+   "enlace": "https://www.policia.gov.co/noticia/captura-por-violacion-habitacion-ajena"
+  },
+  {
+   "id": "captura-en-flagrancia-por-presunto-amenazas",
+   "titulo": "captura en flagrancia por el presunto de amenazas",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T02:48:08.000Z",
+   "resumen": "El procedimiento se llevó a cabo en un establecimiento comercial ubicado en la zona céntrica de la capital del Guainía, donde fue incautada un…",
+   "enlace": "https://www.policia.gov.co/noticia/captura-en-flagrancia-por-presunto-amenazas"
+  },
+  {
+   "id": "captura-por-lavado-activos-0",
+   "titulo": "captura por lavado de activos",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T02:24:30.000Z",
+   "resumen": "La Policía Nacional, a través de la Estación de Policía Inírida, logró la captura en flagrancia de un ciudadano por el presunto delito de lavado…",
+   "enlace": "https://www.policia.gov.co/noticia/captura-por-lavado-activos-0"
+  },
+  {
+   "id": "procedimiento-control-que-permitio-hallazgo-23-m3-madera",
+   "titulo": "procedimiento de control que permitió el hallazgo de 2,3 m³ de madera",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T01:05:24.000Z",
+   "resumen": "En un procedimiento de control realizado de manera articulada entre la Policía Nacional, la Armada Nacional y el Ejército Nacional, también fueron…",
+   "enlace": "https://www.policia.gov.co/noticia/procedimiento-control-que-permitio-hallazgo-23-m3-madera"
+  },
+  {
+   "id": "captura-en-flagrancia-por-trafico-fabricacion-o-porte-estupefacientes-2",
+   "titulo": "captura en flagrancia por trafico, fabricación o porte de estupefacientes",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T00:51:34.000Z",
+   "resumen": "El procedimiento se realizó en el barrio El Berlín, mediante actividades de registro y control adelantadas en coordinación con la Armada Nacional…",
+   "enlace": "https://www.policia.gov.co/noticia/captura-en-flagrancia-por-trafico-fabricacion-o-porte-estupefacientes-2"
+  },
+  {
+   "id": "captura-por-delito-extorsion",
+   "titulo": "captura por el delito de extorsión",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T00:26:24.000Z",
+   "resumen": "La oportuna denuncia de una ciudadana y las labores investigativas adelantadas por la SIJIN permitieron materializar el procedimiento policial.",
+   "enlace": "https://www.policia.gov.co/noticia/captura-por-delito-extorsion"
+  },
+  {
+   "id": "captura-por-violacion-contra-servidor-publico",
+   "titulo": "captura por violación contra servidor publico",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T00:07:18.000Z",
+   "resumen": "La Policía Nacional, a través de los uniformados adscritos al Departamento de Policía Guainía, logró la captura en flagrancia de un ciudadano por…",
+   "enlace": "https://www.policia.gov.co/noticia/captura-por-violacion-contra-servidor-publico"
+  },
+  {
+   "id": "captura-por-delito-hurto",
+   "titulo": "captura por el delito de hurto",
+   "lugar": "Inírida",
+   "publicado": "2026-11-10T20:10:17.000Z",
+   "resumen": "La oportuna información suministrada por la comunidad permitió la rápida reacción de los uniformados, logrando la captura del presunto responsable…",
+   "enlace": "https://www.policia.gov.co/noticia/captura-por-delito-hurto"
+  },
   {
    "id": "camaras-videovigilancia-permitieron-captura-un-hombre-requerido-por-trafico-estupefacientes",
    "titulo": "Cámaras de videovigilancia permitieron la captura de un hombre requerido por tráfico de estupefacientes en Manizales",
@@ -10,6 +98,30 @@
    "publicado": "2026-11-10T15:51:59.000Z",
    "resumen": "En el marco de las acciones contra el multicrimen y el delito, la Policía Nacional, en articulación con la Alcaldía de Manizales, logró la captura…",
    "enlace": "https://www.policia.gov.co/noticia/camaras-videovigilancia-permitieron-captura-un-hombre-requerido-por-trafico-estupefacientes"
+  },
+  {
+   "id": "policia-nacional-presento-ante-asamblea-cordoba-resultados-estrategias-en-materia-seguridad",
+   "titulo": "Policía Nacional presentó ante la Asamblea de Córdoba resultados y estrategias en materia de seguridad",
+   "lugar": "Montería",
+   "publicado": "2026-11-10T15:13:11.000Z",
+   "resumen": "La Policía Nacional participó en una sesión plenaria de la Asamblea Departamental de Córdoba, en la que presentó los avances, estrategias y…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-presento-ante-asamblea-cordoba-resultados-estrategias-en-materia-seguridad"
+  },
+  {
+   "id": "plan-candado-permitio-capturar-alias-miqui-cuando-intentaba-evadir-un-control-policial-en",
+   "titulo": "Plan candado permitió capturar a alias ‘Miqui’ cuando intentaba evadir un control policial en Belalcázar",
+   "lugar": "Belalcázar",
+   "publicado": "2026-11-10T14:08:16.000Z",
+   "resumen": "En desarrollo de actividades de prevención, vigilancia y control, la Policía Nacional logró la captura de un hombre de 27 años, conocido con el…",
+   "enlace": "https://www.policia.gov.co/noticia/plan-candado-permitio-capturar-alias-miqui-cuando-intentaba-evadir-un-control-policial-en"
+  },
+  {
+   "id": "13-personas-capturadas-durante-operativos-seguridad-en-manizales-villamaria",
+   "titulo": "13 personas capturadas durante operativos de seguridad en Manizales y Villamaría",
+   "lugar": "Manizales",
+   "publicado": "2026-11-10T13:31:10.000Z",
+   "resumen": "En coordinación con la Alcaldía de Manizales y las autoridades locales, la Policía Nacional desplegó durante el fin de semana diferentes acciones…",
+   "enlace": "https://www.policia.gov.co/noticia/13-personas-capturadas-durante-operativos-seguridad-en-manizales-villamaria"
   },
   {
    "id": "policia-incauto-dos-loros-silvestres-que-eran-transportados-en-un-bus-servicio-publico-en",
@@ -130,22 +242,6 @@
    "publicado": "2026-11-09T14:17:09.000Z",
    "resumen": "Un nuevo grado se recibe en un instante, pero llegar hasta él toma años.",
    "enlace": "https://www.policia.gov.co/noticia/mas-894-policias-region-no-3-ascendieron-en-una-ceremonia-que-exalto-su-vocacion-compromiso"
-  },
-  {
-   "id": "policia-promueve-campana-ojos-en-todas-partes-para-prevenir-explotacion-sexual-menores-en",
-   "titulo": "Policía promueve la campaña ‘Ojos en todas partes’ para prevenir la explotación sexual de menores en Neiva",
-   "lugar": "Neiva",
-   "publicado": "2026-11-09T12:58:58.000Z",
-   "resumen": "La Policía Nacional, a través del Grupo de Protección al Turismo y Patrimonio Nacional, adelantó una jornada de prevención y sensibilización en el…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-promueve-campana-ojos-en-todas-partes-para-prevenir-explotacion-sexual-menores-en"
-  },
-  {
-   "id": "policia-promueve-campana-ojos-en-todas-partes-para-prevenir-explotacion-sexual-menores-en-0",
-   "titulo": "Policía promueve la campaña ‘Ojos en todas partes’ para prevenir la explotación sexual de menores en Neiva",
-   "lugar": "Neiva",
-   "publicado": "2026-11-09T12:58:58.000Z",
-   "resumen": "La Policía Nacional, a través del Grupo de Protección al Turismo y Patrimonio Nacional, adelantó una jornada de prevención y sensibilización en el…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-promueve-campana-ojos-en-todas-partes-para-prevenir-explotacion-sexual-menores-en-0"
   }
  ]
 }
