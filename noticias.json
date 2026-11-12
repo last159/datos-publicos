@@ -1,8 +1,16 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-11T23:30:42.735022Z",
+ "descargado": "2026-11-12T18:59:31.321149Z",
  "noticias": [
+  {
+   "id": "31-jovenes-se-graduan-como-guardianes-del-turismo-patrimonio-nacional-en-manizales",
+   "titulo": "31 jóvenes se gradúan como Guardianes del Turismo y Patrimonio Nacional en Manizales",
+   "lugar": "Manizales",
+   "publicado": "2026-11-11T19:36:35.000Z",
+   "resumen": "La Policía Nacional, a través del Grupo de Protección al Turismo y Patrimonio Nacional, llevó a cabo la clausura del programa cívico juvenil «…",
+   "enlace": "https://www.policia.gov.co/noticia/31-jovenes-se-graduan-como-guardianes-del-turismo-patrimonio-nacional-en-manizales"
+  },
   {
    "id": "escuela-suboficiales-nivel-ejecutivo-gonzalo-jimenez-quesada-vanguardia-en-inteligencia",
    "titulo": "La Escuela de Suboficiales y Nivel Ejecutivo “Gonzalo Jiménez de Quesada”, a la vanguardia en la inteligencia artificial al servicio de la educación y la función policial",
@@ -10,6 +18,62 @@
    "publicado": "2026-11-11T18:01:30.000Z",
    "resumen": "Sibaté. En el marco del proceso de profesionalización y fortalecimiento institucional, la Policía Nacional de Colombia a…",
    "enlace": "https://www.policia.gov.co/noticia/escuela-suboficiales-nivel-ejecutivo-gonzalo-jimenez-quesada-vanguardia-en-inteligencia"
+  },
+  {
+   "id": "estudiantes-fortalecen-prevencion-del-secuestro-extorsion-en-jornada-sensibilizacion",
+   "titulo": "Estudiantes fortalecen la prevención del secuestro y la extorsión en jornada de sensibilización",
+   "lugar": "Cundinamarca",
+   "publicado": "2026-11-11T15:13:43.000Z",
+   "resumen": "En desarrollo de las actividades de proyección social, 20 estudiantes de la Sede Universitaria Antisecuestro y Antiextorsión participaron en una…",
+   "enlace": "https://www.policia.gov.co/noticia/estudiantes-fortalecen-prevencion-del-secuestro-extorsion-en-jornada-sensibilizacion"
+  },
+  {
+   "id": "policia-incauta-mas-media-tonelada-cocaina-afecta-las-finanzas-criminales-en-norte",
+   "titulo": "Policía incauta más de media tonelada de cocaína y afecta las finanzas criminales en Norte de Santander",
+   "lugar": "Cúcuta",
+   "publicado": "2026-11-11T15:09:05.000Z",
+   "resumen": "En desarrollo del Bloque Operativo de Seguridad Urbana (BOSUR), desplegado en la ciudad por instrucción del señor presidente de la República, la…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-incauta-mas-media-tonelada-cocaina-afecta-las-finanzas-criminales-en-norte"
+  },
+  {
+   "id": "desarticulado-grupo-delincuencial-nueva-generacion-en-samaca-boyaca",
+   "titulo": "Desarticulado el grupo delincuencial “La Nueva Generación” en Samacá, Boyacá",
+   "lugar": "Tunja",
+   "publicado": "2026-11-11T14:27:16.000Z",
+   "resumen": "La Policía Nacional, a través de la Seccional de Investigación Criminal (SIJIN), en coordinación con la Fiscalía Especializada 40 de Tunja y la…",
+   "enlace": "https://www.policia.gov.co/noticia/desarticulado-grupo-delincuencial-nueva-generacion-en-samaca-boyaca"
+  },
+  {
+   "id": "capturado-en-cartago-un-hombre-que-transportaba-un-artefacto-explosivo-otros-elementos",
+   "titulo": "Capturado en Cartago un hombre que transportaba un artefacto explosivo y otros elementos",
+   "lugar": "Cartago",
+   "publicado": "2026-11-11T14:14:55.000Z",
+   "resumen": "El Departamento de Policía Valle, en coordinación con la Seccional de Inteligencia Policial (SIPOL), la Seccional de Investigación Criminal y el…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-cartago-un-hombre-que-transportaba-un-artefacto-explosivo-otros-elementos"
+  },
+  {
+   "id": "policia-recupera-motocicleta-hurtada-en-cali-captura-un-hombre-por-receptacion-en-cerrito",
+   "titulo": "Policía recupera motocicleta hurtada en Cali y captura a un hombre por receptación en El Cerrito",
+   "lugar": "El Cerrito",
+   "publicado": "2026-11-11T14:12:29.000Z",
+   "resumen": "En desarrollo de actividades de prevención y control, uniformados de la Policía Nacional, adscritos a la Estación de Policía El Cerrito,…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-recupera-motocicleta-hurtada-en-cali-captura-un-hombre-por-receptacion-en-cerrito"
+  },
+  {
+   "id": "policia-nacional-captura-111-personas-durante-ofensiva-contra-delito-en-cucuta-su-area",
+   "titulo": "Policía Nacional captura a 111 personas durante ofensiva contra el delito en Cúcuta y su área metropolitana",
+   "lugar": "Cúcuta",
+   "publicado": "2026-11-11T13:42:41.000Z",
+   "resumen": "La Policía Nacional, en el marco de la estrategia “Sin tregua al delito”, activó el primer bloque operacional de seguridad urbana, que dejó como…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-captura-111-personas-durante-ofensiva-contra-delito-en-cucuta-su-area"
+  },
+  {
+   "id": "policia-metropolitana-cucuta-conmemora-135-anos-historia-compromiso-servicio",
+   "titulo": "Policía Metropolitana de Cúcuta conmemora 135 años de historia, compromiso y servicio",
+   "lugar": "Cúcuta",
+   "publicado": "2026-11-11T13:28:38.000Z",
+   "resumen": "Este 5 de noviembre, la Policía Nacional conmemora 135 años de creación, una trayectoria marcada por la historia, la evolución y el servicio al…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-metropolitana-cucuta-conmemora-135-anos-historia-compromiso-servicio"
   },
   {
    "id": "captura-aprehension-por-delito-receptacion",
@@ -20,12 +84,28 @@
    "enlace": "https://www.policia.gov.co/noticia/captura-aprehension-por-delito-receptacion"
   },
   {
+   "id": "policia-recupera-motocicleta-hurtada-captura-un-adulto-en-inirida-guainia",
+   "titulo": "Policía recupera motocicleta hurtada y captura a un adulto en Inírida, Guainía",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T03:34:23.000Z",
+   "resumen": "La Policía Nacional, a través del Modelo del Servicio de Policía Orientado a las Personas y los Territorios, logró la recuperación de una…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-recupera-motocicleta-hurtada-captura-un-adulto-en-inirida-guainia"
+  },
+  {
    "id": "captura-por-trafico-fabricacion-o-portes-estupefacientes",
    "titulo": "captura por trafico fabricación o portes de estupefacientes",
    "lugar": "Inírida",
    "publicado": "2026-11-11T03:20:32.000Z",
    "resumen": "Durante el procedimiento, realizado sobre la vía al sector de El Paujil, fueron incautados aproximadamente 50 gramos de una sustancia que por sus…",
    "enlace": "https://www.policia.gov.co/noticia/captura-por-trafico-fabricacion-o-portes-estupefacientes"
+  },
+  {
+   "id": "capturado-en-flagrancia-un-hombre-por-presunto-trafico-estupefacientes-en-inirida",
+   "titulo": "Capturado en flagrancia un hombre por presunto tráfico de estupefacientes en Inírida",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T03:20:32.000Z",
+   "resumen": "La Policía Nacional, a través de uniformados adscritos a la Estación de Policía Inírida, logró la captura en flagrancia de un ciudadano por el…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-flagrancia-un-hombre-por-presunto-trafico-estupefacientes-en-inirida"
   },
   {
    "id": "captura-por-violacion-habitacion-ajena",
@@ -36,6 +116,14 @@
    "enlace": "https://www.policia.gov.co/noticia/captura-por-violacion-habitacion-ajena"
   },
   {
+   "id": "capturado-en-flagrancia-un-hombre-por-ingresar-sin-autorizacion-una-vivienda-en-inirida",
+   "titulo": "Capturado en flagrancia un hombre por ingresar sin autorización a una vivienda en Inírida",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T03:04:34.000Z",
+   "resumen": "En el marco de las actividades de prevención, vigilancia y control, uniformados de la Estación de Policía Inírida lograron la captura en…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-flagrancia-un-hombre-por-ingresar-sin-autorizacion-una-vivienda-en-inirida"
+  },
+  {
    "id": "captura-en-flagrancia-por-presunto-amenazas",
    "titulo": "captura en flagrancia por el presunto de amenazas",
    "lugar": "Inírida",
@@ -44,12 +132,60 @@
    "enlace": "https://www.policia.gov.co/noticia/captura-en-flagrancia-por-presunto-amenazas"
   },
   {
+   "id": "capturado-en-flagrancia-por-presuntas-amenazas-en-un-establecimiento-comercial-inirida",
+   "titulo": "Capturado en flagrancia por presuntas amenazas en un establecimiento comercial de Inírida",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T02:48:08.000Z",
+   "resumen": "En desarrollo de las actividades de prevención, vigilancia y control, la Policía Nacional, a través de la patrulla de la Zona de Atención, logró…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-flagrancia-por-presuntas-amenazas-en-un-establecimiento-comercial-inirida"
+  },
+  {
    "id": "captura-por-lavado-activos-0",
    "titulo": "captura por lavado de activos",
    "lugar": "Inírida",
    "publicado": "2026-11-11T02:24:30.000Z",
    "resumen": "La Policía Nacional, a través de la Estación de Policía Inírida, logró la captura en flagrancia de un ciudadano por el presunto delito de lavado…",
    "enlace": "https://www.policia.gov.co/noticia/captura-por-lavado-activos-0"
+  },
+  {
+   "id": "capturado-en-inirida-por-presunto-lavado-activos-transportaba-mas-183-millones-en-efectivo",
+   "titulo": "Capturado en Inírida por presunto lavado de activos; transportaba más de $183 millones en efectivo",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T02:24:30.000Z",
+   "resumen": "La Policía Nacional, a través de la Estación de Policía Inírida, logró la captura en flagrancia de un ciudadano por el presunto delito de lavado…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-inirida-por-presunto-lavado-activos-transportaba-mas-183-millones-en-efectivo"
+  },
+  {
+   "id": "policia-fortalece-los-controles-seguridad-en-sector-castellana-en-monteria",
+   "titulo": "Policía fortalece los controles de seguridad en el sector de La Castellana, en Montería",
+   "lugar": "Montería",
+   "publicado": "2026-11-11T01:50:20.000Z",
+   "resumen": "La Policía Nacional, a través de la Policía Metropolitana de San Jerónimo de Montería, continúa desarrollando estrategias de prevención y control…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-fortalece-los-controles-seguridad-en-sector-castellana-en-monteria"
+  },
+  {
+   "id": "policia-fortalece-prevencion-del-hurto-mediante-jornadas-comunitarias-en-cienaga-oro",
+   "titulo": "Policía fortalece la prevención del hurto mediante jornadas comunitarias en Ciénaga de Oro",
+   "lugar": "Montería",
+   "publicado": "2026-11-11T01:43:35.000Z",
+   "resumen": "La Policía Nacional, a través del Grupo de Policía Comunitaria y bajo el liderazgo del señor subcomisario Wilson Rojas, comandante de la Estación…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-fortalece-prevencion-del-hurto-mediante-jornadas-comunitarias-en-cienaga-oro"
+  },
+  {
+   "id": "policia-fortalece-los-controles-seguridad-en-centro-monteria",
+   "titulo": "Policía fortalece los controles de seguridad en el centro de Montería",
+   "lugar": "Montería",
+   "publicado": "2026-11-11T01:38:17.000Z",
+   "resumen": "En desarrollo de las estrategias institucionales para fortalecer la convivencia y la seguridad ciudadana, la Policía Nacional, bajo el liderazgo…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-fortalece-los-controles-seguridad-en-centro-monteria"
+  },
+  {
+   "id": "autoridades-incautan-23-metros-cubicos-madera-elementos-utilizados-para-su-presunto",
+   "titulo": "Autoridades incautan 2,3 metros cúbicos de madera y elementos utilizados para su presunto aprovechamiento ilícito en Guainía",
+   "lugar": "Inírida",
+   "publicado": "2026-11-11T01:05:24.000Z",
+   "resumen": "La Policía Nacional, en coordinación con la Armada Nacional y el Ejército Nacional, adelantó un procedimiento de registro y control en el…",
+   "enlace": "https://www.policia.gov.co/noticia/autoridades-incautan-23-metros-cubicos-madera-elementos-utilizados-para-su-presunto"
   },
   {
    "id": "procedimiento-control-que-permitio-hallazgo-23-m3-madera",
@@ -106,142 +242,6 @@
    "publicado": "2026-11-10T15:13:11.000Z",
    "resumen": "La Policía Nacional participó en una sesión plenaria de la Asamblea Departamental de Córdoba, en la que presentó los avances, estrategias y…",
    "enlace": "https://www.policia.gov.co/noticia/policia-nacional-presento-ante-asamblea-cordoba-resultados-estrategias-en-materia-seguridad"
-  },
-  {
-   "id": "plan-candado-permitio-capturar-alias-miqui-cuando-intentaba-evadir-un-control-policial-en",
-   "titulo": "Plan candado permitió capturar a alias ‘Miqui’ cuando intentaba evadir un control policial en Belalcázar",
-   "lugar": "Belalcázar",
-   "publicado": "2026-11-10T14:08:16.000Z",
-   "resumen": "En desarrollo de actividades de prevención, vigilancia y control, la Policía Nacional logró la captura de un hombre de 27 años, conocido con el…",
-   "enlace": "https://www.policia.gov.co/noticia/plan-candado-permitio-capturar-alias-miqui-cuando-intentaba-evadir-un-control-policial-en"
-  },
-  {
-   "id": "13-personas-capturadas-durante-operativos-seguridad-en-manizales-villamaria",
-   "titulo": "13 personas capturadas durante operativos de seguridad en Manizales y Villamaría",
-   "lugar": "Manizales",
-   "publicado": "2026-11-10T13:31:10.000Z",
-   "resumen": "En coordinación con la Alcaldía de Manizales y las autoridades locales, la Policía Nacional desplegó durante el fin de semana diferentes acciones…",
-   "enlace": "https://www.policia.gov.co/noticia/13-personas-capturadas-durante-operativos-seguridad-en-manizales-villamaria"
-  },
-  {
-   "id": "policia-incauto-dos-loros-silvestres-que-eran-transportados-en-un-bus-servicio-publico-en",
-   "titulo": "Policía incautó dos loros silvestres que eran transportados en un bus de servicio público en Pelaya, Cesar",
-   "lugar": "Cesar",
-   "publicado": "2026-11-09T23:45:25.000Z",
-   "resumen": "En desarrollo de actividades de prevención y control vial, la Policía Nacional incautó dos ejemplares de fauna silvestre que eran transportados en…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-incauto-dos-loros-silvestres-que-eran-transportados-en-un-bus-servicio-publico-en"
-  },
-  {
-   "id": "policia-recupero-11-celulares-una-consola-videojuegos-hurtados-en-curumani-cesar",
-   "titulo": "Policía recuperó 11 celulares y una consola de videojuegos hurtados en Curumaní, Cesar",
-   "lugar": "Curumaní",
-   "publicado": "2026-11-09T23:30:16.000Z",
-   "resumen": "En una rápida reacción, la Policía Nacional logró recuperar 11 teléfonos celulares y una consola de videojuegos PlayStation 4, elementos que…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-recupero-11-celulares-una-consola-videojuegos-hurtados-en-curumani-cesar"
-  },
-  {
-   "id": "capturado-en-san-martin-cesar-hombre-requerido-por-homicidio-agravado-porte-ilegal-armas",
-   "titulo": "Capturado en San Martín, Cesar, hombre requerido por homicidio agravado y porte ilegal de armas",
-   "lugar": "San Martín",
-   "publicado": "2026-11-09T23:02:47.000Z",
-   "resumen": "En desarrollo de actividades de prevención, registro y control, la Policía Nacional capturó mediante orden judicial a un hombre de 35 años,…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-san-martin-cesar-hombre-requerido-por-homicidio-agravado-porte-ilegal-armas"
-  },
-  {
-   "id": "policia-le-cierra-paso-extorsion-desde-las-carceles-allanamiento-en-dorada-permite-incautar",
-   "titulo": "La Policía le cierra el paso a la extorsión desde las cárceles: allanamiento en la dorada permite incautar 22 celulares",
-   "lugar": "La Dorada",
-   "publicado": "2026-11-09T19:33:38.000Z",
-   "resumen": "En desarrollo de una ofensiva contra la extorsión y las actividades criminales que se estarían direccionando desde centros de reclusión, el Grupo…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-le-cierra-paso-extorsion-desde-las-carceles-allanamiento-en-dorada-permite-incautar"
-  },
-  {
-   "id": "desarticulada-estructura-criminal-los-del-oriente-senalada-distribuir-estupefacientes-en",
-   "titulo": "Desarticulada la estructura criminal ‘Los del Oriente’, señalada de distribuir estupefacientes en Pensilvania, Caldas",
-   "lugar": "Chinchiná",
-   "publicado": "2026-11-09T19:26:00.000Z",
-   "resumen": "La Policía Nacional, en el departamento de Caldas, a través de la Seccional de Investigación Criminal (SIJIN) y en coordinación con la Fiscalía 20…",
-   "enlace": "https://www.policia.gov.co/noticia/desarticulada-estructura-criminal-los-del-oriente-senalada-distribuir-estupefacientes-en"
-  },
-  {
-   "id": "policia-incauto-520-kilos-marihuana-en-chinchina-caldas",
-   "titulo": "Policía incautó 520 kilos de marihuana en Chinchiná, Caldas",
-   "lugar": "Chinchiná",
-   "publicado": "2026-11-09T19:13:03.000Z",
-   "resumen": "En desarrollo de las estrategias institucionales contra el tráfico de estupefacientes, la Policía Nacional, en el departamento de Caldas, incautó…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-incauto-520-kilos-marihuana-en-chinchina-caldas"
-  },
-  {
-   "id": "policia-comunidad-sembraron-500-arboles-para-proteger-una-fuente-hidrica-en-buesaco-narino",
-   "titulo": "Policía y comunidad sembraron 500 árboles para proteger una fuente hídrica en Buesaco, Nariño",
-   "lugar": "Buesaco",
-   "publicado": "2026-11-09T16:24:34.000Z",
-   "resumen": "La protección de los recursos naturales comienza con acciones conjuntas.",
-   "enlace": "https://www.policia.gov.co/noticia/policia-comunidad-sembraron-500-arboles-para-proteger-una-fuente-hidrica-en-buesaco-narino"
-  },
-  {
-   "id": "incautados-21-paquetes-presunta-marihuana-en-entre-pradera-florida-valle-del-cauca",
-   "titulo": "Incautados 21 paquetes de presunta marihuana en vía entre Pradera y Florida, Valle del Cauca",
-   "lugar": "Pradera",
-   "publicado": "2026-11-09T15:45:33.000Z",
-   "resumen": "En desarrollo de actividades de registro y control sobre la vía que comunica a los municipios de Pradera y Florida, uniformados de la Policía…",
-   "enlace": "https://www.policia.gov.co/noticia/incautados-21-paquetes-presunta-marihuana-en-entre-pradera-florida-valle-del-cauca"
-  },
-  {
-   "id": "policia-nacional-propina-contundente-golpe-al-gdco-rastrojos-con-capturas-e-incautacion",
-   "titulo": "Policía Nacional propina contundente golpe al GDCO “Rastrojos” con capturas e incautación de armamento y drogas en el Valle del Cauca",
-   "lugar": "Valle del Cauca",
-   "publicado": "2026-11-09T15:43:27.000Z",
-   "resumen": "En el marco de la ofensiva permanente contra los grupos de delincuencia organizada que afectan la seguridad y la convivencia ciudadana en el norte…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-propina-contundente-golpe-al-gdco-rastrojos-con-capturas-e-incautacion"
-  },
-  {
-   "id": "capturado-en-puerto-gaitan-por-tentativa-feminicidio-agravado",
-   "titulo": "Capturado en Puerto Gaitán por tentativa de feminicidio agravado",
-   "lugar": "Puerto Gaitán",
-   "publicado": "2026-11-09T15:42:39.000Z",
-   "resumen": "En desarrollo de la dimensión “Nuestro Servicio de Policía” y del lineamiento “Seguridad Territorial y Focalización”, la Policía Nacional, a…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-puerto-gaitan-por-tentativa-feminicidio-agravado"
-  },
-  {
-   "id": "capturado-en-zona-rural-sevilla-por-porte-ilegal-armas-trafico-estupefacientes",
-   "titulo": "Capturado en zona rural de Sevilla por porte ilegal de armas y tráfico de estupefacientes",
-   "lugar": "Sevilla",
-   "publicado": "2026-11-09T15:40:48.000Z",
-   "resumen": "En una operación conjunta entre la Policía Nacional y el Ejército Nacional, fue capturado un hombre en la vereda El Vallano, corregimiento de…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-zona-rural-sevilla-por-porte-ilegal-armas-trafico-estupefacientes"
-  },
-  {
-   "id": "capturado-alias-cachama-senalado-cabecilla-del-grupo-delincuencial-inmaculada-en-tulua",
-   "titulo": "Capturado alias ‘Cachama’, señalado cabecilla del grupo delincuencial ‘La Inmaculada’ en Tuluá",
-   "lugar": "Tuluá",
-   "publicado": "2026-11-09T15:35:03.000Z",
-   "resumen": "El Departamento de Policía Valle, a través del GAULA y en coordinación con la Seccional de Inteligencia Policial (SIPOL), logró la captura por…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-alias-cachama-senalado-cabecilla-del-grupo-delincuencial-inmaculada-en-tulua"
-  },
-  {
-   "id": "capturados-cinco-presuntos-integrantes-del-grupo-delincuencial-nueva-generacion-en",
-   "titulo": "Capturados cinco presuntos integrantes del grupo delincuencial ‘La Nueva Generación’ en Ansermanuevo",
-   "lugar": "Ansermanuevo",
-   "publicado": "2026-11-09T15:31:58.000Z",
-   "resumen": "En desarrollo de la estrategia institucional ‘Un Valle firme, que se une seguro’, unidades de la Seccional de Investigación Criminal (SIJIN) del…",
-   "enlace": "https://www.policia.gov.co/noticia/capturados-cinco-presuntos-integrantes-del-grupo-delincuencial-nueva-generacion-en"
-  },
-  {
-   "id": "escuela-policia-simon-bolivar-recibio-visita-pares-academicos-del-consejo-nacional",
-   "titulo": "Escuela de Policía Simón Bolívar recibió visita de pares académicos del Consejo Nacional de Acreditación",
-   "lugar": "Tuluá",
-   "publicado": "2026-11-09T14:31:07.000Z",
-   "resumen": "En el marco del compromiso institucional con la excelencia académica y la formación integral, la Escuela de Policía Simón Bolívar recibió la…",
-   "enlace": "https://www.policia.gov.co/noticia/escuela-policia-simon-bolivar-recibio-visita-pares-academicos-del-consejo-nacional"
-  },
-  {
-   "id": "mas-894-policias-region-no-3-ascendieron-en-una-ceremonia-que-exalto-su-vocacion-compromiso",
-   "titulo": "Más de 894 policías de la Región N.º 3 ascendieron en una ceremonia que exaltó su vocación y compromiso institucional",
-   "lugar": "Manizales",
-   "publicado": "2026-11-09T14:17:09.000Z",
-   "resumen": "Un nuevo grado se recibe en un instante, pero llegar hasta él toma años.",
-   "enlace": "https://www.policia.gov.co/noticia/mas-894-policias-region-no-3-ascendieron-en-una-ceremonia-que-exalto-su-vocacion-compromiso"
   }
  ]
 }
