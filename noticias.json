@@ -1,8 +1,152 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-12T18:59:31.321149Z",
+ "descargado": "2026-11-13T18:35:35.599529Z",
  "noticias": [
+  {
+   "id": "cuatro-capturados-cuatro-armas-incautadas-durante-operativo-conjunto-en-quibdo",
+   "titulo": "Cuatro capturados y cuatro armas incautadas durante operativo conjunto en Quibdó",
+   "lugar": "Quibdó",
+   "publicado": "2026-11-13T15:33:25.000Z",
+   "resumen": "En desarrollo de una operación conjunta entre la Policía Nacional y el Ejército Nacional, fueron capturados cuatro presuntos integrantes de la…",
+   "enlace": "https://www.policia.gov.co/noticia/cuatro-capturados-cuatro-armas-incautadas-durante-operativo-conjunto-en-quibdo"
+  },
+  {
+   "id": "siete-presuntos-integrantes-los-mexicanos-fueron-capturados-durante-operacion-contra",
+   "titulo": "Siete presuntos integrantes de ‘Los Mexicanos’ fueron capturados durante operación contra la extorsión en Quibdó",
+   "lugar": "Quibdó",
+   "publicado": "2026-11-13T15:25:48.000Z",
+   "resumen": "En desarrollo de la operación ‘Ópalo’, la Policía Nacional logró la captura de siete personas que presuntamente harían parte de la estructura…",
+   "enlace": "https://www.policia.gov.co/noticia/siete-presuntos-integrantes-los-mexicanos-fueron-capturados-durante-operacion-contra"
+  },
+  {
+   "id": "capturado-en-istmina-por-presunta-violencia-intrafamiliar-agravada-lesiones-al-feto",
+   "titulo": "Capturado en Istmina por presunta violencia intrafamiliar agravada y lesiones al feto",
+   "lugar": "Istmina",
+   "publicado": "2026-11-13T13:06:10.000Z",
+   "resumen": "En desarrollo de la Estrategia contra la Violencia de Género y la Violencia Intrafamiliar, unidades de la Policía Nacional, adscritas a la Unidad…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-istmina-por-presunta-violencia-intrafamiliar-agravada-lesiones-al-feto"
+  },
+  {
+   "id": "desarticulado-grupo-delincuencial-los-nocturnos-senalado-cometer-secuestros-extorsivos",
+   "titulo": "Desarticulado el grupo delincuencial ‘Los Nocturnos’, señalado de cometer secuestros extorsivos mediante la modalidad de paseo millonario en Bogotá",
+   "lugar": "Bogotá",
+   "publicado": "2026-11-13T13:00:00.000Z",
+   "resumen": "En desarrollo de la operación Kratos, la Policía Nacional, a través del Grupo de Acción Unificada por la Libertad Personal (GAULA) y en…",
+   "enlace": "https://www.policia.gov.co/noticia/desarticulado-grupo-delincuencial-los-nocturnos-senalado-cometer-secuestros-extorsivos"
+  },
+  {
+   "id": "capturado-en-ibague-alias-samuel-senalado-cometer-hurtos-mediante-modalidad-cochero",
+   "titulo": "Capturado en Ibagué alias ‘Samuel’, señalado de cometer hurtos mediante la modalidad de ‘cochero’",
+   "lugar": "Ibagué",
+   "publicado": "2026-11-13T05:49:39.000Z",
+   "resumen": "En desarrollo de las acciones investigativas contra los delitos que afectan la seguridad ciudadana, uniformados de la Seccional de Investigación…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-ibague-alias-samuel-senalado-cometer-hurtos-mediante-modalidad-cochero"
+  },
+  {
+   "id": "89-personas-capturadas-durante-operacion-ocobos-patria-en-ibague",
+   "titulo": "89 personas capturadas durante la operación ‘Ocobos de la Patria’ en Ibagué",
+   "lugar": "Ibagué",
+   "publicado": "2026-11-13T05:09:25.000Z",
+   "resumen": "En el marco de la activación del primer Bloque Operativo de Seguridad Urbana y bajo los lineamientos de la Política de Seguridad de la Presidencia…",
+   "enlace": "https://www.policia.gov.co/noticia/89-personas-capturadas-durante-operacion-ocobos-patria-en-ibague"
+  },
+  {
+   "id": "videovigilancia-permitio-capturar-un-hombre-requerido-por-trafico-estupefacientes-en",
+   "titulo": "Videovigilancia permitió capturar a un hombre requerido por tráfico de estupefacientes en Manizales",
+   "lugar": "Manizales",
+   "publicado": "2026-11-12T22:42:28.000Z",
+   "resumen": "El sistema de videovigilancia de Manizales volvió a demostrar su efectividad como herramienta de apoyo a la seguridad ciudadana.",
+   "enlace": "https://www.policia.gov.co/noticia/videovigilancia-permitio-capturar-un-hombre-requerido-por-trafico-estupefacientes-en"
+  },
+  {
+   "id": "policia-captura-hombre-con-arma-traumatica-modificada-en-villamaria",
+   "titulo": "Policía captura a hombre con arma traumática modificada en Villamaría",
+   "lugar": "Manizales",
+   "publicado": "2026-11-12T21:43:31.000Z",
+   "resumen": "En desarrollo de las acciones contra el multicrimen y el delito, la Policía Nacional capturó en flagrancia a un hombre de 21 años, conocido con el…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-captura-hombre-con-arma-traumatica-modificada-en-villamaria"
+  },
+  {
+   "id": "capturado-alias-costeno-por-presunto-homicidio-en-armenia",
+   "titulo": "Capturado alias ‘El Costeño’ por presunto homicidio en Armenia",
+   "lugar": "Armenia",
+   "publicado": "2026-11-12T20:49:05.000Z",
+   "resumen": "La Policía Nacional, en desarrollo de actividades de vigilancia y control, logró la captura en flagrancia de un hombre conocido con el alias de ‘…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-alias-costeno-por-presunto-homicidio-en-armenia"
+  },
+  {
+   "id": "en-caldas-no-hay-escondite-para-quienes-pretenden-evadir-justicia",
+   "titulo": "En Caldas no hay escondite para quienes pretenden evadir la justicia",
+   "lugar": "Caldas",
+   "publicado": "2026-11-12T16:48:30.000Z",
+   "resumen": "La Policía Nacional, a través de las patrullas de las zonas de atención del municipio de Neira, logró la captura de dos hombres, de 37 y 40 años,…",
+   "enlace": "https://www.policia.gov.co/noticia/en-caldas-no-hay-escondite-para-quienes-pretenden-evadir-justicia"
+  },
+  {
+   "id": "policia-recupero-motocicleta-reportada-como-hurtada-en-neiva",
+   "titulo": "Policía recuperó motocicleta reportada como hurtada en Neiva",
+   "lugar": "Neiva",
+   "publicado": "2026-11-12T13:15:40.000Z",
+   "resumen": "En desarrollo de las actividades de vigilancia y control, la Policía Nacional recuperó una motocicleta que había sido reportada como hurtada, en…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-recupero-motocicleta-reportada-como-hurtada-en-neiva"
+  },
+  {
+   "id": "capturada-alias-anita-por-su-presunta-participacion-en-hurtos-mediante-suministro",
+   "titulo": "Capturada alias “Anita” por su presunta participación en hurtos mediante el suministro de sustancias a sus víctimas",
+   "lugar": "Montería",
+   "publicado": "2026-11-12T00:56:46.000Z",
+   "resumen": "En desarrollo de las acciones investigativas contra los delitos que afectan el patrimonio económico, la Policía Nacional capturó por orden…",
+   "enlace": "https://www.policia.gov.co/noticia/capturada-alias-anita-por-su-presunta-participacion-en-hurtos-mediante-suministro"
+  },
+  {
+   "id": "policia-secretaria-transito-promueven-seguridad-vial-en-monteria",
+   "titulo": "Policía y Secretaría de Tránsito promueven la seguridad vial en Montería",
+   "lugar": "Montería",
+   "publicado": "2026-11-12T00:46:01.000Z",
+   "resumen": "Con el propósito de proteger la vida y prevenir siniestros viales, la Policía Nacional, a través de la Seccional de Tránsito y Transporte, en…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-secretaria-transito-promueven-seguridad-vial-en-monteria"
+  },
+  {
+   "id": "policia-autoridades-fortalecen-estrategias-seguridad-en-monteria-mediante-mesa-tecnica",
+   "titulo": "Policía y autoridades fortalecen estrategias de seguridad en Montería mediante mesa técnica de seguimiento",
+   "lugar": "Montería",
+   "publicado": "2026-11-12T00:33:05.000Z",
+   "resumen": "La Policía Nacional, a través de la Policía Metropolitana San Jerónimo de Montería, realizó la Mesa Técnica para el Seguimiento de Indicadores y…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-autoridades-fortalecen-estrategias-seguridad-en-monteria-mediante-mesa-tecnica"
+  },
+  {
+   "id": "san-jose-fortalece-su-seguridad-con-13-nuevas-camaras-videovigilancia-alta-tecnologia",
+   "titulo": "San José fortalece su seguridad con 13 nuevas cámaras de videovigilancia de alta tecnología",
+   "lugar": "San José",
+   "publicado": "2026-11-11T23:10:09.000Z",
+   "resumen": "La Policía Nacional recibió 13 nuevas cámaras de videovigilancia destinadas a fortalecer la seguridad y la convivencia ciudadana en el municipio…",
+   "enlace": "https://www.policia.gov.co/noticia/san-jose-fortalece-su-seguridad-con-13-nuevas-camaras-videovigilancia-alta-tecnologia"
+  },
+  {
+   "id": "gobernacion-del-caqueta-entrega-dotacion-por-mas-102-millones-para-bienestar-los-policias",
+   "titulo": "Gobernación del Caquetá entrega dotación por más de $102 millones para el bienestar de los policías",
+   "lugar": "Florencia",
+   "publicado": "2026-11-11T22:54:11.000Z",
+   "resumen": "En un trabajo articulado con la Policía Nacional, la Gobernación del Caquetá realizó la entrega a título gratuito de 240 elementos de intendencia…",
+   "enlace": "https://www.policia.gov.co/noticia/gobernacion-del-caqueta-entrega-dotacion-por-mas-102-millones-para-bienestar-los-policias"
+  },
+  {
+   "id": "desarticulada-estructura-delincuencial-los-artesanos-en-santa-rosa-cabal",
+   "titulo": "Desarticulada la estructura delincuencial ‘Los Artesanos’ en Santa Rosa de Cabal",
+   "lugar": "Santa Rosa de Cabal",
+   "publicado": "2026-11-11T22:06:40.000Z",
+   "resumen": "En el marco de las acciones contra el tráfico de estupefacientes, la Policía Nacional, en coordinación con la Fiscalía General de la Nación,…",
+   "enlace": "https://www.policia.gov.co/noticia/desarticulada-estructura-delincuencial-los-artesanos-en-santa-rosa-cabal"
+  },
+  {
+   "id": "policia-fortalece-seguridad-viajeros-en-terminal-transportes-monteria",
+   "titulo": "Policía fortalece la seguridad de viajeros en la Terminal de Transportes de Montería",
+   "lugar": "Montería",
+   "publicado": "2026-11-11T20:22:00.000Z",
+   "resumen": "La Policía Nacional, a través del Grupo de Protección al Turismo y Patrimonio Nacional de la Policía Metropolitana San Jerónimo de Montería,…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-fortalece-seguridad-viajeros-en-terminal-transportes-monteria"
+  },
   {
    "id": "31-jovenes-se-graduan-como-guardianes-del-turismo-patrimonio-nacional-en-manizales",
    "titulo": "31 jóvenes se gradúan como Guardianes del Turismo y Patrimonio Nacional en Manizales",
@@ -98,150 +242,6 @@
    "publicado": "2026-11-11T03:20:32.000Z",
    "resumen": "Durante el procedimiento, realizado sobre la vía al sector de El Paujil, fueron incautados aproximadamente 50 gramos de una sustancia que por sus…",
    "enlace": "https://www.policia.gov.co/noticia/captura-por-trafico-fabricacion-o-portes-estupefacientes"
-  },
-  {
-   "id": "capturado-en-flagrancia-un-hombre-por-presunto-trafico-estupefacientes-en-inirida",
-   "titulo": "Capturado en flagrancia un hombre por presunto tráfico de estupefacientes en Inírida",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T03:20:32.000Z",
-   "resumen": "La Policía Nacional, a través de uniformados adscritos a la Estación de Policía Inírida, logró la captura en flagrancia de un ciudadano por el…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-flagrancia-un-hombre-por-presunto-trafico-estupefacientes-en-inirida"
-  },
-  {
-   "id": "captura-por-violacion-habitacion-ajena",
-   "titulo": "captura por violacion a habitacion ajena",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T03:04:34.000Z",
-   "resumen": "El procedimiento policial se desarrolló en el barrio Primavera 2, luego de que la comunidad alertara sobre el ingreso no autorizado de una persona…",
-   "enlace": "https://www.policia.gov.co/noticia/captura-por-violacion-habitacion-ajena"
-  },
-  {
-   "id": "capturado-en-flagrancia-un-hombre-por-ingresar-sin-autorizacion-una-vivienda-en-inirida",
-   "titulo": "Capturado en flagrancia un hombre por ingresar sin autorización a una vivienda en Inírida",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T03:04:34.000Z",
-   "resumen": "En el marco de las actividades de prevención, vigilancia y control, uniformados de la Estación de Policía Inírida lograron la captura en…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-flagrancia-un-hombre-por-ingresar-sin-autorizacion-una-vivienda-en-inirida"
-  },
-  {
-   "id": "captura-en-flagrancia-por-presunto-amenazas",
-   "titulo": "captura en flagrancia por el presunto de amenazas",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T02:48:08.000Z",
-   "resumen": "El procedimiento se llevó a cabo en un establecimiento comercial ubicado en la zona céntrica de la capital del Guainía, donde fue incautada un…",
-   "enlace": "https://www.policia.gov.co/noticia/captura-en-flagrancia-por-presunto-amenazas"
-  },
-  {
-   "id": "capturado-en-flagrancia-por-presuntas-amenazas-en-un-establecimiento-comercial-inirida",
-   "titulo": "Capturado en flagrancia por presuntas amenazas en un establecimiento comercial de Inírida",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T02:48:08.000Z",
-   "resumen": "En desarrollo de las actividades de prevención, vigilancia y control, la Policía Nacional, a través de la patrulla de la Zona de Atención, logró…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-flagrancia-por-presuntas-amenazas-en-un-establecimiento-comercial-inirida"
-  },
-  {
-   "id": "captura-por-lavado-activos-0",
-   "titulo": "captura por lavado de activos",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T02:24:30.000Z",
-   "resumen": "La Policía Nacional, a través de la Estación de Policía Inírida, logró la captura en flagrancia de un ciudadano por el presunto delito de lavado…",
-   "enlace": "https://www.policia.gov.co/noticia/captura-por-lavado-activos-0"
-  },
-  {
-   "id": "capturado-en-inirida-por-presunto-lavado-activos-transportaba-mas-183-millones-en-efectivo",
-   "titulo": "Capturado en Inírida por presunto lavado de activos; transportaba más de $183 millones en efectivo",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T02:24:30.000Z",
-   "resumen": "La Policía Nacional, a través de la Estación de Policía Inírida, logró la captura en flagrancia de un ciudadano por el presunto delito de lavado…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-inirida-por-presunto-lavado-activos-transportaba-mas-183-millones-en-efectivo"
-  },
-  {
-   "id": "policia-fortalece-los-controles-seguridad-en-sector-castellana-en-monteria",
-   "titulo": "Policía fortalece los controles de seguridad en el sector de La Castellana, en Montería",
-   "lugar": "Montería",
-   "publicado": "2026-11-11T01:50:20.000Z",
-   "resumen": "La Policía Nacional, a través de la Policía Metropolitana de San Jerónimo de Montería, continúa desarrollando estrategias de prevención y control…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-fortalece-los-controles-seguridad-en-sector-castellana-en-monteria"
-  },
-  {
-   "id": "policia-fortalece-prevencion-del-hurto-mediante-jornadas-comunitarias-en-cienaga-oro",
-   "titulo": "Policía fortalece la prevención del hurto mediante jornadas comunitarias en Ciénaga de Oro",
-   "lugar": "Montería",
-   "publicado": "2026-11-11T01:43:35.000Z",
-   "resumen": "La Policía Nacional, a través del Grupo de Policía Comunitaria y bajo el liderazgo del señor subcomisario Wilson Rojas, comandante de la Estación…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-fortalece-prevencion-del-hurto-mediante-jornadas-comunitarias-en-cienaga-oro"
-  },
-  {
-   "id": "policia-fortalece-los-controles-seguridad-en-centro-monteria",
-   "titulo": "Policía fortalece los controles de seguridad en el centro de Montería",
-   "lugar": "Montería",
-   "publicado": "2026-11-11T01:38:17.000Z",
-   "resumen": "En desarrollo de las estrategias institucionales para fortalecer la convivencia y la seguridad ciudadana, la Policía Nacional, bajo el liderazgo…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-fortalece-los-controles-seguridad-en-centro-monteria"
-  },
-  {
-   "id": "autoridades-incautan-23-metros-cubicos-madera-elementos-utilizados-para-su-presunto",
-   "titulo": "Autoridades incautan 2,3 metros cúbicos de madera y elementos utilizados para su presunto aprovechamiento ilícito en Guainía",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T01:05:24.000Z",
-   "resumen": "La Policía Nacional, en coordinación con la Armada Nacional y el Ejército Nacional, adelantó un procedimiento de registro y control en el…",
-   "enlace": "https://www.policia.gov.co/noticia/autoridades-incautan-23-metros-cubicos-madera-elementos-utilizados-para-su-presunto"
-  },
-  {
-   "id": "procedimiento-control-que-permitio-hallazgo-23-m3-madera",
-   "titulo": "procedimiento de control que permitió el hallazgo de 2,3 m³ de madera",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T01:05:24.000Z",
-   "resumen": "En un procedimiento de control realizado de manera articulada entre la Policía Nacional, la Armada Nacional y el Ejército Nacional, también fueron…",
-   "enlace": "https://www.policia.gov.co/noticia/procedimiento-control-que-permitio-hallazgo-23-m3-madera"
-  },
-  {
-   "id": "captura-en-flagrancia-por-trafico-fabricacion-o-porte-estupefacientes-2",
-   "titulo": "captura en flagrancia por trafico, fabricación o porte de estupefacientes",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T00:51:34.000Z",
-   "resumen": "El procedimiento se realizó en el barrio El Berlín, mediante actividades de registro y control adelantadas en coordinación con la Armada Nacional…",
-   "enlace": "https://www.policia.gov.co/noticia/captura-en-flagrancia-por-trafico-fabricacion-o-porte-estupefacientes-2"
-  },
-  {
-   "id": "captura-por-delito-extorsion",
-   "titulo": "captura por el delito de extorsión",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T00:26:24.000Z",
-   "resumen": "La oportuna denuncia de una ciudadana y las labores investigativas adelantadas por la SIJIN permitieron materializar el procedimiento policial.",
-   "enlace": "https://www.policia.gov.co/noticia/captura-por-delito-extorsion"
-  },
-  {
-   "id": "captura-por-violacion-contra-servidor-publico",
-   "titulo": "captura por violación contra servidor publico",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T00:07:18.000Z",
-   "resumen": "La Policía Nacional, a través de los uniformados adscritos al Departamento de Policía Guainía, logró la captura en flagrancia de un ciudadano por…",
-   "enlace": "https://www.policia.gov.co/noticia/captura-por-violacion-contra-servidor-publico"
-  },
-  {
-   "id": "captura-por-delito-hurto",
-   "titulo": "captura por el delito de hurto",
-   "lugar": "Inírida",
-   "publicado": "2026-11-10T20:10:17.000Z",
-   "resumen": "La oportuna información suministrada por la comunidad permitió la rápida reacción de los uniformados, logrando la captura del presunto responsable…",
-   "enlace": "https://www.policia.gov.co/noticia/captura-por-delito-hurto"
-  },
-  {
-   "id": "camaras-videovigilancia-permitieron-captura-un-hombre-requerido-por-trafico-estupefacientes",
-   "titulo": "Cámaras de videovigilancia permitieron la captura de un hombre requerido por tráfico de estupefacientes en Manizales",
-   "lugar": "Manizales",
-   "publicado": "2026-11-10T15:51:59.000Z",
-   "resumen": "En el marco de las acciones contra el multicrimen y el delito, la Policía Nacional, en articulación con la Alcaldía de Manizales, logró la captura…",
-   "enlace": "https://www.policia.gov.co/noticia/camaras-videovigilancia-permitieron-captura-un-hombre-requerido-por-trafico-estupefacientes"
-  },
-  {
-   "id": "policia-nacional-presento-ante-asamblea-cordoba-resultados-estrategias-en-materia-seguridad",
-   "titulo": "Policía Nacional presentó ante la Asamblea de Córdoba resultados y estrategias en materia de seguridad",
-   "lugar": "Montería",
-   "publicado": "2026-11-10T15:13:11.000Z",
-   "resumen": "La Policía Nacional participó en una sesión plenaria de la Asamblea Departamental de Córdoba, en la que presentó los avances, estrategias y…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-presento-ante-asamblea-cordoba-resultados-estrategias-en-materia-seguridad"
   }
  ]
 }
