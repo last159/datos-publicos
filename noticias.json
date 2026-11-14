@@ -1,8 +1,64 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-13T18:35:35.599529Z",
+ "descargado": "2026-11-14T17:13:38.705077Z",
  "noticias": [
+  {
+   "id": "policia-nacional-despliega-dispositivos-seguridad-vial-en-atlantico-durante-puente-festivo",
+   "titulo": "Policía Nacional despliega dispositivos de seguridad vial en el Atlántico durante el puente festivo",
+   "lugar": "Baranoa",
+   "publicado": "2026-11-13T20:04:13.000Z",
+   "resumen": "La Policía Nacional, a través de la Seccional de Tránsito y Transporte del Atlántico, dispuso de su personal profesional en cinco áreas de…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-despliega-dispositivos-seguridad-vial-en-atlantico-durante-puente-festivo"
+  },
+  {
+   "id": "policia-nacional-rescato-libero-una-zarigueya-en-ipiales-gracias-colaboracion-ciudadana",
+   "titulo": "La Policía Nacional rescató y liberó una zarigüeya en Ipiales gracias a la colaboración ciudadana",
+   "lugar": "Ipiales",
+   "publicado": "2026-11-13T19:34:34.000Z",
+   "resumen": "En desarrollo de actividades de protección del capital natural, la Policía Nacional, a través de la Seccional de Carabineros y Protección…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-rescato-libero-una-zarigueya-en-ipiales-gracias-colaboracion-ciudadana"
+  },
+  {
+   "id": "seis-personas-capturadas-con-armas-fuego-estupefacientes-en-mistrato-risaralda",
+   "titulo": "Seis personas capturadas con armas de fuego y estupefacientes en Mistrató, Risaralda",
+   "lugar": "Mistrató",
+   "publicado": "2026-11-13T16:58:04.000Z",
+   "resumen": "En desarrollo de las acciones operativas contra el delito, la Policía Nacional, a través del Grupo de Operaciones Especiales (GOES), logró la…",
+   "enlace": "https://www.policia.gov.co/noticia/seis-personas-capturadas-con-armas-fuego-estupefacientes-en-mistrato-risaralda"
+  },
+  {
+   "id": "dos-personas-capturadas-por-presunto-homicidio-en-san-andres",
+   "titulo": "Dos personas capturadas por presunto homicidio en San Andrés",
+   "lugar": "Archipiélago de San Andrés",
+   "publicado": "2026-11-13T16:48:09.000Z",
+   "resumen": "La Policía Nacional, en coordinación con la Armada de Colombia, el Ejército Nacional y el Cuerpo Técnico de Investigación (CTI) de la Fiscalía…",
+   "enlace": "https://www.policia.gov.co/noticia/dos-personas-capturadas-por-presunto-homicidio-en-san-andres"
+  },
+  {
+   "id": "policia-nacional-participa-en-ii-jornada-derecho-publico-2026-en-monteria",
+   "titulo": "Policía Nacional participa en la II Jornada de Derecho Público 2026 en Montería",
+   "lugar": "Montería",
+   "publicado": "2026-11-13T16:44:10.000Z",
+   "resumen": "Con la participación de juristas, académicos, funcionarios públicos, integrantes de la Fuerza Pública y operadores judiciales, se llevó a cabo la…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-participa-en-ii-jornada-derecho-publico-2026-en-monteria"
+  },
+  {
+   "id": "capturado-presunto-jefe-sicarios-del-clan-del-golfo-en-zona-rural-cerete-cordoba",
+   "titulo": "Capturado presunto jefe de sicarios del ‘Clan del Golfo’ en zona rural de Cereté, Córdoba",
+   "lugar": "Montería",
+   "publicado": "2026-11-13T16:23:26.000Z",
+   "resumen": "En desarrollo de acciones investigativas y operativas contra las estructuras criminales, la Policía Nacional, a través de la Seccional de…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-presunto-jefe-sicarios-del-clan-del-golfo-en-zona-rural-cerete-cordoba"
+  },
+  {
+   "id": "macondo-magangue-un-encuentro-donde-comunidad-fue-protagonista-las-soluciones",
+   "titulo": "Macondo, Magangué: un encuentro donde la comunidad fue protagonista de las soluciones",
+   "lugar": "Magangué",
+   "publicado": "2026-11-13T16:16:52.000Z",
+   "resumen": "Hay barrios que llevan nombres de novela y otros que, sin proponérselo, terminan escribiendo sus propias historias.",
+   "enlace": "https://www.policia.gov.co/noticia/macondo-magangue-un-encuentro-donde-comunidad-fue-protagonista-las-soluciones"
+  },
   {
    "id": "cuatro-capturados-cuatro-armas-incautadas-durante-operativo-conjunto-en-quibdo",
    "titulo": "Cuatro capturados y cuatro armas incautadas durante operativo conjunto en Quibdó",
@@ -34,6 +90,30 @@
    "publicado": "2026-11-13T13:00:00.000Z",
    "resumen": "En desarrollo de la operación Kratos, la Policía Nacional, a través del Grupo de Acción Unificada por la Libertad Personal (GAULA) y en…",
    "enlace": "https://www.policia.gov.co/noticia/desarticulado-grupo-delincuencial-los-nocturnos-senalado-cometer-secuestros-extorsivos"
+  },
+  {
+   "id": "nuevo-golpe-al-crimen-organizado-33-capturas-mesa",
+   "titulo": "Nuevo golpe al crimen organizado: 33 capturas de “El Mesa”",
+   "lugar": "Bogotá",
+   "publicado": "2026-11-13T13:00:00.000Z",
+   "resumen": "La Policía Nacional, a través de la Seccional de Investigación Criminal, en trabajo articulado con la Fiscalía General De La Nación logró golpear…",
+   "enlace": "https://www.policia.gov.co/noticia/nuevo-golpe-al-crimen-organizado-33-capturas-mesa"
+  },
+  {
+   "id": "operacion-kratos-desarticula-al-grupo-delincuencial-illimani-senalado-cuatro-homicidios",
+   "titulo": "Operación Kratos desarticula al grupo delincuencial ‘Illimani’, señalado de cuatro homicidios y tráfico de estupefacientes en Bogotá",
+   "lugar": "Bogotá",
+   "publicado": "2026-11-13T13:00:00.000Z",
+   "resumen": "En desarrollo de la operación Kratos, la Policía Nacional, a través de la Seccional de Investigación Criminal (SIJIN) y en coordinación con la…",
+   "enlace": "https://www.policia.gov.co/noticia/operacion-kratos-desarticula-al-grupo-delincuencial-illimani-senalado-cuatro-homicidios"
+  },
+  {
+   "id": "operacion-ocobos-patria-desarticula-los-capullos-ii-estructura-senalada-participar-en-20",
+   "titulo": "Operación Ocobos de la Patria desarticula a ‘Los Capullos II’, estructura señalada de participar en 20 homicidios en Ibagué",
+   "lugar": "Ibagué",
+   "publicado": "2026-11-13T06:50:50.000Z",
+   "resumen": "En el marco de la estrategia del Gobierno Nacional Bloques Operativos de Seguridad Urbana, la Policía Nacional, mediante la operación ‘Ocobos de…",
+   "enlace": "https://www.policia.gov.co/noticia/operacion-ocobos-patria-desarticula-los-capullos-ii-estructura-senalada-participar-en-20"
   },
   {
    "id": "capturado-en-ibague-alias-samuel-senalado-cometer-hurtos-mediante-modalidad-cochero",
@@ -162,86 +242,6 @@
    "publicado": "2026-11-11T18:01:30.000Z",
    "resumen": "Sibaté. En el marco del proceso de profesionalización y fortalecimiento institucional, la Policía Nacional de Colombia a…",
    "enlace": "https://www.policia.gov.co/noticia/escuela-suboficiales-nivel-ejecutivo-gonzalo-jimenez-quesada-vanguardia-en-inteligencia"
-  },
-  {
-   "id": "estudiantes-fortalecen-prevencion-del-secuestro-extorsion-en-jornada-sensibilizacion",
-   "titulo": "Estudiantes fortalecen la prevención del secuestro y la extorsión en jornada de sensibilización",
-   "lugar": "Cundinamarca",
-   "publicado": "2026-11-11T15:13:43.000Z",
-   "resumen": "En desarrollo de las actividades de proyección social, 20 estudiantes de la Sede Universitaria Antisecuestro y Antiextorsión participaron en una…",
-   "enlace": "https://www.policia.gov.co/noticia/estudiantes-fortalecen-prevencion-del-secuestro-extorsion-en-jornada-sensibilizacion"
-  },
-  {
-   "id": "policia-incauta-mas-media-tonelada-cocaina-afecta-las-finanzas-criminales-en-norte",
-   "titulo": "Policía incauta más de media tonelada de cocaína y afecta las finanzas criminales en Norte de Santander",
-   "lugar": "Cúcuta",
-   "publicado": "2026-11-11T15:09:05.000Z",
-   "resumen": "En desarrollo del Bloque Operativo de Seguridad Urbana (BOSUR), desplegado en la ciudad por instrucción del señor presidente de la República, la…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-incauta-mas-media-tonelada-cocaina-afecta-las-finanzas-criminales-en-norte"
-  },
-  {
-   "id": "desarticulado-grupo-delincuencial-nueva-generacion-en-samaca-boyaca",
-   "titulo": "Desarticulado el grupo delincuencial “La Nueva Generación” en Samacá, Boyacá",
-   "lugar": "Tunja",
-   "publicado": "2026-11-11T14:27:16.000Z",
-   "resumen": "La Policía Nacional, a través de la Seccional de Investigación Criminal (SIJIN), en coordinación con la Fiscalía Especializada 40 de Tunja y la…",
-   "enlace": "https://www.policia.gov.co/noticia/desarticulado-grupo-delincuencial-nueva-generacion-en-samaca-boyaca"
-  },
-  {
-   "id": "capturado-en-cartago-un-hombre-que-transportaba-un-artefacto-explosivo-otros-elementos",
-   "titulo": "Capturado en Cartago un hombre que transportaba un artefacto explosivo y otros elementos",
-   "lugar": "Cartago",
-   "publicado": "2026-11-11T14:14:55.000Z",
-   "resumen": "El Departamento de Policía Valle, en coordinación con la Seccional de Inteligencia Policial (SIPOL), la Seccional de Investigación Criminal y el…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-cartago-un-hombre-que-transportaba-un-artefacto-explosivo-otros-elementos"
-  },
-  {
-   "id": "policia-recupera-motocicleta-hurtada-en-cali-captura-un-hombre-por-receptacion-en-cerrito",
-   "titulo": "Policía recupera motocicleta hurtada en Cali y captura a un hombre por receptación en El Cerrito",
-   "lugar": "El Cerrito",
-   "publicado": "2026-11-11T14:12:29.000Z",
-   "resumen": "En desarrollo de actividades de prevención y control, uniformados de la Policía Nacional, adscritos a la Estación de Policía El Cerrito,…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-recupera-motocicleta-hurtada-en-cali-captura-un-hombre-por-receptacion-en-cerrito"
-  },
-  {
-   "id": "policia-nacional-captura-111-personas-durante-ofensiva-contra-delito-en-cucuta-su-area",
-   "titulo": "Policía Nacional captura a 111 personas durante ofensiva contra el delito en Cúcuta y su área metropolitana",
-   "lugar": "Cúcuta",
-   "publicado": "2026-11-11T13:42:41.000Z",
-   "resumen": "La Policía Nacional, en el marco de la estrategia “Sin tregua al delito”, activó el primer bloque operacional de seguridad urbana, que dejó como…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-captura-111-personas-durante-ofensiva-contra-delito-en-cucuta-su-area"
-  },
-  {
-   "id": "policia-metropolitana-cucuta-conmemora-135-anos-historia-compromiso-servicio",
-   "titulo": "Policía Metropolitana de Cúcuta conmemora 135 años de historia, compromiso y servicio",
-   "lugar": "Cúcuta",
-   "publicado": "2026-11-11T13:28:38.000Z",
-   "resumen": "Este 5 de noviembre, la Policía Nacional conmemora 135 años de creación, una trayectoria marcada por la historia, la evolución y el servicio al…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-metropolitana-cucuta-conmemora-135-anos-historia-compromiso-servicio"
-  },
-  {
-   "id": "captura-aprehension-por-delito-receptacion",
-   "titulo": "captura y aprehensión por el delito de receptación",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T03:34:23.000Z",
-   "resumen": "La Policía Nacional, a través del Modelo del Servicio de Policía Orientado a las Personas y los Territorios, logró la recuperación de una…",
-   "enlace": "https://www.policia.gov.co/noticia/captura-aprehension-por-delito-receptacion"
-  },
-  {
-   "id": "policia-recupera-motocicleta-hurtada-captura-un-adulto-en-inirida-guainia",
-   "titulo": "Policía recupera motocicleta hurtada y captura a un adulto en Inírida, Guainía",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T03:34:23.000Z",
-   "resumen": "La Policía Nacional, a través del Modelo del Servicio de Policía Orientado a las Personas y los Territorios, logró la recuperación de una…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-recupera-motocicleta-hurtada-captura-un-adulto-en-inirida-guainia"
-  },
-  {
-   "id": "captura-por-trafico-fabricacion-o-portes-estupefacientes",
-   "titulo": "captura por trafico fabricación o portes de estupefacientes",
-   "lugar": "Inírida",
-   "publicado": "2026-11-11T03:20:32.000Z",
-   "resumen": "Durante el procedimiento, realizado sobre la vía al sector de El Paujil, fueron incautados aproximadamente 50 gramos de una sustancia que por sus…",
-   "enlace": "https://www.policia.gov.co/noticia/captura-por-trafico-fabricacion-o-portes-estupefacientes"
   }
  ]
 }
