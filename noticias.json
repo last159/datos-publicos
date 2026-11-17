@@ -1,8 +1,16 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-14T17:13:38.705077Z",
+ "descargado": "2026-11-17T19:55:10.350012Z",
  "noticias": [
+  {
+   "id": "reaccion-policial-permitio-capturar-un-hombre-por-hurto-en-una-vivienda-barrancabermeja",
+   "titulo": "Reacción policial permitió capturar a un hombre por hurto en una vivienda de Barrancabermeja",
+   "lugar": "Barrancabermeja",
+   "publicado": "2026-11-13T20:12:51.000Z",
+   "resumen": "En una oportuna reacción de las patrullas de vigilancia, la Policía Nacional capturó en flagrancia a un hombre de 41 años, señalado de los delitos…",
+   "enlace": "https://www.policia.gov.co/noticia/reaccion-policial-permitio-capturar-un-hombre-por-hurto-en-una-vivienda-barrancabermeja"
+  },
   {
    "id": "policia-nacional-despliega-dispositivos-seguridad-vial-en-atlantico-durante-puente-festivo",
    "titulo": "Policía Nacional despliega dispositivos de seguridad vial en el Atlántico durante el puente festivo",
@@ -234,14 +242,6 @@
    "publicado": "2026-11-11T19:36:35.000Z",
    "resumen": "La Policía Nacional, a través del Grupo de Protección al Turismo y Patrimonio Nacional, llevó a cabo la clausura del programa cívico juvenil «…",
    "enlace": "https://www.policia.gov.co/noticia/31-jovenes-se-graduan-como-guardianes-del-turismo-patrimonio-nacional-en-manizales"
-  },
-  {
-   "id": "escuela-suboficiales-nivel-ejecutivo-gonzalo-jimenez-quesada-vanguardia-en-inteligencia",
-   "titulo": "La Escuela de Suboficiales y Nivel Ejecutivo “Gonzalo Jiménez de Quesada”, a la vanguardia en la inteligencia artificial al servicio de la educación y la función policial",
-   "lugar": "Sibaté",
-   "publicado": "2026-11-11T18:01:30.000Z",
-   "resumen": "Sibaté. En el marco del proceso de profesionalización y fortalecimiento institucional, la Policía Nacional de Colombia a…",
-   "enlace": "https://www.policia.gov.co/noticia/escuela-suboficiales-nivel-ejecutivo-gonzalo-jimenez-quesada-vanguardia-en-inteligencia"
   }
  ]
 }
