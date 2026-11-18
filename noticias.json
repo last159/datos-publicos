@@ -1,8 +1,24 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-18T04:31:25.324581Z",
+ "descargado": "2026-11-18T19:26:47.223701Z",
  "noticias": [
+  {
+   "id": "incautados-mas-425-millones-que-pertenecerian-las-finanzas-estructuras-criminales-en",
+   "titulo": "Incautados más de $425 millones que pertenecerían a las finanzas de estructuras criminales en Putumayo",
+   "lugar": "San Miguel",
+   "publicado": "2026-11-15T23:52:11.000Z",
+   "resumen": "En desarrollo de la ofensiva contra las economías ilícitas, la Policía Nacional, a través de la Dirección de Investigación Criminal (DIJIN),…",
+   "enlace": "https://www.policia.gov.co/noticia/incautados-mas-425-millones-que-pertenecerian-las-finanzas-estructuras-criminales-en"
+  },
+  {
+   "id": "diplomacia-academica-cooperacion-hemisferica-ciencia-al-servicio-seguridad-en-las-americas",
+   "titulo": "Diplomacia académica y cooperación hemisférica: la ciencia al servicio de la seguridad en las Américas",
+   "lugar": "Bogotá",
+   "publicado": "2026-11-15T21:27:36.000Z",
+   "resumen": "En el marco de la XVI Cumbre Ordinaria de AMERIPOL – Comunidad de Policías de América, nuestro director de la sede universitaria Escuela de…",
+   "enlace": "https://www.policia.gov.co/noticia/diplomacia-academica-cooperacion-hemisferica-ciencia-al-servicio-seguridad-en-las-americas"
+  },
   {
    "id": "dos-hombres-fueron-capturados-por-desaparicion-forzada-tortura-en-combita-boyaca",
    "titulo": "Dos hombres fueron capturados por desaparición forzada y tortura en Cómbita, Boyacá",
@@ -50,6 +66,22 @@
    "publicado": "2026-11-14T20:39:08.000Z",
    "resumen": "La Sede Universitaria Escuela de Carabineros “Alejandro Gutiérrez”, a través de la Oficina de Proyección Social y Seguimiento al Egresado, culminó…",
    "enlace": "https://www.policia.gov.co/noticia/proyecto-comunitario-en-manizales-beneficio-cerca-4000-habitantes-fortalecio-convivencia"
+  },
+  {
+   "id": "capturan-un-hombre-aprehenden-un-adolescente-por-hurto-en-cartagena",
+   "titulo": "Capturan a un hombre y aprehenden a un adolescente por hurto en Cartagena",
+   "lugar": "Cartagena",
+   "publicado": "2026-11-14T19:50:54.000Z",
+   "resumen": "En el marco de los planes de seguridad desplegados durante las Fiestas de la Independencia de Cartagena, la Policía Nacional logró la captura de…",
+   "enlace": "https://www.policia.gov.co/noticia/capturan-un-hombre-aprehenden-un-adolescente-por-hurto-en-cartagena"
+  },
+  {
+   "id": "capturados-dos-presuntos-integrantes-del-frente-ivan-diaz-vinculados-al-atentado-terrorista",
+   "titulo": "Capturados dos presuntos integrantes del Frente Iván Díaz vinculados al atentado terrorista en Algeciras",
+   "lugar": "Algeciras",
+   "publicado": "2026-11-14T16:42:49.000Z",
+   "resumen": "Mediante una operación coordinada entre las capacidades de inteligencia policial, investigación criminal y el GAULA, la Policía Nacional logró la…",
+   "enlace": "https://www.policia.gov.co/noticia/capturados-dos-presuntos-integrantes-del-frente-ivan-diaz-vinculados-al-atentado-terrorista"
   },
   {
    "id": "operacion-kratos-permitio-capturar-10-presuntos-integrantes-una-estructura-dedicada-al",
@@ -210,38 +242,6 @@
    "publicado": "2026-11-13T06:50:50.000Z",
    "resumen": "En el marco de la estrategia del Gobierno Nacional Bloques Operativos de Seguridad Urbana, la Policía Nacional, mediante la operación ‘Ocobos de…",
    "enlace": "https://www.policia.gov.co/noticia/operacion-ocobos-patria-desarticula-los-capullos-ii-estructura-senalada-participar-en-20"
-  },
-  {
-   "id": "capturado-en-ibague-alias-samuel-senalado-cometer-hurtos-mediante-modalidad-cochero",
-   "titulo": "Capturado en Ibagué alias ‘Samuel’, señalado de cometer hurtos mediante la modalidad de ‘cochero’",
-   "lugar": "Ibagué",
-   "publicado": "2026-11-13T05:49:39.000Z",
-   "resumen": "En desarrollo de las acciones investigativas contra los delitos que afectan la seguridad ciudadana, uniformados de la Seccional de Investigación…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-ibague-alias-samuel-senalado-cometer-hurtos-mediante-modalidad-cochero"
-  },
-  {
-   "id": "89-personas-capturadas-durante-operacion-ocobos-patria-en-ibague",
-   "titulo": "89 personas capturadas durante la operación ‘Ocobos de la Patria’ en Ibagué",
-   "lugar": "Ibagué",
-   "publicado": "2026-11-13T05:09:25.000Z",
-   "resumen": "En el marco de la activación del primer Bloque Operativo de Seguridad Urbana y bajo los lineamientos de la Política de Seguridad de la Presidencia…",
-   "enlace": "https://www.policia.gov.co/noticia/89-personas-capturadas-durante-operacion-ocobos-patria-en-ibague"
-  },
-  {
-   "id": "videovigilancia-permitio-capturar-un-hombre-requerido-por-trafico-estupefacientes-en",
-   "titulo": "Videovigilancia permitió capturar a un hombre requerido por tráfico de estupefacientes en Manizales",
-   "lugar": "Manizales",
-   "publicado": "2026-11-12T22:42:28.000Z",
-   "resumen": "El sistema de videovigilancia de Manizales volvió a demostrar su efectividad como herramienta de apoyo a la seguridad ciudadana.",
-   "enlace": "https://www.policia.gov.co/noticia/videovigilancia-permitio-capturar-un-hombre-requerido-por-trafico-estupefacientes-en"
-  },
-  {
-   "id": "policia-captura-hombre-con-arma-traumatica-modificada-en-villamaria",
-   "titulo": "Policía captura a hombre con arma traumática modificada en Villamaría",
-   "lugar": "Manizales",
-   "publicado": "2026-11-12T21:43:31.000Z",
-   "resumen": "En desarrollo de las acciones contra el multicrimen y el delito, la Policía Nacional capturó en flagrancia a un hombre de 21 años, conocido con el…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-captura-hombre-con-arma-traumatica-modificada-en-villamaria"
   }
  ]
 }
