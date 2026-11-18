@@ -1,8 +1,80 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-17T19:55:10.350012Z",
+ "descargado": "2026-11-18T04:31:25.324581Z",
  "noticias": [
+  {
+   "id": "dos-hombres-fueron-capturados-por-desaparicion-forzada-tortura-en-combita-boyaca",
+   "titulo": "Dos hombres fueron capturados por desaparición forzada y tortura en Cómbita, Boyacá",
+   "lugar": "Tunja",
+   "publicado": "2026-11-15T15:34:51.000Z",
+   "resumen": "La Policía Nacional, en desarrollo del Plan Cazador y como parte de las estrategias de prevención, vigilancia y control, logró la captura de dos…",
+   "enlace": "https://www.policia.gov.co/noticia/dos-hombres-fueron-capturados-por-desaparicion-forzada-tortura-en-combita-boyaca"
+  },
+  {
+   "id": "tres-personas-capturadas-en-hotel-tunja-por-porte-ilegal-arma-fuego",
+   "titulo": "Tres personas capturadas en hotel de Tunja por porte ilegal de arma de fuego",
+   "lugar": "Tunja",
+   "publicado": "2026-11-15T15:05:23.000Z",
+   "resumen": "En desarrollo de las acciones preventivas y operativas para fortalecer la seguridad y la convivencia ciudadana, la Policía Metropolitana de Tunja…",
+   "enlace": "https://www.policia.gov.co/noticia/tres-personas-capturadas-en-hotel-tunja-por-porte-ilegal-arma-fuego"
+  },
+  {
+   "id": "cerca-1000-policias-garantizaran-seguridad-durante-puente-festivo-en-magdalena",
+   "titulo": "Cerca de 1.000 policías garantizarán la seguridad durante el puente festivo en el Magdalena",
+   "lugar": "Santa Marta",
+   "publicado": "2026-11-15T15:04:36.000Z",
+   "resumen": "La Policía Nacional en el Magdalena tiene dispuestas todas sus capacidades institucionales para garantizar la seguridad y la convivencia ciudadana…",
+   "enlace": "https://www.policia.gov.co/noticia/cerca-1000-policias-garantizaran-seguridad-durante-puente-festivo-en-magdalena"
+  },
+  {
+   "id": "sergio-gutierrez-una-historia-fe-perseverancia-vocacion-policial",
+   "titulo": "Sergio Gutiérrez: una historia de fe, perseverancia y vocación policial",
+   "lugar": "San Cristóbal",
+   "publicado": "2026-11-15T14:37:29.000Z",
+   "resumen": "Hay momentos en los que la vida parece empeñada en quitarlo todo.",
+   "enlace": "https://www.policia.gov.co/noticia/sergio-gutierrez-una-historia-fe-perseverancia-vocacion-policial"
+  },
+  {
+   "id": "una-historia-amor-cuidado-animal-que-inspira-servicio-en-uraba",
+   "titulo": "Una historia de amor y cuidado animal que inspira el servicio en Urabá",
+   "lugar": "Acandí",
+   "publicado": "2026-11-14T22:12:29.000Z",
+   "resumen": "Una historia que conocimos a través de las redes sociales nos llevó hasta doña Martha Cecilia Montes Marín, propietaria del establecimiento…",
+   "enlace": "https://www.policia.gov.co/noticia/una-historia-amor-cuidado-animal-que-inspira-servicio-en-uraba"
+  },
+  {
+   "id": "proyecto-comunitario-en-manizales-beneficio-cerca-4000-habitantes-fortalecio-convivencia",
+   "titulo": "Proyecto comunitario en Manizales benefició a cerca de 4.000 habitantes y fortaleció la convivencia",
+   "lugar": "Manizales",
+   "publicado": "2026-11-14T20:39:08.000Z",
+   "resumen": "La Sede Universitaria Escuela de Carabineros “Alejandro Gutiérrez”, a través de la Oficina de Proyección Social y Seguimiento al Egresado, culminó…",
+   "enlace": "https://www.policia.gov.co/noticia/proyecto-comunitario-en-manizales-beneficio-cerca-4000-habitantes-fortalecio-convivencia"
+  },
+  {
+   "id": "operacion-kratos-permitio-capturar-10-presuntos-integrantes-una-estructura-dedicada-al",
+   "titulo": "Operación Kratos permitió capturar a 10 presuntos integrantes de una estructura dedicada al tráfico de estupefacientes en Bogotá",
+   "lugar": "Bogotá",
+   "publicado": "2026-11-14T13:00:00.000Z",
+   "resumen": "En desarrollo de la operación ‘Kratos’, la Policía Nacional, a través de la Seccional de Investigación Criminal y en coordinación con la Fiscalía…",
+   "enlace": "https://www.policia.gov.co/noticia/operacion-kratos-permitio-capturar-10-presuntos-integrantes-una-estructura-dedicada-al"
+  },
+  {
+   "id": "capturados-dos-hombres-senalados-participar-en-hurtos-motocicletas-en-manizales",
+   "titulo": "Capturados dos hombres señalados de participar en hurtos de motocicletas en Manizales",
+   "lugar": "Manizales",
+   "publicado": "2026-11-13T21:20:30.000Z",
+   "resumen": "En desarrollo de las acciones contra el multicrimen y el delito, la Policía Nacional, a través de la Seccional de Investigación Criminal (SIJIN),…",
+   "enlace": "https://www.policia.gov.co/noticia/capturados-dos-hombres-senalados-participar-en-hurtos-motocicletas-en-manizales"
+  },
+  {
+   "id": "mas-600-policias-acompanaran-seguridad-movilidad-durante-puente-festivo-en-manizales",
+   "titulo": "Más de 600 policías acompañarán la seguridad y movilidad durante el puente festivo en Manizales y Villamaría",
+   "lugar": "Manizales",
+   "publicado": "2026-11-13T20:43:48.000Z",
+   "resumen": "En el marco del puente festivo de la Independencia de Cartagena, la Policía Metropolitana de Manizales fortalece las acciones de prevención y…",
+   "enlace": "https://www.policia.gov.co/noticia/mas-600-policias-acompanaran-seguridad-movilidad-durante-puente-festivo-en-manizales"
+  },
   {
    "id": "reaccion-policial-permitio-capturar-un-hombre-por-hurto-en-una-vivienda-barrancabermeja",
    "titulo": "Reacción policial permitió capturar a un hombre por hurto en una vivienda de Barrancabermeja",
@@ -18,6 +90,14 @@
    "publicado": "2026-11-13T20:04:13.000Z",
    "resumen": "La Policía Nacional, a través de la Seccional de Tránsito y Transporte del Atlántico, dispuso de su personal profesional en cinco áreas de…",
    "enlace": "https://www.policia.gov.co/noticia/policia-nacional-despliega-dispositivos-seguridad-vial-en-atlantico-durante-puente-festivo"
+  },
+  {
+   "id": "policia-nacional-despliega-dispositivo-especial-seguridad-vial-en-las-carreteras-narino",
+   "titulo": "Policía Nacional despliega dispositivo especial de seguridad vial en las carreteras de Nariño durante el puente festivo",
+   "lugar": "Imués",
+   "publicado": "2026-11-13T20:02:47.000Z",
+   "resumen": "Con motivo del incremento de viajeros durante el puente festivo de la Independencia de Cartagena, la Policía Nacional activa un dispositivo…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-despliega-dispositivo-especial-seguridad-vial-en-las-carreteras-narino"
   },
   {
    "id": "policia-nacional-rescato-libero-una-zarigueya-en-ipiales-gracias-colaboracion-ciudadana",
@@ -50,6 +130,14 @@
    "publicado": "2026-11-13T16:44:10.000Z",
    "resumen": "Con la participación de juristas, académicos, funcionarios públicos, integrantes de la Fuerza Pública y operadores judiciales, se llevó a cabo la…",
    "enlace": "https://www.policia.gov.co/noticia/policia-nacional-participa-en-ii-jornada-derecho-publico-2026-en-monteria"
+  },
+  {
+   "id": "incautados-254-kilogramos-marihuana-en-neiva-castilla-en-municipio-aipe",
+   "titulo": "Incautados 254 kilogramos de marihuana en la vía Neiva–Castilla, en el municipio de Aipe",
+   "lugar": "Aipe",
+   "publicado": "2026-11-13T16:28:23.000Z",
+   "resumen": "En desarrollo de actividades de patrullaje y control sobre la vía Neiva–Castilla, a la altura del casco urbano del municipio de Aipe, uniformados…",
+   "enlace": "https://www.policia.gov.co/noticia/incautados-254-kilogramos-marihuana-en-neiva-castilla-en-municipio-aipe"
   },
   {
    "id": "capturado-presunto-jefe-sicarios-del-clan-del-golfo-en-zona-rural-cerete-cordoba",
@@ -154,94 +242,6 @@
    "publicado": "2026-11-12T21:43:31.000Z",
    "resumen": "En desarrollo de las acciones contra el multicrimen y el delito, la Policía Nacional capturó en flagrancia a un hombre de 21 años, conocido con el…",
    "enlace": "https://www.policia.gov.co/noticia/policia-captura-hombre-con-arma-traumatica-modificada-en-villamaria"
-  },
-  {
-   "id": "capturado-alias-costeno-por-presunto-homicidio-en-armenia",
-   "titulo": "Capturado alias ‘El Costeño’ por presunto homicidio en Armenia",
-   "lugar": "Armenia",
-   "publicado": "2026-11-12T20:49:05.000Z",
-   "resumen": "La Policía Nacional, en desarrollo de actividades de vigilancia y control, logró la captura en flagrancia de un hombre conocido con el alias de ‘…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-alias-costeno-por-presunto-homicidio-en-armenia"
-  },
-  {
-   "id": "en-caldas-no-hay-escondite-para-quienes-pretenden-evadir-justicia",
-   "titulo": "En Caldas no hay escondite para quienes pretenden evadir la justicia",
-   "lugar": "Caldas",
-   "publicado": "2026-11-12T16:48:30.000Z",
-   "resumen": "La Policía Nacional, a través de las patrullas de las zonas de atención del municipio de Neira, logró la captura de dos hombres, de 37 y 40 años,…",
-   "enlace": "https://www.policia.gov.co/noticia/en-caldas-no-hay-escondite-para-quienes-pretenden-evadir-justicia"
-  },
-  {
-   "id": "policia-recupero-motocicleta-reportada-como-hurtada-en-neiva",
-   "titulo": "Policía recuperó motocicleta reportada como hurtada en Neiva",
-   "lugar": "Neiva",
-   "publicado": "2026-11-12T13:15:40.000Z",
-   "resumen": "En desarrollo de las actividades de vigilancia y control, la Policía Nacional recuperó una motocicleta que había sido reportada como hurtada, en…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-recupero-motocicleta-reportada-como-hurtada-en-neiva"
-  },
-  {
-   "id": "capturada-alias-anita-por-su-presunta-participacion-en-hurtos-mediante-suministro",
-   "titulo": "Capturada alias “Anita” por su presunta participación en hurtos mediante el suministro de sustancias a sus víctimas",
-   "lugar": "Montería",
-   "publicado": "2026-11-12T00:56:46.000Z",
-   "resumen": "En desarrollo de las acciones investigativas contra los delitos que afectan el patrimonio económico, la Policía Nacional capturó por orden…",
-   "enlace": "https://www.policia.gov.co/noticia/capturada-alias-anita-por-su-presunta-participacion-en-hurtos-mediante-suministro"
-  },
-  {
-   "id": "policia-secretaria-transito-promueven-seguridad-vial-en-monteria",
-   "titulo": "Policía y Secretaría de Tránsito promueven la seguridad vial en Montería",
-   "lugar": "Montería",
-   "publicado": "2026-11-12T00:46:01.000Z",
-   "resumen": "Con el propósito de proteger la vida y prevenir siniestros viales, la Policía Nacional, a través de la Seccional de Tránsito y Transporte, en…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-secretaria-transito-promueven-seguridad-vial-en-monteria"
-  },
-  {
-   "id": "policia-autoridades-fortalecen-estrategias-seguridad-en-monteria-mediante-mesa-tecnica",
-   "titulo": "Policía y autoridades fortalecen estrategias de seguridad en Montería mediante mesa técnica de seguimiento",
-   "lugar": "Montería",
-   "publicado": "2026-11-12T00:33:05.000Z",
-   "resumen": "La Policía Nacional, a través de la Policía Metropolitana San Jerónimo de Montería, realizó la Mesa Técnica para el Seguimiento de Indicadores y…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-autoridades-fortalecen-estrategias-seguridad-en-monteria-mediante-mesa-tecnica"
-  },
-  {
-   "id": "san-jose-fortalece-su-seguridad-con-13-nuevas-camaras-videovigilancia-alta-tecnologia",
-   "titulo": "San José fortalece su seguridad con 13 nuevas cámaras de videovigilancia de alta tecnología",
-   "lugar": "San José",
-   "publicado": "2026-11-11T23:10:09.000Z",
-   "resumen": "La Policía Nacional recibió 13 nuevas cámaras de videovigilancia destinadas a fortalecer la seguridad y la convivencia ciudadana en el municipio…",
-   "enlace": "https://www.policia.gov.co/noticia/san-jose-fortalece-su-seguridad-con-13-nuevas-camaras-videovigilancia-alta-tecnologia"
-  },
-  {
-   "id": "gobernacion-del-caqueta-entrega-dotacion-por-mas-102-millones-para-bienestar-los-policias",
-   "titulo": "Gobernación del Caquetá entrega dotación por más de $102 millones para el bienestar de los policías",
-   "lugar": "Florencia",
-   "publicado": "2026-11-11T22:54:11.000Z",
-   "resumen": "En un trabajo articulado con la Policía Nacional, la Gobernación del Caquetá realizó la entrega a título gratuito de 240 elementos de intendencia…",
-   "enlace": "https://www.policia.gov.co/noticia/gobernacion-del-caqueta-entrega-dotacion-por-mas-102-millones-para-bienestar-los-policias"
-  },
-  {
-   "id": "desarticulada-estructura-delincuencial-los-artesanos-en-santa-rosa-cabal",
-   "titulo": "Desarticulada la estructura delincuencial ‘Los Artesanos’ en Santa Rosa de Cabal",
-   "lugar": "Santa Rosa de Cabal",
-   "publicado": "2026-11-11T22:06:40.000Z",
-   "resumen": "En el marco de las acciones contra el tráfico de estupefacientes, la Policía Nacional, en coordinación con la Fiscalía General de la Nación,…",
-   "enlace": "https://www.policia.gov.co/noticia/desarticulada-estructura-delincuencial-los-artesanos-en-santa-rosa-cabal"
-  },
-  {
-   "id": "policia-fortalece-seguridad-viajeros-en-terminal-transportes-monteria",
-   "titulo": "Policía fortalece la seguridad de viajeros en la Terminal de Transportes de Montería",
-   "lugar": "Montería",
-   "publicado": "2026-11-11T20:22:00.000Z",
-   "resumen": "La Policía Nacional, a través del Grupo de Protección al Turismo y Patrimonio Nacional de la Policía Metropolitana San Jerónimo de Montería,…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-fortalece-seguridad-viajeros-en-terminal-transportes-monteria"
-  },
-  {
-   "id": "31-jovenes-se-graduan-como-guardianes-del-turismo-patrimonio-nacional-en-manizales",
-   "titulo": "31 jóvenes se gradúan como Guardianes del Turismo y Patrimonio Nacional en Manizales",
-   "lugar": "Manizales",
-   "publicado": "2026-11-11T19:36:35.000Z",
-   "resumen": "La Policía Nacional, a través del Grupo de Protección al Turismo y Patrimonio Nacional, llevó a cabo la clausura del programa cívico juvenil «…",
-   "enlace": "https://www.policia.gov.co/noticia/31-jovenes-se-graduan-como-guardianes-del-turismo-patrimonio-nacional-en-manizales"
   }
  ]
 }
