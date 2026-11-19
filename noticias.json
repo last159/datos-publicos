@@ -1,8 +1,16 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-19T04:15:44.989122Z",
+ "descargado": "2026-11-19T19:32:16.612353Z",
  "noticias": [
+  {
+   "id": "policia-capturo-en-flagrancia-un-hombre-por-presunta-falsedad-marcaria-en-cienaga-oro",
+   "titulo": "Policía capturó en flagrancia a un hombre por presunta falsedad marcaria en Ciénaga de Oro",
+   "lugar": "Montería",
+   "publicado": "2026-11-19T14:19:59.000Z",
+   "resumen": "En desarrollo de las acciones operativas y de control orientadas a fortalecer la seguridad y la convivencia ciudadana, la Policía Nacional de…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-capturo-en-flagrancia-un-hombre-por-presunta-falsedad-marcaria-en-cienaga-oro"
+  },
   {
    "id": "tres-capturados-dos-motocicletas-recuperadas-en-operativos-contra-hurto-en-quindio",
    "titulo": "Tres capturados y dos motocicletas recuperadas en operativos contra el hurto en el Quindío",
@@ -28,12 +36,44 @@
    "enlace": "https://www.policia.gov.co/noticia/policia-capturo-dos-hombres-recupero-cuatro-celulares-hurtados-en-valledupar"
   },
   {
+   "id": "policia-recupera-en-manizales-vehiculo-hurtado-en-bogota-captura-un-hombre-por-receptacion",
+   "titulo": "Policía recupera en Manizales vehículo hurtado en Bogotá y captura a un hombre por receptación",
+   "lugar": "Manizales",
+   "publicado": "2026-11-18T14:51:21.000Z",
+   "resumen": "En desarrollo de actividades de prevención, vigilancia y control, la Policía Nacional en Manizales logró recuperar un vehículo que había sido…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-recupera-en-manizales-vehiculo-hurtado-en-bogota-captura-un-hombre-por-receptacion"
+  },
+  {
    "id": "magdalena-en-san-sebastian-en-barrio-cecilia-caballero-capturo-por-orden-judicial-un-hombre",
    "titulo": "Magdalena. En San Sebastián, en el barrio Cecilia Caballero, capturó por orden judicial a un hombre de 49 años, solicitado por acceso carnal abusivo con menor de 14 años, en El Banco, un hombre de 64 años, fue capturado por acceso carnal abusivo con menor",
    "lugar": "Santa Marta",
    "publicado": "2026-11-18T14:44:50.000Z",
    "resumen": "En desarrollo de las acciones investigativas y operativas contra los delitos que afectan la integridad y los derechos de las personas, la Policía…",
    "enlace": "https://www.policia.gov.co/noticia/magdalena-en-san-sebastian-en-barrio-cecilia-caballero-capturo-por-orden-judicial-un-hombre"
+  },
+  {
+   "id": "capturado-en-flagrancia-un-hombre-por-presuntos-actos-sexuales-con-menor-14-anos",
+   "titulo": "Capturado en flagrancia un hombre por presuntos actos sexuales con menor de 14 años",
+   "lugar": "Montería",
+   "publicado": "2026-11-18T00:17:02.000Z",
+   "resumen": "En el marco de las acciones para la protección integral de los niños, niñas y adolescentes, la Policía Nacional capturó en flagrancia a un hombre…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-flagrancia-un-hombre-por-presuntos-actos-sexuales-con-menor-14-anos"
+  },
+  {
+   "id": "capturado-en-bogota-alias-tachado-requerido-por-homicidio-agravado-un-adolescente-en-meta",
+   "titulo": "Capturado en Bogotá alias “Tachado”, requerido por homicidio agravado de un adolescente en el Meta",
+   "lugar": "Bogotá",
+   "publicado": "2026-11-17T22:31:21.000Z",
+   "resumen": "En desarrollo de las acciones investigativas orientadas al esclarecimiento de delitos contra la vida y la integridad personal, la Policía Nacional…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-bogota-alias-tachado-requerido-por-homicidio-agravado-un-adolescente-en-meta"
+  },
+  {
+   "id": "policia-incauta-mas-30-kilogramos-base-cocaina-captura-un-hombre-en-vias-del-meta",
+   "titulo": "Policía incauta más de 30 kilogramos de base de cocaína y captura a un hombre en vías del Meta",
+   "lugar": "Puerto López",
+   "publicado": "2026-11-17T22:23:59.000Z",
+   "resumen": "En desarrollo de la ofensiva contra el narcotráfico en la Orinoquía colombiana, la Policía Nacional, a través de la Unidad Básica de Investigación…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-incauta-mas-30-kilogramos-base-cocaina-captura-un-hombre-en-vias-del-meta"
   },
   {
    "id": "policia-nacional-exalta-talento-literario-sus-estudiantes-con-lanzamiento-del-libro",
@@ -74,6 +114,38 @@
    "publicado": "2026-11-17T19:45:16.000Z",
    "resumen": "Con el despliegue de acciones estratégicas de seguridad, vigilancia y control en los diferentes municipios del departamento, la Policía Nacional…",
    "enlace": "https://www.policia.gov.co/noticia/14-capturas-recuperacion-automotores-dejan-los-operativos-seguridad-durante-puente-festivo"
+  },
+  {
+   "id": "policia-nacional-comunidad-identifican-problematicas-seguridad-convivencia-en-mercado-del",
+   "titulo": "Policía Nacional y comunidad identifican problemáticas de seguridad y convivencia en el Mercado del Sur de Montería",
+   "lugar": "Montería",
+   "publicado": "2026-11-17T16:19:31.000Z",
+   "resumen": "La Policía Nacional, a través del Grupo de Policía Comunitaria, desarrolló una jornada barrial de interacción y participación ciudadana en el…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-comunidad-identifican-problematicas-seguridad-convivencia-en-mercado-del"
+  },
+  {
+   "id": "capturado-en-monteria-alias-pacho-arenas-senalado-cabecilla-una-estructura-criminal-del",
+   "titulo": "Capturado en Montería alias “Pacho Arenas”, señalado cabecilla de una estructura criminal del Clan del Golfo",
+   "lugar": "Montería",
+   "publicado": "2026-11-17T16:12:18.000Z",
+   "resumen": "En el marco de la ofensiva permanente contra los grupos armados organizados y las estructuras multicrimen que afectan la seguridad ciudadana, la…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-monteria-alias-pacho-arenas-senalado-cabecilla-una-estructura-criminal-del"
+  },
+  {
+   "id": "policia-nacional-autoridades-articulan-acciones-para-garantizar-seguridad-durante-las",
+   "titulo": "Policía Nacional y autoridades articulan acciones para garantizar la seguridad durante las festividades de Montería",
+   "lugar": "Montería",
+   "publicado": "2026-11-17T16:05:40.000Z",
+   "resumen": "Bajo el liderazgo del alcalde de Montería, en articulación con las autoridades civiles, militares y organismos de control, y con el acompañamiento…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-autoridades-articulan-acciones-para-garantizar-seguridad-durante-las"
+  },
+  {
+   "id": "policia-nacional-intensifica-controles-acciones-preventivas-en-monteria",
+   "titulo": "Policía Nacional intensifica controles y acciones preventivas en Montería",
+   "lugar": "Montería",
+   "publicado": "2026-11-17T16:02:34.000Z",
+   "resumen": "Con el propósito de fortalecer la seguridad ciudadana, prevenir la comisión de hechos delictivos y garantizar la tranquilidad de los habitantes,…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-intensifica-controles-acciones-preventivas-en-monteria"
   },
   {
    "id": "capturado-en-marmato-un-hombre-por-porte-ilegal-armas-fuego",
@@ -170,78 +242,6 @@
    "publicado": "2026-11-14T22:12:29.000Z",
    "resumen": "Una historia que conocimos a través de las redes sociales nos llevó hasta doña Martha Cecilia Montes Marín, propietaria del establecimiento…",
    "enlace": "https://www.policia.gov.co/noticia/una-historia-amor-cuidado-animal-que-inspira-servicio-en-uraba"
-  },
-  {
-   "id": "proyecto-comunitario-en-manizales-beneficio-cerca-4000-habitantes-fortalecio-convivencia",
-   "titulo": "Proyecto comunitario en Manizales benefició a cerca de 4.000 habitantes y fortaleció la convivencia",
-   "lugar": "Manizales",
-   "publicado": "2026-11-14T20:39:08.000Z",
-   "resumen": "La Sede Universitaria Escuela de Carabineros “Alejandro Gutiérrez”, a través de la Oficina de Proyección Social y Seguimiento al Egresado, culminó…",
-   "enlace": "https://www.policia.gov.co/noticia/proyecto-comunitario-en-manizales-beneficio-cerca-4000-habitantes-fortalecio-convivencia"
-  },
-  {
-   "id": "capturan-un-hombre-aprehenden-un-adolescente-por-hurto-en-cartagena",
-   "titulo": "Capturan a un hombre y aprehenden a un adolescente por hurto en Cartagena",
-   "lugar": "Cartagena",
-   "publicado": "2026-11-14T19:50:54.000Z",
-   "resumen": "En el marco de los planes de seguridad desplegados durante las Fiestas de la Independencia de Cartagena, la Policía Nacional logró la captura de…",
-   "enlace": "https://www.policia.gov.co/noticia/capturan-un-hombre-aprehenden-un-adolescente-por-hurto-en-cartagena"
-  },
-  {
-   "id": "capturados-dos-presuntos-integrantes-del-frente-ivan-diaz-vinculados-al-atentado-terrorista",
-   "titulo": "Capturados dos presuntos integrantes del Frente Iván Díaz vinculados al atentado terrorista en Algeciras",
-   "lugar": "Algeciras",
-   "publicado": "2026-11-14T16:42:49.000Z",
-   "resumen": "Mediante una operación coordinada entre las capacidades de inteligencia policial, investigación criminal y el GAULA, la Policía Nacional logró la…",
-   "enlace": "https://www.policia.gov.co/noticia/capturados-dos-presuntos-integrantes-del-frente-ivan-diaz-vinculados-al-atentado-terrorista"
-  },
-  {
-   "id": "operacion-kratos-permitio-capturar-10-presuntos-integrantes-una-estructura-dedicada-al",
-   "titulo": "Operación Kratos permitió capturar a 10 presuntos integrantes de una estructura dedicada al tráfico de estupefacientes en Bogotá",
-   "lugar": "Bogotá",
-   "publicado": "2026-11-14T13:00:00.000Z",
-   "resumen": "En desarrollo de la operación ‘Kratos’, la Policía Nacional, a través de la Seccional de Investigación Criminal y en coordinación con la Fiscalía…",
-   "enlace": "https://www.policia.gov.co/noticia/operacion-kratos-permitio-capturar-10-presuntos-integrantes-una-estructura-dedicada-al"
-  },
-  {
-   "id": "capturados-dos-hombres-senalados-participar-en-hurtos-motocicletas-en-manizales",
-   "titulo": "Capturados dos hombres señalados de participar en hurtos de motocicletas en Manizales",
-   "lugar": "Manizales",
-   "publicado": "2026-11-13T21:20:30.000Z",
-   "resumen": "En desarrollo de las acciones contra el multicrimen y el delito, la Policía Nacional, a través de la Seccional de Investigación Criminal (SIJIN),…",
-   "enlace": "https://www.policia.gov.co/noticia/capturados-dos-hombres-senalados-participar-en-hurtos-motocicletas-en-manizales"
-  },
-  {
-   "id": "mas-600-policias-acompanaran-seguridad-movilidad-durante-puente-festivo-en-manizales",
-   "titulo": "Más de 600 policías acompañarán la seguridad y movilidad durante el puente festivo en Manizales y Villamaría",
-   "lugar": "Manizales",
-   "publicado": "2026-11-13T20:43:48.000Z",
-   "resumen": "En el marco del puente festivo de la Independencia de Cartagena, la Policía Metropolitana de Manizales fortalece las acciones de prevención y…",
-   "enlace": "https://www.policia.gov.co/noticia/mas-600-policias-acompanaran-seguridad-movilidad-durante-puente-festivo-en-manizales"
-  },
-  {
-   "id": "reaccion-policial-permitio-capturar-un-hombre-por-hurto-en-una-vivienda-barrancabermeja",
-   "titulo": "Reacción policial permitió capturar a un hombre por hurto en una vivienda de Barrancabermeja",
-   "lugar": "Barrancabermeja",
-   "publicado": "2026-11-13T20:12:51.000Z",
-   "resumen": "En una oportuna reacción de las patrullas de vigilancia, la Policía Nacional capturó en flagrancia a un hombre de 41 años, señalado de los delitos…",
-   "enlace": "https://www.policia.gov.co/noticia/reaccion-policial-permitio-capturar-un-hombre-por-hurto-en-una-vivienda-barrancabermeja"
-  },
-  {
-   "id": "policia-nacional-despliega-dispositivos-seguridad-vial-en-atlantico-durante-puente-festivo",
-   "titulo": "Policía Nacional despliega dispositivos de seguridad vial en el Atlántico durante el puente festivo",
-   "lugar": "Baranoa",
-   "publicado": "2026-11-13T20:04:13.000Z",
-   "resumen": "La Policía Nacional, a través de la Seccional de Tránsito y Transporte del Atlántico, dispuso de su personal profesional en cinco áreas de…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-despliega-dispositivos-seguridad-vial-en-atlantico-durante-puente-festivo"
-  },
-  {
-   "id": "policia-nacional-despliega-dispositivo-especial-seguridad-vial-en-las-carreteras-narino",
-   "titulo": "Policía Nacional despliega dispositivo especial de seguridad vial en las carreteras de Nariño durante el puente festivo",
-   "lugar": "Imués",
-   "publicado": "2026-11-13T20:02:47.000Z",
-   "resumen": "Con motivo del incremento de viajeros durante el puente festivo de la Independencia de Cartagena, la Policía Nacional activa un dispositivo…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-despliega-dispositivo-especial-seguridad-vial-en-las-carreteras-narino"
   }
  ]
 }
