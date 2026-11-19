@@ -1,8 +1,104 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-18T19:26:47.223701Z",
+ "descargado": "2026-11-19T04:15:44.989122Z",
  "noticias": [
+  {
+   "id": "tres-capturados-dos-motocicletas-recuperadas-en-operativos-contra-hurto-en-quindio",
+   "titulo": "Tres capturados y dos motocicletas recuperadas en operativos contra el hurto en el Quindío",
+   "lugar": "Calarcá",
+   "publicado": "2026-11-18T21:22:42.000Z",
+   "resumen": "La Policía Nacional obtuvo resultados operativos en dos procedimientos adelantados en el departamento del Quindío, que permitieron la captura de…",
+   "enlace": "https://www.policia.gov.co/noticia/tres-capturados-dos-motocicletas-recuperadas-en-operativos-contra-hurto-en-quindio"
+  },
+  {
+   "id": "policia-notifico-captura-por-hurto-calificado-agravado-en-valledupar",
+   "titulo": "Policía notificó captura por hurto calificado y agravado en Valledupar",
+   "lugar": "Valledupar",
+   "publicado": "2026-11-18T21:05:59.000Z",
+   "resumen": "La Policía Nacional, a través de la Policía Metropolitana de Valledupar, hizo efectiva una orden de captura contra un hombre de 24 años, requerido…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-notifico-captura-por-hurto-calificado-agravado-en-valledupar"
+  },
+  {
+   "id": "policia-capturo-dos-hombres-recupero-cuatro-celulares-hurtados-en-valledupar",
+   "titulo": "Policía capturó a dos hombres y recuperó cuatro celulares hurtados en Valledupar",
+   "lugar": "Valledupar",
+   "publicado": "2026-11-18T20:48:30.000Z",
+   "resumen": "La Policía Nacional logró la captura en flagrancia de dos hombres, de 20 y 23 años, señalados de participar en el hurto de cuatro teléfonos…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-capturo-dos-hombres-recupero-cuatro-celulares-hurtados-en-valledupar"
+  },
+  {
+   "id": "magdalena-en-san-sebastian-en-barrio-cecilia-caballero-capturo-por-orden-judicial-un-hombre",
+   "titulo": "Magdalena. En San Sebastián, en el barrio Cecilia Caballero, capturó por orden judicial a un hombre de 49 años, solicitado por acceso carnal abusivo con menor de 14 años, en El Banco, un hombre de 64 años, fue capturado por acceso carnal abusivo con menor",
+   "lugar": "Santa Marta",
+   "publicado": "2026-11-18T14:44:50.000Z",
+   "resumen": "En desarrollo de las acciones investigativas y operativas contra los delitos que afectan la integridad y los derechos de las personas, la Policía…",
+   "enlace": "https://www.policia.gov.co/noticia/magdalena-en-san-sebastian-en-barrio-cecilia-caballero-capturo-por-orden-judicial-un-hombre"
+  },
+  {
+   "id": "policia-nacional-exalta-talento-literario-sus-estudiantes-con-lanzamiento-del-libro",
+   "titulo": "La Policía Nacional exalta el talento literario de sus estudiantes con el lanzamiento del libro “Historias que Inspiran 100 Sonrisas”",
+   "lugar": "Bogotá",
+   "publicado": "2026-11-17T22:13:41.000Z",
+   "resumen": "La Policía Nacional de Colombia realizó en el Centro Social de Agentes y Patrulleros (CESAP) el lanzamiento oficial del libro “Historias que…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-exalta-talento-literario-sus-estudiantes-con-lanzamiento-del-libro"
+  },
+  {
+   "id": "capturado-en-quibdo-alias-bebe-requerido-por-tentativa-homicidio-porte-ilegal-armas",
+   "titulo": "Capturado en Quibdó alias ‘Bebé’, requerido por tentativa de homicidio y porte ilegal de armas",
+   "lugar": "Quibdó",
+   "publicado": "2026-11-17T21:50:58.000Z",
+   "resumen": "En el marco de las acciones institucionales contra los delitos que afectan la seguridad y la convivencia ciudadana, uniformados de la Policía…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-quibdo-alias-bebe-requerido-por-tentativa-homicidio-porte-ilegal-armas"
+  },
+  {
+   "id": "perros-antinarcoticos-detectan-tres-encomiendas-con-marihuana-en-manizales",
+   "titulo": "Perros antinarcóticos detectan tres encomiendas con marihuana en Manizales",
+   "lugar": "Manizales",
+   "publicado": "2026-11-17T21:34:56.000Z",
+   "resumen": "En el marco de la ofensiva permanente contra el multicrimen y el delito, la Policía Nacional, en Manizales, a través de la Seccional de…",
+   "enlace": "https://www.policia.gov.co/noticia/perros-antinarcoticos-detectan-tres-encomiendas-con-marihuana-en-manizales"
+  },
+  {
+   "id": "capturado-presunto-integrante-estructura-criminal-los-mexicanos-por-tentativa-homicidio",
+   "titulo": "Capturado presunto integrante de la estructura criminal ‘Los Mexicanos’ por tentativa de homicidio y porte ilegal de armas",
+   "lugar": "Quibdó",
+   "publicado": "2026-11-17T20:26:31.000Z",
+   "resumen": "Uniformados de la Policía Nacional adscritos a la Seccional de Investigación Criminal (SIJIN), en coordinación con la fiscalía general de la…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-presunto-integrante-estructura-criminal-los-mexicanos-por-tentativa-homicidio"
+  },
+  {
+   "id": "14-capturas-recuperacion-automotores-dejan-los-operativos-seguridad-durante-puente-festivo",
+   "titulo": "14 capturas y recuperación de automotores dejan los operativos de seguridad durante el puente festivo en Nariño",
+   "lugar": "Taminango",
+   "publicado": "2026-11-17T19:45:16.000Z",
+   "resumen": "Con el despliegue de acciones estratégicas de seguridad, vigilancia y control en los diferentes municipios del departamento, la Policía Nacional…",
+   "enlace": "https://www.policia.gov.co/noticia/14-capturas-recuperacion-automotores-dejan-los-operativos-seguridad-durante-puente-festivo"
+  },
+  {
+   "id": "capturado-en-marmato-un-hombre-por-porte-ilegal-armas-fuego",
+   "titulo": "Capturado en Marmato un hombre por porte ilegal de armas de fuego",
+   "lugar": "Marmato",
+   "publicado": "2026-11-16T22:02:00.000Z",
+   "resumen": "La Policía Nacional, en el departamento de Caldas, a través de las patrullas de las zonas de atención del municipio de Marmato, logró la captura…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-marmato-un-hombre-por-porte-ilegal-armas-fuego"
+  },
+  {
+   "id": "policia-nacional-captura-por-orden-judicial-al-presunto-responsable-feminicidio-en-puerto",
+   "titulo": "Policía Nacional captura por orden judicial al presunto responsable de feminicidio en Puerto Asís",
+   "lugar": "Puerto Asís",
+   "publicado": "2026-11-16T20:18:34.000Z",
+   "resumen": "Gracias a las labores investigativas adelantadas por la Policía Nacional, fue capturado mediante orden judicial un hombre de 39 años, señalado…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-captura-por-orden-judicial-al-presunto-responsable-feminicidio-en-puerto"
+  },
+  {
+   "id": "policia-nacional-frustra-posible-accion-terrorista-captura-un-hombre-en-granada-meta",
+   "titulo": "Policía Nacional frustra posible acción terrorista y captura a un hombre en Granada, Meta",
+   "lugar": "Granada",
+   "publicado": "2026-11-16T16:12:52.000Z",
+   "resumen": "En una operación conjunta, uniformados de la Policía Nacional, con el apoyo del Ejército Nacional, frustraron una posible acción terrorista y…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-frustra-posible-accion-terrorista-captura-un-hombre-en-granada-meta"
+  },
   {
    "id": "incautados-mas-425-millones-que-pertenecerian-las-finanzas-estructuras-criminales-en",
    "titulo": "Incautados más de $425 millones que pertenecerían a las finanzas de estructuras criminales en Putumayo",
@@ -20,12 +116,28 @@
    "enlace": "https://www.policia.gov.co/noticia/diplomacia-academica-cooperacion-hemisferica-ciencia-al-servicio-seguridad-en-las-americas"
   },
   {
+   "id": "carolina-melo-lopez-region-pacifica-fue-elegida-reina-policia-nacional-2026",
+   "titulo": "Carolina Melo López, Región Pacífica, fue elegida Reina de la Policía Nacional 2026",
+   "lugar": "Cartagena",
+   "publicado": "2026-11-15T19:20:52.000Z",
+   "resumen": "En la mañana de este domingo 15 de noviembre se llevó a cabo la elección y coronación de la Reina de la Policía Nacional 2026, un encuentro que…",
+   "enlace": "https://www.policia.gov.co/noticia/carolina-melo-lopez-region-pacifica-fue-elegida-reina-policia-nacional-2026"
+  },
+  {
    "id": "dos-hombres-fueron-capturados-por-desaparicion-forzada-tortura-en-combita-boyaca",
    "titulo": "Dos hombres fueron capturados por desaparición forzada y tortura en Cómbita, Boyacá",
    "lugar": "Tunja",
    "publicado": "2026-11-15T15:34:51.000Z",
    "resumen": "La Policía Nacional, en desarrollo del Plan Cazador y como parte de las estrategias de prevención, vigilancia y control, logró la captura de dos…",
    "enlace": "https://www.policia.gov.co/noticia/dos-hombres-fueron-capturados-por-desaparicion-forzada-tortura-en-combita-boyaca"
+  },
+  {
+   "id": "policia-capturo-cuatro-personas-senaladas-participar-en-un-triple-homicidio-ocurrido-en",
+   "titulo": "Policía capturó a cuatro personas señaladas de participar en un triple homicidio ocurrido en Nariño",
+   "lugar": "Granada",
+   "publicado": "2026-11-15T15:10:50.000Z",
+   "resumen": "En el marco de las acciones investigativas orientadas al esclarecimiento de hechos que afectan la seguridad y la integridad de las personas, la…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-capturo-cuatro-personas-senaladas-participar-en-un-triple-homicidio-ocurrido-en"
   },
   {
    "id": "tres-personas-capturadas-en-hotel-tunja-por-porte-ilegal-arma-fuego",
@@ -130,118 +242,6 @@
    "publicado": "2026-11-13T20:02:47.000Z",
    "resumen": "Con motivo del incremento de viajeros durante el puente festivo de la Independencia de Cartagena, la Policía Nacional activa un dispositivo…",
    "enlace": "https://www.policia.gov.co/noticia/policia-nacional-despliega-dispositivo-especial-seguridad-vial-en-las-carreteras-narino"
-  },
-  {
-   "id": "policia-nacional-rescato-libero-una-zarigueya-en-ipiales-gracias-colaboracion-ciudadana",
-   "titulo": "La Policía Nacional rescató y liberó una zarigüeya en Ipiales gracias a la colaboración ciudadana",
-   "lugar": "Ipiales",
-   "publicado": "2026-11-13T19:34:34.000Z",
-   "resumen": "En desarrollo de actividades de protección del capital natural, la Policía Nacional, a través de la Seccional de Carabineros y Protección…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-rescato-libero-una-zarigueya-en-ipiales-gracias-colaboracion-ciudadana"
-  },
-  {
-   "id": "seis-personas-capturadas-con-armas-fuego-estupefacientes-en-mistrato-risaralda",
-   "titulo": "Seis personas capturadas con armas de fuego y estupefacientes en Mistrató, Risaralda",
-   "lugar": "Mistrató",
-   "publicado": "2026-11-13T16:58:04.000Z",
-   "resumen": "En desarrollo de las acciones operativas contra el delito, la Policía Nacional, a través del Grupo de Operaciones Especiales (GOES), logró la…",
-   "enlace": "https://www.policia.gov.co/noticia/seis-personas-capturadas-con-armas-fuego-estupefacientes-en-mistrato-risaralda"
-  },
-  {
-   "id": "dos-personas-capturadas-por-presunto-homicidio-en-san-andres",
-   "titulo": "Dos personas capturadas por presunto homicidio en San Andrés",
-   "lugar": "Archipiélago de San Andrés",
-   "publicado": "2026-11-13T16:48:09.000Z",
-   "resumen": "La Policía Nacional, en coordinación con la Armada de Colombia, el Ejército Nacional y el Cuerpo Técnico de Investigación (CTI) de la Fiscalía…",
-   "enlace": "https://www.policia.gov.co/noticia/dos-personas-capturadas-por-presunto-homicidio-en-san-andres"
-  },
-  {
-   "id": "policia-nacional-participa-en-ii-jornada-derecho-publico-2026-en-monteria",
-   "titulo": "Policía Nacional participa en la II Jornada de Derecho Público 2026 en Montería",
-   "lugar": "Montería",
-   "publicado": "2026-11-13T16:44:10.000Z",
-   "resumen": "Con la participación de juristas, académicos, funcionarios públicos, integrantes de la Fuerza Pública y operadores judiciales, se llevó a cabo la…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-participa-en-ii-jornada-derecho-publico-2026-en-monteria"
-  },
-  {
-   "id": "incautados-254-kilogramos-marihuana-en-neiva-castilla-en-municipio-aipe",
-   "titulo": "Incautados 254 kilogramos de marihuana en la vía Neiva–Castilla, en el municipio de Aipe",
-   "lugar": "Aipe",
-   "publicado": "2026-11-13T16:28:23.000Z",
-   "resumen": "En desarrollo de actividades de patrullaje y control sobre la vía Neiva–Castilla, a la altura del casco urbano del municipio de Aipe, uniformados…",
-   "enlace": "https://www.policia.gov.co/noticia/incautados-254-kilogramos-marihuana-en-neiva-castilla-en-municipio-aipe"
-  },
-  {
-   "id": "capturado-presunto-jefe-sicarios-del-clan-del-golfo-en-zona-rural-cerete-cordoba",
-   "titulo": "Capturado presunto jefe de sicarios del ‘Clan del Golfo’ en zona rural de Cereté, Córdoba",
-   "lugar": "Montería",
-   "publicado": "2026-11-13T16:23:26.000Z",
-   "resumen": "En desarrollo de acciones investigativas y operativas contra las estructuras criminales, la Policía Nacional, a través de la Seccional de…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-presunto-jefe-sicarios-del-clan-del-golfo-en-zona-rural-cerete-cordoba"
-  },
-  {
-   "id": "macondo-magangue-un-encuentro-donde-comunidad-fue-protagonista-las-soluciones",
-   "titulo": "Macondo, Magangué: un encuentro donde la comunidad fue protagonista de las soluciones",
-   "lugar": "Magangué",
-   "publicado": "2026-11-13T16:16:52.000Z",
-   "resumen": "Hay barrios que llevan nombres de novela y otros que, sin proponérselo, terminan escribiendo sus propias historias.",
-   "enlace": "https://www.policia.gov.co/noticia/macondo-magangue-un-encuentro-donde-comunidad-fue-protagonista-las-soluciones"
-  },
-  {
-   "id": "cuatro-capturados-cuatro-armas-incautadas-durante-operativo-conjunto-en-quibdo",
-   "titulo": "Cuatro capturados y cuatro armas incautadas durante operativo conjunto en Quibdó",
-   "lugar": "Quibdó",
-   "publicado": "2026-11-13T15:33:25.000Z",
-   "resumen": "En desarrollo de una operación conjunta entre la Policía Nacional y el Ejército Nacional, fueron capturados cuatro presuntos integrantes de la…",
-   "enlace": "https://www.policia.gov.co/noticia/cuatro-capturados-cuatro-armas-incautadas-durante-operativo-conjunto-en-quibdo"
-  },
-  {
-   "id": "siete-presuntos-integrantes-los-mexicanos-fueron-capturados-durante-operacion-contra",
-   "titulo": "Siete presuntos integrantes de ‘Los Mexicanos’ fueron capturados durante operación contra la extorsión en Quibdó",
-   "lugar": "Quibdó",
-   "publicado": "2026-11-13T15:25:48.000Z",
-   "resumen": "En desarrollo de la operación ‘Ópalo’, la Policía Nacional logró la captura de siete personas que presuntamente harían parte de la estructura…",
-   "enlace": "https://www.policia.gov.co/noticia/siete-presuntos-integrantes-los-mexicanos-fueron-capturados-durante-operacion-contra"
-  },
-  {
-   "id": "capturado-en-istmina-por-presunta-violencia-intrafamiliar-agravada-lesiones-al-feto",
-   "titulo": "Capturado en Istmina por presunta violencia intrafamiliar agravada y lesiones al feto",
-   "lugar": "Istmina",
-   "publicado": "2026-11-13T13:06:10.000Z",
-   "resumen": "En desarrollo de la Estrategia contra la Violencia de Género y la Violencia Intrafamiliar, unidades de la Policía Nacional, adscritas a la Unidad…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-istmina-por-presunta-violencia-intrafamiliar-agravada-lesiones-al-feto"
-  },
-  {
-   "id": "desarticulado-grupo-delincuencial-los-nocturnos-senalado-cometer-secuestros-extorsivos",
-   "titulo": "Desarticulado el grupo delincuencial ‘Los Nocturnos’, señalado de cometer secuestros extorsivos mediante la modalidad de paseo millonario en Bogotá",
-   "lugar": "Bogotá",
-   "publicado": "2026-11-13T13:00:00.000Z",
-   "resumen": "En desarrollo de la operación Kratos, la Policía Nacional, a través del Grupo de Acción Unificada por la Libertad Personal (GAULA) y en…",
-   "enlace": "https://www.policia.gov.co/noticia/desarticulado-grupo-delincuencial-los-nocturnos-senalado-cometer-secuestros-extorsivos"
-  },
-  {
-   "id": "nuevo-golpe-al-crimen-organizado-33-capturas-mesa",
-   "titulo": "Nuevo golpe al crimen organizado: 33 capturas de “El Mesa”",
-   "lugar": "Bogotá",
-   "publicado": "2026-11-13T13:00:00.000Z",
-   "resumen": "La Policía Nacional, a través de la Seccional de Investigación Criminal, en trabajo articulado con la Fiscalía General De La Nación logró golpear…",
-   "enlace": "https://www.policia.gov.co/noticia/nuevo-golpe-al-crimen-organizado-33-capturas-mesa"
-  },
-  {
-   "id": "operacion-kratos-desarticula-al-grupo-delincuencial-illimani-senalado-cuatro-homicidios",
-   "titulo": "Operación Kratos desarticula al grupo delincuencial ‘Illimani’, señalado de cuatro homicidios y tráfico de estupefacientes en Bogotá",
-   "lugar": "Bogotá",
-   "publicado": "2026-11-13T13:00:00.000Z",
-   "resumen": "En desarrollo de la operación Kratos, la Policía Nacional, a través de la Seccional de Investigación Criminal (SIJIN) y en coordinación con la…",
-   "enlace": "https://www.policia.gov.co/noticia/operacion-kratos-desarticula-al-grupo-delincuencial-illimani-senalado-cuatro-homicidios"
-  },
-  {
-   "id": "operacion-ocobos-patria-desarticula-los-capullos-ii-estructura-senalada-participar-en-20",
-   "titulo": "Operación Ocobos de la Patria desarticula a ‘Los Capullos II’, estructura señalada de participar en 20 homicidios en Ibagué",
-   "lugar": "Ibagué",
-   "publicado": "2026-11-13T06:50:50.000Z",
-   "resumen": "En el marco de la estrategia del Gobierno Nacional Bloques Operativos de Seguridad Urbana, la Policía Nacional, mediante la operación ‘Ocobos de…",
-   "enlace": "https://www.policia.gov.co/noticia/operacion-ocobos-patria-desarticula-los-capullos-ii-estructura-senalada-participar-en-20"
   }
  ]
 }
