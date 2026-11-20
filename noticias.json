@@ -1,7 +1,7 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-19T19:32:16.612353Z",
+ "descargado": "2026-11-20T04:02:37.052951Z",
  "noticias": [
   {
    "id": "policia-capturo-en-flagrancia-un-hombre-por-presunta-falsedad-marcaria-en-cienaga-oro",
@@ -34,6 +34,14 @@
    "publicado": "2026-11-18T20:48:30.000Z",
    "resumen": "La Policía Nacional logró la captura en flagrancia de dos hombres, de 20 y 23 años, señalados de participar en el hurto de cuatro teléfonos…",
    "enlace": "https://www.policia.gov.co/noticia/policia-capturo-dos-hombres-recupero-cuatro-celulares-hurtados-en-valledupar"
+  },
+  {
+   "id": "capturado-alias-potete-requerido-por-homicidio-en-corregimiento-loma-cesar",
+   "titulo": "Capturado alias “Potete”, requerido por homicidio en el corregimiento de La Loma, Cesar",
+   "lugar": "El Paso",
+   "publicado": "2026-11-18T16:30:15.000Z",
+   "resumen": "En desarrollo de las acciones operativas e investigativas contra las estructuras criminales, la Policía Nacional, a través de la Seccional de…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-alias-potete-requerido-por-homicidio-en-corregimiento-loma-cesar"
   },
   {
    "id": "policia-recupera-en-manizales-vehiculo-hurtado-en-bogota-captura-un-hombre-por-receptacion",
@@ -234,14 +242,6 @@
    "publicado": "2026-11-15T14:37:29.000Z",
    "resumen": "Hay momentos en los que la vida parece empeñada en quitarlo todo.",
    "enlace": "https://www.policia.gov.co/noticia/sergio-gutierrez-una-historia-fe-perseverancia-vocacion-policial"
-  },
-  {
-   "id": "una-historia-amor-cuidado-animal-que-inspira-servicio-en-uraba",
-   "titulo": "Una historia de amor y cuidado animal que inspira el servicio en Urabá",
-   "lugar": "Acandí",
-   "publicado": "2026-11-14T22:12:29.000Z",
-   "resumen": "Una historia que conocimos a través de las redes sociales nos llevó hasta doña Martha Cecilia Montes Marín, propietaria del establecimiento…",
-   "enlace": "https://www.policia.gov.co/noticia/una-historia-amor-cuidado-animal-que-inspira-servicio-en-uraba"
   }
  ]
 }
