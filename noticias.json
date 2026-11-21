@@ -1,8 +1,16 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-20T19:09:51.220205Z",
+ "descargado": "2026-11-21T04:02:18.167594Z",
  "noticias": [
+  {
+   "id": "policia-nacional-implementa-manual-del-servicio-vigilancia-policial-para-fortalecer",
+   "titulo": "La Policía Nacional implementa el Manual del Servicio de Vigilancia Policial para fortalecer la seguridad ciudadana",
+   "lugar": "Bogotá",
+   "publicado": "2026-11-20T14:22:03.000Z",
+   "resumen": "La Policía Nacional de Colombia puso en marcha el nuevo Manual del Servicio de Vigilancia Policial, expedido mediante la Resolución 03543 del 6 de…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-implementa-manual-del-servicio-vigilancia-policial-para-fortalecer"
+  },
   {
    "id": "policia-captura-hombre-requerido-por-delitos-contra-los-recursos-naturales-medioambiente",
    "titulo": "Policía captura a hombre requerido por delitos contra los recursos naturales y el medioambiente",
@@ -20,6 +28,30 @@
    "enlace": "https://www.policia.gov.co/noticia/policia-rescata-una-mujer-que-presuntamente-era-retenida-contra-su-voluntad-por-su-hijo-en"
   },
   {
+   "id": "policia-captura-presunto-responsable-hurto-mediante-modalidad-fleteo-en-villavicencio",
+   "titulo": "Policía captura a presunto responsable de hurto mediante la modalidad de fleteo en Villavicencio",
+   "lugar": "Villavicencio",
+   "publicado": "2026-11-19T15:57:26.000Z",
+   "resumen": "La Policía Nacional, a través de uniformados del Modelo del Servicio de Policía, logró en las últimas horas la captura en flagrancia de un hombre…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-captura-presunto-responsable-hurto-mediante-modalidad-fleteo-en-villavicencio"
+  },
+  {
+   "id": "policia-nacional-captura-dos-hombres-e-incauta-mas-28-kilos-marihuana-en-neiva",
+   "titulo": "Policía Nacional captura a dos hombres e incauta más de 28 kilos de marihuana en Neiva",
+   "lugar": "Neiva",
+   "publicado": "2026-11-19T15:50:31.000Z",
+   "resumen": "En desarrollo de las acciones operativas contra el tráfico local de estupefacientes, la Policía Nacional en Neiva logró la captura en flagrancia…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-captura-dos-hombres-e-incauta-mas-28-kilos-marihuana-en-neiva"
+  },
+  {
+   "id": "policia-nacional-captura-por-orden-judicial-un-hombre-por-violencia-intrafamiliar-agravada",
+   "titulo": "Policía Nacional captura por orden judicial a un hombre por violencia intrafamiliar agravada en El Paso",
+   "lugar": "El Paso",
+   "publicado": "2026-11-19T15:37:09.000Z",
+   "resumen": "En desarrollo de las acciones investigativas orientadas a proteger la integridad y los derechos de las víctimas de violencia intrafamiliar, la…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-captura-por-orden-judicial-un-hombre-por-violencia-intrafamiliar-agravada"
+  },
+  {
    "id": "policia-capturo-en-flagrancia-un-hombre-por-presunta-falsedad-marcaria-en-cienaga-oro",
    "titulo": "Policía capturó en flagrancia a un hombre por presunta falsedad marcaria en Ciénaga de Oro",
    "lugar": "Montería",
@@ -28,12 +60,44 @@
    "enlace": "https://www.policia.gov.co/noticia/policia-capturo-en-flagrancia-un-hombre-por-presunta-falsedad-marcaria-en-cienaga-oro"
   },
   {
+   "id": "policia-nacional-fortalece-prevencion-del-hurto-residencias-en-norte-monteria",
+   "titulo": "Policía Nacional fortalece la prevención del hurto a residencias en el norte de Montería",
+   "lugar": "Montería",
+   "publicado": "2026-11-19T00:48:16.000Z",
+   "resumen": "Con el propósito de fortalecer la seguridad ciudadana, prevenir el hurto a residencias y promover la participación activa de la comunidad en la…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-fortalece-prevencion-del-hurto-residencias-en-norte-monteria"
+  },
+  {
    "id": "policia-nacional-fortalece-seguridad-en-restaurantes-gastrobares-monteria",
    "titulo": "Policía Nacional fortalece la seguridad en restaurantes y gastrobares de Montería",
    "lugar": "Montería",
    "publicado": "2026-11-19T00:41:22.000Z",
    "resumen": "La Policía Nacional, en Montería, desarrolló actividades de prevención y presencia institucional en diferentes restaurantes y gastrobares de la…",
    "enlace": "https://www.policia.gov.co/noticia/policia-nacional-fortalece-seguridad-en-restaurantes-gastrobares-monteria"
+  },
+  {
+   "id": "capturado-en-monteria-por-presunta-agresion-uniformados-policia-nacional",
+   "titulo": "Capturado en Montería por presunta agresión a uniformados de la Policía Nacional",
+   "lugar": "Montería",
+   "publicado": "2026-11-19T00:36:38.000Z",
+   "resumen": "En desarrollo de las actividades de vigilancia y atención a llamados ciudadanos, uniformados adscritos al CAI Cantaclaro lograron la captura en…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-monteria-por-presunta-agresion-uniformados-policia-nacional"
+  },
+  {
+   "id": "policia-nacional-fortalece-acciones-prevencion-contra-explotacion-infantil-en-monteria",
+   "titulo": "Policía Nacional fortalece acciones de prevención contra la explotación infantil en Montería",
+   "lugar": "Montería",
+   "publicado": "2026-11-19T00:32:29.000Z",
+   "resumen": "En desarrollo de la estrategia E-PAÍS, la Policía Nacional en Montería, a través del Grupo de Protección a la Infancia y la Adolescencia, llevó a…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-fortalece-acciones-prevencion-contra-explotacion-infantil-en-monteria"
+  },
+  {
+   "id": "policia-fortalece-prevencion-violencia-intrafamiliar-en-monteria",
+   "titulo": "Policía fortalece la prevención de la violencia intrafamiliar en Montería",
+   "lugar": "Montería",
+   "publicado": "2026-11-19T00:11:30.000Z",
+   "resumen": "La Policía Nacional, a través del Grupo de Protección a la Infancia y Adolescencia de la Policía Metropolitana de San Jerónimo de Montería,…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-fortalece-prevencion-violencia-intrafamiliar-en-monteria"
   },
   {
    "id": "policia-incauta-mas-310-kilogramos-marihuana-en-tambo-narino",
@@ -178,70 +242,6 @@
    "publicado": "2026-11-17T22:13:41.000Z",
    "resumen": "La Policía Nacional de Colombia realizó en el Centro Social de Agentes y Patrulleros (CESAP) el lanzamiento oficial del libro “Historias que…",
    "enlace": "https://www.policia.gov.co/noticia/policia-nacional-exalta-talento-literario-sus-estudiantes-con-lanzamiento-del-libro"
-  },
-  {
-   "id": "capturado-en-quibdo-alias-bebe-requerido-por-tentativa-homicidio-porte-ilegal-armas",
-   "titulo": "Capturado en Quibdó alias ‘Bebé’, requerido por tentativa de homicidio y porte ilegal de armas",
-   "lugar": "Quibdó",
-   "publicado": "2026-11-17T21:50:58.000Z",
-   "resumen": "En el marco de las acciones institucionales contra los delitos que afectan la seguridad y la convivencia ciudadana, uniformados de la Policía…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-quibdo-alias-bebe-requerido-por-tentativa-homicidio-porte-ilegal-armas"
-  },
-  {
-   "id": "perros-antinarcoticos-detectan-tres-encomiendas-con-marihuana-en-manizales",
-   "titulo": "Perros antinarcóticos detectan tres encomiendas con marihuana en Manizales",
-   "lugar": "Manizales",
-   "publicado": "2026-11-17T21:34:56.000Z",
-   "resumen": "En el marco de la ofensiva permanente contra el multicrimen y el delito, la Policía Nacional, en Manizales, a través de la Seccional de…",
-   "enlace": "https://www.policia.gov.co/noticia/perros-antinarcoticos-detectan-tres-encomiendas-con-marihuana-en-manizales"
-  },
-  {
-   "id": "capturado-presunto-integrante-estructura-criminal-los-mexicanos-por-tentativa-homicidio",
-   "titulo": "Capturado presunto integrante de la estructura criminal ‘Los Mexicanos’ por tentativa de homicidio y porte ilegal de armas",
-   "lugar": "Quibdó",
-   "publicado": "2026-11-17T20:26:31.000Z",
-   "resumen": "Uniformados de la Policía Nacional adscritos a la Seccional de Investigación Criminal (SIJIN), en coordinación con la fiscalía general de la…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-presunto-integrante-estructura-criminal-los-mexicanos-por-tentativa-homicidio"
-  },
-  {
-   "id": "14-capturas-recuperacion-automotores-dejan-los-operativos-seguridad-durante-puente-festivo",
-   "titulo": "14 capturas y recuperación de automotores dejan los operativos de seguridad durante el puente festivo en Nariño",
-   "lugar": "Taminango",
-   "publicado": "2026-11-17T19:45:16.000Z",
-   "resumen": "Con el despliegue de acciones estratégicas de seguridad, vigilancia y control en los diferentes municipios del departamento, la Policía Nacional…",
-   "enlace": "https://www.policia.gov.co/noticia/14-capturas-recuperacion-automotores-dejan-los-operativos-seguridad-durante-puente-festivo"
-  },
-  {
-   "id": "policia-nacional-comunidad-identifican-problematicas-seguridad-convivencia-en-mercado-del",
-   "titulo": "Policía Nacional y comunidad identifican problemáticas de seguridad y convivencia en el Mercado del Sur de Montería",
-   "lugar": "Montería",
-   "publicado": "2026-11-17T16:19:31.000Z",
-   "resumen": "La Policía Nacional, a través del Grupo de Policía Comunitaria, desarrolló una jornada barrial de interacción y participación ciudadana en el…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-comunidad-identifican-problematicas-seguridad-convivencia-en-mercado-del"
-  },
-  {
-   "id": "capturado-en-monteria-alias-pacho-arenas-senalado-cabecilla-una-estructura-criminal-del",
-   "titulo": "Capturado en Montería alias “Pacho Arenas”, señalado cabecilla de una estructura criminal del Clan del Golfo",
-   "lugar": "Montería",
-   "publicado": "2026-11-17T16:12:18.000Z",
-   "resumen": "En el marco de la ofensiva permanente contra los grupos armados organizados y las estructuras multicrimen que afectan la seguridad ciudadana, la…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-monteria-alias-pacho-arenas-senalado-cabecilla-una-estructura-criminal-del"
-  },
-  {
-   "id": "policia-nacional-autoridades-articulan-acciones-para-garantizar-seguridad-durante-las",
-   "titulo": "Policía Nacional y autoridades articulan acciones para garantizar la seguridad durante las festividades de Montería",
-   "lugar": "Montería",
-   "publicado": "2026-11-17T16:05:40.000Z",
-   "resumen": "Bajo el liderazgo del alcalde de Montería, en articulación con las autoridades civiles, militares y organismos de control, y con el acompañamiento…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-autoridades-articulan-acciones-para-garantizar-seguridad-durante-las"
-  },
-  {
-   "id": "policia-nacional-intensifica-controles-acciones-preventivas-en-monteria",
-   "titulo": "Policía Nacional intensifica controles y acciones preventivas en Montería",
-   "lugar": "Montería",
-   "publicado": "2026-11-17T16:02:34.000Z",
-   "resumen": "Con el propósito de fortalecer la seguridad ciudadana, prevenir la comisión de hechos delictivos y garantizar la tranquilidad de los habitantes,…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-intensifica-controles-acciones-preventivas-en-monteria"
   }
  ]
 }
