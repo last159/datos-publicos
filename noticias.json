@@ -1,7 +1,7 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-21T04:02:18.167594Z",
+ "descargado": "2026-11-21T18:04:08.370264Z",
  "noticias": [
   {
    "id": "policia-nacional-implementa-manual-del-servicio-vigilancia-policial-para-fortalecer",
@@ -12,12 +12,44 @@
    "enlace": "https://www.policia.gov.co/noticia/policia-nacional-implementa-manual-del-servicio-vigilancia-policial-para-fortalecer"
   },
   {
+   "id": "policia-captura-en-flagrancia-un-hombre-por-homicidio-en-medellin",
+   "titulo": "Policía captura en flagrancia a un hombre por homicidio en Medellín",
+   "lugar": "Medellín",
+   "publicado": "2026-11-20T01:40:11.000Z",
+   "resumen": "En desarrollo de las estrategias institucionales orientadas a la protección de la vida y la judicialización de quienes atentan contra la…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-captura-en-flagrancia-un-hombre-por-homicidio-en-medellin"
+  },
+  {
    "id": "policia-captura-hombre-requerido-por-delitos-contra-los-recursos-naturales-medioambiente",
    "titulo": "Policía captura a hombre requerido por delitos contra los recursos naturales y el medioambiente",
    "lugar": "Medellín",
    "publicado": "2026-11-20T01:34:57.000Z",
    "resumen": "En desarrollo de las estrategias institucionales orientadas a combatir las economías ilícitas y garantizar el cumplimiento de los requerimientos…",
    "enlace": "https://www.policia.gov.co/noticia/policia-captura-hombre-requerido-por-delitos-contra-los-recursos-naturales-medioambiente"
+  },
+  {
+   "id": "acciones-control-permitieron-hacer-efectiva-una-orden-judicial-en-novita",
+   "titulo": "Acciones de control permitieron hacer efectiva una orden judicial en Nóvita",
+   "lugar": "Nóvita",
+   "publicado": "2026-11-19T21:59:05.000Z",
+   "resumen": "La Policía Nacional hizo efectiva en Nóvita una orden judicial contra un hombre requerido por el presunto delito de acto sexual violento agravado…",
+   "enlace": "https://www.policia.gov.co/noticia/acciones-control-permitieron-hacer-efectiva-una-orden-judicial-en-novita"
+  },
+  {
+   "id": "policia-nacional-captura-en-istmina-un-hombre-requerido-por-violencia-intrafamiliar",
+   "titulo": "Policía Nacional captura en Istmina a un hombre requerido por violencia intrafamiliar",
+   "lugar": "Istmina",
+   "publicado": "2026-11-19T21:56:09.000Z",
+   "resumen": "En el municipio de Istmina, las labores investigativas adelantadas por la Policía Nacional, en coordinación con la Fiscalía General de la Nación,…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-captura-en-istmina-un-hombre-requerido-por-violencia-intrafamiliar"
+  },
+  {
+   "id": "policia-captura-un-hombre-por-presunta-violacion-habitacion-ajena-en-armenia",
+   "titulo": "Policía captura a un hombre por presunta violación de habitación ajena en Armenia",
+   "lugar": "Armenia",
+   "publicado": "2026-11-19T21:35:18.000Z",
+   "resumen": "La Policía Nacional en el departamento del Quindío logró la captura de un hombre de 35 años por el presunto delito de violación de habitación…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-captura-un-hombre-por-presunta-violacion-habitacion-ajena-en-armenia"
   },
   {
    "id": "policia-rescata-una-mujer-que-presuntamente-era-retenida-contra-su-voluntad-por-su-hijo-en",
@@ -58,6 +90,14 @@
    "publicado": "2026-11-19T14:19:59.000Z",
    "resumen": "En desarrollo de las acciones operativas y de control orientadas a fortalecer la seguridad y la convivencia ciudadana, la Policía Nacional de…",
    "enlace": "https://www.policia.gov.co/noticia/policia-capturo-en-flagrancia-un-hombre-por-presunta-falsedad-marcaria-en-cienaga-oro"
+  },
+  {
+   "id": "operacion-opalo-policia-captura-presunto-extorsionista-en-yacopi-cundinamarca",
+   "titulo": "Operación “Ópalo”: Policía captura a presunto extorsionista en Yacopí, Cundinamarca",
+   "lugar": "Cundinamarca",
+   "publicado": "2026-11-19T10:21:50.000Z",
+   "resumen": "En el marco del Plan Cazador y de la operación “Ópalo”, unidades del GAULA del Departamento de Policía Cundinamarca, en coordinación con el Grupo…",
+   "enlace": "https://www.policia.gov.co/noticia/operacion-opalo-policia-captura-presunto-extorsionista-en-yacopi-cundinamarca"
   },
   {
    "id": "policia-nacional-fortalece-prevencion-del-hurto-residencias-en-norte-monteria",
@@ -202,46 +242,6 @@
    "publicado": "2026-11-18T14:44:50.000Z",
    "resumen": "En desarrollo de las acciones investigativas y operativas contra los delitos que afectan la integridad y los derechos de las personas, la Policía…",
    "enlace": "https://www.policia.gov.co/noticia/magdalena-en-san-sebastian-en-barrio-cecilia-caballero-capturo-por-orden-judicial-un-hombre"
-  },
-  {
-   "id": "policia-nacional-fortalece-seguridad-en-parques-escenarios-deportivos-bucaramanga",
-   "titulo": "Policía Nacional fortalece la seguridad en parques y escenarios deportivos de Bucaramanga",
-   "lugar": "Bucaramanga",
-   "publicado": "2026-11-18T10:24:08.000Z",
-   "resumen": "La Policía Nacional, a través de las unidades de las Zonas de Atención Policial (ZAP), desarrolla intervenciones operativas y preventivas en…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-fortalece-seguridad-en-parques-escenarios-deportivos-bucaramanga"
-  },
-  {
-   "id": "capturado-en-flagrancia-un-hombre-por-presuntos-actos-sexuales-con-menor-14-anos",
-   "titulo": "Capturado en flagrancia un hombre por presuntos actos sexuales con menor de 14 años",
-   "lugar": "Montería",
-   "publicado": "2026-11-18T00:17:02.000Z",
-   "resumen": "En el marco de las acciones para la protección integral de los niños, niñas y adolescentes, la Policía Nacional capturó en flagrancia a un hombre…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-flagrancia-un-hombre-por-presuntos-actos-sexuales-con-menor-14-anos"
-  },
-  {
-   "id": "capturado-en-bogota-alias-tachado-requerido-por-homicidio-agravado-un-adolescente-en-meta",
-   "titulo": "Capturado en Bogotá alias “Tachado”, requerido por homicidio agravado de un adolescente en el Meta",
-   "lugar": "Bogotá",
-   "publicado": "2026-11-17T22:31:21.000Z",
-   "resumen": "En desarrollo de las acciones investigativas orientadas al esclarecimiento de delitos contra la vida y la integridad personal, la Policía Nacional…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-bogota-alias-tachado-requerido-por-homicidio-agravado-un-adolescente-en-meta"
-  },
-  {
-   "id": "policia-incauta-mas-30-kilogramos-base-cocaina-captura-un-hombre-en-vias-del-meta",
-   "titulo": "Policía incauta más de 30 kilogramos de base de cocaína y captura a un hombre en vías del Meta",
-   "lugar": "Puerto López",
-   "publicado": "2026-11-17T22:23:59.000Z",
-   "resumen": "En desarrollo de la ofensiva contra el narcotráfico en la Orinoquía colombiana, la Policía Nacional, a través de la Unidad Básica de Investigación…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-incauta-mas-30-kilogramos-base-cocaina-captura-un-hombre-en-vias-del-meta"
-  },
-  {
-   "id": "policia-nacional-exalta-talento-literario-sus-estudiantes-con-lanzamiento-del-libro",
-   "titulo": "La Policía Nacional exalta el talento literario de sus estudiantes con el lanzamiento del libro “Historias que Inspiran 100 Sonrisas”",
-   "lugar": "Bogotá",
-   "publicado": "2026-11-17T22:13:41.000Z",
-   "resumen": "La Policía Nacional de Colombia realizó en el Centro Social de Agentes y Patrulleros (CESAP) el lanzamiento oficial del libro “Historias que…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-exalta-talento-literario-sus-estudiantes-con-lanzamiento-del-libro"
   }
  ]
 }
