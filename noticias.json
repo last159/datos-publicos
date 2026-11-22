@@ -1,8 +1,16 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-22T03:16:51.706441Z",
+ "descargado": "2026-11-22T18:34:45.792574Z",
  "noticias": [
+  {
+   "id": "policia-captura-en-quimbaya-hombre-requerido-por-orden-judicial",
+   "titulo": "Policía captura en Quimbaya a hombre requerido por orden judicial",
+   "lugar": "Quimbaya",
+   "publicado": "2026-11-20T20:10:35.000Z",
+   "resumen": "En desarrollo de las actividades de vigilancia y control adelantadas por uniformados de la Estación de Policía Quimbaya, fue capturado un hombre…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-captura-en-quimbaya-hombre-requerido-por-orden-judicial"
+  },
   {
    "id": "policia-captura-un-hombre-e-incauta-una-escopeta-en-barrancominas-guainia",
    "titulo": "Policía captura a un hombre e incauta una escopeta en Barrancominas, Guainía",
@@ -66,6 +74,14 @@
    "publicado": "2026-11-19T21:35:18.000Z",
    "resumen": "La Policía Nacional en el departamento del Quindío logró la captura de un hombre de 35 años por el presunto delito de violación de habitación…",
    "enlace": "https://www.policia.gov.co/noticia/policia-captura-un-hombre-por-presunta-violacion-habitacion-ajena-en-armenia"
+  },
+  {
+   "id": "policia-nacional-captura-seis-personas-en-ofensiva-contra-estructuras-criminales-en",
+   "titulo": "Policía Nacional captura a seis personas en ofensiva contra estructuras criminales en Remedios, Antioquia",
+   "lugar": "Remedios",
+   "publicado": "2026-11-19T20:31:46.000Z",
+   "resumen": "La Policía Nacional en Antioquia adelantó una ofensiva institucional para contener los hechos de violencia registrados en el municipio de Remedios…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-captura-seis-personas-en-ofensiva-contra-estructuras-criminales-en"
   },
   {
    "id": "policia-rescata-una-mujer-que-presuntamente-era-retenida-contra-su-voluntad-por-su-hijo-en",
@@ -226,22 +242,6 @@
    "publicado": "2026-11-18T16:39:48.000Z",
    "resumen": "La Policía Nacional en el departamento de Caldas desplegó un dispositivo especial de más de 1.300 uniformados para garantizar la seguridad, la…",
    "enlace": "https://www.policia.gov.co/noticia/mas-1300-policias-garantizaran-seguridad-movilidad-en-caldas-durante-puente-festivo"
-  },
-  {
-   "id": "capturado-alias-potete-requerido-por-homicidio-en-corregimiento-loma-cesar",
-   "titulo": "Capturado alias “Potete”, requerido por homicidio en el corregimiento de La Loma, Cesar",
-   "lugar": "El Paso",
-   "publicado": "2026-11-18T16:30:15.000Z",
-   "resumen": "En desarrollo de las acciones operativas e investigativas contra las estructuras criminales, la Policía Nacional, a través de la Seccional de…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-alias-potete-requerido-por-homicidio-en-corregimiento-loma-cesar"
-  },
-  {
-   "id": "48-auxiliares-policia-reafirman-su-compromiso-con-colombia-durante-juramento-bandera",
-   "titulo": "48 auxiliares de Policía reafirman su compromiso con Colombia durante el juramento a la bandera",
-   "lugar": "Barrancabermeja",
-   "publicado": "2026-11-18T15:46:03.000Z",
-   "resumen": "En una ceremonia cargada de orgullo y vocación de servicio, 48 auxiliares de Policía, integrados por 27 mujeres y 21 hombres, realizaron el…",
-   "enlace": "https://www.policia.gov.co/noticia/48-auxiliares-policia-reafirman-su-compromiso-con-colombia-durante-juramento-bandera"
   }
  ]
 }
