@@ -1,8 +1,24 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-21T18:04:08.370264Z",
+ "descargado": "2026-11-22T03:16:51.706441Z",
  "noticias": [
+  {
+   "id": "policia-captura-un-hombre-e-incauta-una-escopeta-en-barrancominas-guainia",
+   "titulo": "Policía captura a un hombre e incauta una escopeta en Barrancominas, Guainía",
+   "lugar": "Inírida",
+   "publicado": "2026-11-20T15:31:13.000Z",
+   "resumen": "La Policía Nacional, en cumplimiento de su compromiso con la seguridad y la convivencia ciudadana, logró la captura de un ciudadano por el…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-captura-un-hombre-e-incauta-una-escopeta-en-barrancominas-guainia"
+  },
+  {
+   "id": "policia-desarticula-grupo-delincuencial-dedicado-al-trafico-estupefacientes-en-chiquinquira",
+   "titulo": "Policía desarticula grupo delincuencial dedicado al tráfico de estupefacientes en Chiquinquirá",
+   "lugar": "Chiquinquirá",
+   "publicado": "2026-11-20T15:20:45.000Z",
+   "resumen": "En el marco de la lucha frontal contra el tráfico de estupefacientes, la Policía Nacional, en articulación con la Fiscalía General de la Nación,…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-desarticula-grupo-delincuencial-dedicado-al-trafico-estupefacientes-en-chiquinquira"
+  },
   {
    "id": "policia-nacional-implementa-manual-del-servicio-vigilancia-policial-para-fortalecer",
    "titulo": "La Policía Nacional implementa el Manual del Servicio de Vigilancia Policial para fortalecer la seguridad ciudadana",
@@ -226,22 +242,6 @@
    "publicado": "2026-11-18T15:46:03.000Z",
    "resumen": "En una ceremonia cargada de orgullo y vocación de servicio, 48 auxiliares de Policía, integrados por 27 mujeres y 21 hombres, realizaron el…",
    "enlace": "https://www.policia.gov.co/noticia/48-auxiliares-policia-reafirman-su-compromiso-con-colombia-durante-juramento-bandera"
-  },
-  {
-   "id": "policia-recupera-en-manizales-vehiculo-hurtado-en-bogota-captura-un-hombre-por-receptacion",
-   "titulo": "Policía recupera en Manizales vehículo hurtado en Bogotá y captura a un hombre por receptación",
-   "lugar": "Manizales",
-   "publicado": "2026-11-18T14:51:21.000Z",
-   "resumen": "En desarrollo de actividades de prevención, vigilancia y control, la Policía Nacional en Manizales logró recuperar un vehículo que había sido…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-recupera-en-manizales-vehiculo-hurtado-en-bogota-captura-un-hombre-por-receptacion"
-  },
-  {
-   "id": "magdalena-en-san-sebastian-en-barrio-cecilia-caballero-capturo-por-orden-judicial-un-hombre",
-   "titulo": "Magdalena. En San Sebastián, en el barrio Cecilia Caballero, capturó por orden judicial a un hombre de 49 años, solicitado por acceso carnal abusivo con menor de 14 años, en El Banco, un hombre de 64 años, fue capturado por acceso carnal abusivo con menor",
-   "lugar": "Santa Marta",
-   "publicado": "2026-11-18T14:44:50.000Z",
-   "resumen": "En desarrollo de las acciones investigativas y operativas contra los delitos que afectan la integridad y los derechos de las personas, la Policía…",
-   "enlace": "https://www.policia.gov.co/noticia/magdalena-en-san-sebastian-en-barrio-cecilia-caballero-capturo-por-orden-judicial-un-hombre"
   }
  ]
 }
