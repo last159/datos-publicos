@@ -1,8 +1,32 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-22T18:34:45.792574Z",
+ "descargado": "2026-11-23T03:46:55.726107Z",
  "noticias": [
+  {
+   "id": "carabineros-policia-nacional-mejoran-vivienda-una-familia-campesina-en-villamaria",
+   "titulo": "Carabineros de la Policía Nacional mejoran vivienda de una familia campesina en Villamaría",
+   "lugar": "Manizales",
+   "publicado": "2026-11-20T23:56:36.000Z",
+   "resumen": "En cumplimiento de su compromiso con las comunidades rurales, la Policía Nacional, a través de la Seccional de Carabineros y Protección Ambiental…",
+   "enlace": "https://www.policia.gov.co/noticia/carabineros-policia-nacional-mejoran-vivienda-una-familia-campesina-en-villamaria"
+  },
+  {
+   "id": "policia-captura-un-hombre-e-incauta-un-arma-fuego-en-santa-rosa-cabal",
+   "titulo": "Policía captura a un hombre e incauta un arma de fuego en Santa Rosa de Cabal",
+   "lugar": "Santa Rosa de Cabal",
+   "publicado": "2026-11-20T23:55:43.000Z",
+   "resumen": "En desarrollo de actividades de patrullaje, registro y control, la Policía Nacional logró la captura de un hombre por el presunto delito de…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-captura-un-hombre-e-incauta-un-arma-fuego-en-santa-rosa-cabal"
+  },
+  {
+   "id": "policia-aprehende-adolescente-encuentra-400-kilos-marihuana-en-vias-risaralda",
+   "titulo": "Policía aprehende a adolescente y encuentra 400 kilos de marihuana en vías de Risaralda",
+   "lugar": "Belén de Umbría",
+   "publicado": "2026-11-20T23:45:15.000Z",
+   "resumen": "En la vía nacional que conduce al municipio de Belén de Umbría, la Policía Nacional, a través de la Seccional de Tránsito y Transporte de…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-aprehende-adolescente-encuentra-400-kilos-marihuana-en-vias-risaralda"
+  },
   {
    "id": "policia-captura-en-quimbaya-hombre-requerido-por-orden-judicial",
    "titulo": "Policía captura en Quimbaya a hombre requerido por orden judicial",
@@ -218,30 +242,6 @@
    "publicado": "2026-11-18T21:05:59.000Z",
    "resumen": "La Policía Nacional, a través de la Policía Metropolitana de Valledupar, hizo efectiva una orden de captura contra un hombre de 24 años, requerido…",
    "enlace": "https://www.policia.gov.co/noticia/policia-notifico-captura-por-hurto-calificado-agravado-en-valledupar"
-  },
-  {
-   "id": "policia-capturo-dos-hombres-recupero-cuatro-celulares-hurtados-en-valledupar",
-   "titulo": "Policía capturó a dos hombres y recuperó cuatro celulares hurtados en Valledupar",
-   "lugar": "Valledupar",
-   "publicado": "2026-11-18T20:48:30.000Z",
-   "resumen": "La Policía Nacional logró la captura en flagrancia de dos hombres, de 20 y 23 años, señalados de participar en el hurto de cuatro teléfonos…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-capturo-dos-hombres-recupero-cuatro-celulares-hurtados-en-valledupar"
-  },
-  {
-   "id": "capturado-alias-fabi-presunto-integrante-las-autodefensas-conquistadoras-sierra-nevada-en",
-   "titulo": "Capturado alias «El Fabi», presunto integrante de las Autodefensas Conquistadoras de la Sierra Nevada, en San Martín",
-   "lugar": "San Martín",
-   "publicado": "2026-11-18T20:41:40.000Z",
-   "resumen": "En un trabajo articulado con el Ejército Nacional, la Policía Nacional logró la captura en flagrancia de un hombre conocido como alias \"El Fabi\",…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-alias-fabi-presunto-integrante-las-autodefensas-conquistadoras-sierra-nevada-en"
-  },
-  {
-   "id": "mas-1300-policias-garantizaran-seguridad-movilidad-en-caldas-durante-puente-festivo",
-   "titulo": "Más de 1.300 policías garantizarán la seguridad y movilidad en Caldas durante el puente festivo de la Independencia de Cartagena",
-   "lugar": "Caldas",
-   "publicado": "2026-11-18T16:39:48.000Z",
-   "resumen": "La Policía Nacional en el departamento de Caldas desplegó un dispositivo especial de más de 1.300 uniformados para garantizar la seguridad, la…",
-   "enlace": "https://www.policia.gov.co/noticia/mas-1300-policias-garantizaran-seguridad-movilidad-en-caldas-durante-puente-festivo"
   }
  ]
 }
