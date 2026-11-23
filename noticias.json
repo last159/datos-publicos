@@ -1,8 +1,152 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-23T03:46:55.726107Z",
+ "descargado": "2026-11-23T22:44:23.423737Z",
  "noticias": [
+  {
+   "id": "policia-nacional-retuvo-en-macanal-un-hombre-requerido-por-argentina-mediante-notificacion",
+   "titulo": "Policía Nacional retuvo en Macanal a un hombre requerido por Argentina mediante notificación roja de interpol",
+   "lugar": "Macanal",
+   "publicado": "2026-11-23T15:42:16.000Z",
+   "resumen": "En desarrollo de las acciones de control y verificación adelantadas por la Policía Nacional en el departamento de Boyacá, uniformados de la…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-retuvo-en-macanal-un-hombre-requerido-por-argentina-mediante-notificacion"
+  },
+  {
+   "id": "capturado-por-trafico-estupefacientes-en-barrio-araza-san-jose-del-guaviare",
+   "titulo": "Capturado por tráfico de estupefacientes en el barrio Arazá de San José del Guaviare",
+   "lugar": "San José del Guaviare",
+   "publicado": "2026-11-23T14:32:50.000Z",
+   "resumen": "En desarrollo de actividades de registro y control realizadas por unidades del Grupo de Operaciones Especiales (GOES).",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-por-trafico-estupefacientes-en-barrio-araza-san-jose-del-guaviare"
+  },
+  {
+   "id": "policia-nacional-llevo-bienestar-integral-al-barrio-samper-con-mas-1600-atenciones-medicas",
+   "titulo": "La Policía Nacional llevó bienestar integral al barrio Samper con más de 1.600 atenciones médicas y veterinarias",
+   "lugar": "Quibdó",
+   "publicado": "2026-11-23T14:32:23.000Z",
+   "resumen": "La Policía Nacional de Colombia, a través de la Dirección de Carabineros y Protección Ambiental y la Policía Comunitaria del Departamento de…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-llevo-bienestar-integral-al-barrio-samper-con-mas-1600-atenciones-medicas"
+  },
+  {
+   "id": "ofensiva-institucional-contra-crimen-organizado-continua-dejando-resultados-en-quibdo",
+   "titulo": "La ofensiva institucional contra el crimen organizado continúa dejando resultados en Quibdó",
+   "lugar": "Quibdó",
+   "publicado": "2026-11-23T13:56:21.000Z",
+   "resumen": "La Policía Nacional continúa desarrollando contundentes acciones contra la delincuencia en el municipio de Quibdó, logrando la recaptura de uno de…",
+   "enlace": "https://www.policia.gov.co/noticia/ofensiva-institucional-contra-crimen-organizado-continua-dejando-resultados-en-quibdo"
+  },
+  {
+   "id": "recuperada-en-genova-camioneta-hurtada-hace-seis-anos",
+   "titulo": "Recuperada en Génova, camioneta hurtada hace seis años",
+   "lugar": "Génova",
+   "publicado": "2026-11-23T13:13:21.000Z",
+   "resumen": "La Policía Nacional en el despliegue de la cápsula operativa contra el hurto a vehículos en el municipio de Génova, logró la recuperación de una…",
+   "enlace": "https://www.policia.gov.co/noticia/recuperada-en-genova-camioneta-hurtada-hace-seis-anos"
+  },
+  {
+   "id": "acompanamiento-proteccion-tranquilidad-todos-los-asistentes",
+   "titulo": "Acompañamiento, protección y tranquilidad a todos los asistentes",
+   "lugar": "Montería",
+   "publicado": "2026-11-23T01:17:03.000Z",
+   "resumen": "Montería, Córdoba. En el marco de las tradicionales Fiestas del Río y de la realización del esperado Tropical Fest a orillas del…",
+   "enlace": "https://www.policia.gov.co/noticia/acompanamiento-proteccion-tranquilidad-todos-los-asistentes"
+  },
+  {
+   "id": "capturados-dos-presuntos-atracadores-armados-en-monteria",
+   "titulo": "Capturados dos presuntos atracadores armados en Montería",
+   "lugar": "Montería",
+   "publicado": "2026-11-23T00:10:48.000Z",
+   "resumen": "Montería, Córdoba. Gracias a la oportuna información suministrada por la ciudadanía a través de la PDA de la Policía Nacional,…",
+   "enlace": "https://www.policia.gov.co/noticia/capturados-dos-presuntos-atracadores-armados-en-monteria"
+  },
+  {
+   "id": "monteria-celebra-sus-fiestas-del-rio-pedaleando-por-seguridad",
+   "titulo": "¡Montería celebra sus Fiestas del Río pedaleando por la seguridad!",
+   "lugar": "Montería",
+   "publicado": "2026-11-22T23:56:15.000Z",
+   "resumen": "Montería, Córdoba. En medio de la alegría, el entusiasmo y el espíritu festivo que caracterizan las Fiestas del Río 2026, la…",
+   "enlace": "https://www.policia.gov.co/noticia/monteria-celebra-sus-fiestas-del-rio-pedaleando-por-seguridad"
+  },
+  {
+   "id": "acercamiento-institucional-con-estrategia-rumbo-tu-barrio",
+   "titulo": "Acercamiento institucional con la estrategia ¨Rumbo a tu barrio\"",
+   "lugar": "Cereté",
+   "publicado": "2026-11-22T23:52:32.000Z",
+   "resumen": "Cereté, Córdoba. En un esfuerzo conjunto por fortalecer la convivencia ciudadana, la seguridad y el acceso a la oferta…",
+   "enlace": "https://www.policia.gov.co/noticia/acercamiento-institucional-con-estrategia-rumbo-tu-barrio"
+  },
+  {
+   "id": "policia-nacional-fortalece-seguridad-los-viajeros-en-peaje-los-cauchos-al-sur-del-huila",
+   "titulo": "La Policía Nacional fortalece la seguridad de los viajeros en el peaje los Cauchos, al sur del Huila",
+   "lugar": "Neiva",
+   "publicado": "2026-11-22T21:19:45.000Z",
+   "resumen": "Como parte de las estrategias para fortalecer la seguridad en las vías, la Policía Nacional en Neiva adelanta actividades de prevención,…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-fortalece-seguridad-los-viajeros-en-peaje-los-cauchos-al-sur-del-huila"
+  },
+  {
+   "id": "dos-personas-capturadas-hallazgo-mas-9-kilogramos-marihuana",
+   "titulo": "dos personas capturadas y hallazgo de más de 9 kilogramos de marihuana",
+   "lugar": "Tunja",
+   "publicado": "2026-11-22T20:26:51.000Z",
+   "resumen": "En desarrollo de las actividades preventivas, disuasivas y de control contra el tráfico de estupefacientes, la Policía Metropolitana de Tunja a…",
+   "enlace": "https://www.policia.gov.co/noticia/dos-personas-capturadas-hallazgo-mas-9-kilogramos-marihuana"
+  },
+  {
+   "id": "llego-norte-santander-escuadron-femenino-operaciones-rurales-efeor",
+   "titulo": "Llegó a Norte de Santander el Escuadrón Femenino de Operaciones Rurales \"EFEOR\"\"",
+   "lugar": "Pamplona",
+   "publicado": "2026-11-22T15:41:54.000Z",
+   "resumen": "Con el propósito de fortalecer las condiciones de seguridad y convivencia ciudadana en el sector rural, la Policía Nacional en el departamento de…",
+   "enlace": "https://www.policia.gov.co/noticia/llego-norte-santander-escuadron-femenino-operaciones-rurales-efeor"
+  },
+  {
+   "id": "policia-capturo-en-flagrancia-un-hombre-recupero-una-joya-hurtada-en-ocana",
+   "titulo": "Policía capturó en flagrancia a un hombre y recuperó una joya hurtada en Ocaña",
+   "lugar": "Ocaña",
+   "publicado": "2026-11-22T15:10:51.000Z",
+   "resumen": "En el marco de las actividades de patrullaje, registro y control adelantadas para fortalecer la seguridad y convivencia ciudadana, la Policía…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-capturo-en-flagrancia-un-hombre-recupero-una-joya-hurtada-en-ocana"
+  },
+  {
+   "id": "policia-nacional-en-neiva-reporta-11-capturas-durante-operativos-seguridad-fin-semana",
+   "titulo": "Policía Nacional en Neiva reporta 11 capturas durante operativos de seguridad el fin de semana",
+   "lugar": "Neiva",
+   "publicado": "2026-11-22T13:16:36.000Z",
+   "resumen": "Durante el fin de semana, entre el viernes 20 y el domingo 22 de noviembre, la Policía Nacional en Neiva desarrolló diferentes acciones operativas…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-en-neiva-reporta-11-capturas-durante-operativos-seguridad-fin-semana"
+  },
+  {
+   "id": "cuatro-presuntos-expendedores-fueron-capturados-en-diferentes-sectores-cartagena",
+   "titulo": "Cuatro presuntos expendedores fueron capturados en diferentes sectores de Cartagena",
+   "lugar": "Cartagena",
+   "publicado": "2026-11-22T00:42:17.000Z",
+   "resumen": "En desarrollo de actividades de registro y control adelantadas por las patrullas de vigilancia en diferentes sectores de Cartagena, la Policía…",
+   "enlace": "https://www.policia.gov.co/noticia/cuatro-presuntos-expendedores-fueron-capturados-en-diferentes-sectores-cartagena"
+  },
+  {
+   "id": "oportuna-alerta-red-apoyo-permite-policia-capturar-en-flagrancia-un-hombre-en-barrio-santa",
+   "titulo": "Oportuna alerta de la Red de Apoyo permite a la Policía capturar en flagrancia a un hombre en el barrio Santa Clara",
+   "lugar": "Montería",
+   "publicado": "2026-11-22T00:38:48.000Z",
+   "resumen": "En desarrollo de las estrategias de seguridad y convivencia ciudadana, la Policía Nacional logró la captura en flagrancia de un sujeto de 25 años…",
+   "enlace": "https://www.policia.gov.co/noticia/oportuna-alerta-red-apoyo-permite-policia-capturar-en-flagrancia-un-hombre-en-barrio-santa"
+  },
+  {
+   "id": "en-las-fiestas-del-rio-2026-seguridad-tambien-es-compromiso-todos",
+   "titulo": "¡En las Fiestas del Río 2026, la seguridad también es compromiso de todos!",
+   "lugar": "Montería",
+   "publicado": "2026-11-22T00:16:19.000Z",
+   "resumen": "La Policía Nacional continúa fortaleciendo las acciones de prevención y acompañamiento ciudadano durante el desarrollo de las Fiestas del Río 2026…",
+   "enlace": "https://www.policia.gov.co/noticia/en-las-fiestas-del-rio-2026-seguridad-tambien-es-compromiso-todos"
+  },
+  {
+   "id": "policia-acompana-las-verbenas-populares-en-monteria-para-garantizar-seguridad-convivencia",
+   "titulo": "La Policía acompaña las verbenas populares en Montería para garantizar la seguridad y convivencia",
+   "lugar": "Montería",
+   "publicado": "2026-11-21T23:48:50.000Z",
+   "resumen": "Montería, Córdoba. Con el propósito de garantizar la seguridad, la convivencia ciudadana y el bienestar de las familias…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-acompana-las-verbenas-populares-en-monteria-para-garantizar-seguridad-convivencia"
+  },
   {
    "id": "carabineros-policia-nacional-mejoran-vivienda-una-familia-campesina-en-villamaria",
    "titulo": "Carabineros de la Policía Nacional mejoran vivienda de una familia campesina en Villamaría",
@@ -98,150 +242,6 @@
    "publicado": "2026-11-19T21:35:18.000Z",
    "resumen": "La Policía Nacional en el departamento del Quindío logró la captura de un hombre de 35 años por el presunto delito de violación de habitación…",
    "enlace": "https://www.policia.gov.co/noticia/policia-captura-un-hombre-por-presunta-violacion-habitacion-ajena-en-armenia"
-  },
-  {
-   "id": "policia-nacional-captura-seis-personas-en-ofensiva-contra-estructuras-criminales-en",
-   "titulo": "Policía Nacional captura a seis personas en ofensiva contra estructuras criminales en Remedios, Antioquia",
-   "lugar": "Remedios",
-   "publicado": "2026-11-19T20:31:46.000Z",
-   "resumen": "La Policía Nacional en Antioquia adelantó una ofensiva institucional para contener los hechos de violencia registrados en el municipio de Remedios…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-captura-seis-personas-en-ofensiva-contra-estructuras-criminales-en"
-  },
-  {
-   "id": "policia-rescata-una-mujer-que-presuntamente-era-retenida-contra-su-voluntad-por-su-hijo-en",
-   "titulo": "Policía rescata a una mujer que presuntamente era retenida contra su voluntad por su hijo en Manizales",
-   "lugar": "Manizales",
-   "publicado": "2026-11-19T20:12:07.000Z",
-   "resumen": "En desarrollo de las acciones de protección frente a la violencia intrafamiliar, la Policía Nacional, en Manizales, logró rescatar a una mujer que…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-rescata-una-mujer-que-presuntamente-era-retenida-contra-su-voluntad-por-su-hijo-en"
-  },
-  {
-   "id": "policia-captura-presunto-responsable-hurto-mediante-modalidad-fleteo-en-villavicencio",
-   "titulo": "Policía captura a presunto responsable de hurto mediante la modalidad de fleteo en Villavicencio",
-   "lugar": "Villavicencio",
-   "publicado": "2026-11-19T15:57:26.000Z",
-   "resumen": "La Policía Nacional, a través de uniformados del Modelo del Servicio de Policía, logró en las últimas horas la captura en flagrancia de un hombre…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-captura-presunto-responsable-hurto-mediante-modalidad-fleteo-en-villavicencio"
-  },
-  {
-   "id": "policia-nacional-captura-dos-hombres-e-incauta-mas-28-kilos-marihuana-en-neiva",
-   "titulo": "Policía Nacional captura a dos hombres e incauta más de 28 kilos de marihuana en Neiva",
-   "lugar": "Neiva",
-   "publicado": "2026-11-19T15:50:31.000Z",
-   "resumen": "En desarrollo de las acciones operativas contra el tráfico local de estupefacientes, la Policía Nacional en Neiva logró la captura en flagrancia…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-captura-dos-hombres-e-incauta-mas-28-kilos-marihuana-en-neiva"
-  },
-  {
-   "id": "policia-nacional-captura-por-orden-judicial-un-hombre-por-violencia-intrafamiliar-agravada",
-   "titulo": "Policía Nacional captura por orden judicial a un hombre por violencia intrafamiliar agravada en El Paso",
-   "lugar": "El Paso",
-   "publicado": "2026-11-19T15:37:09.000Z",
-   "resumen": "En desarrollo de las acciones investigativas orientadas a proteger la integridad y los derechos de las víctimas de violencia intrafamiliar, la…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-captura-por-orden-judicial-un-hombre-por-violencia-intrafamiliar-agravada"
-  },
-  {
-   "id": "policia-capturo-en-flagrancia-un-hombre-por-presunta-falsedad-marcaria-en-cienaga-oro",
-   "titulo": "Policía capturó en flagrancia a un hombre por presunta falsedad marcaria en Ciénaga de Oro",
-   "lugar": "Montería",
-   "publicado": "2026-11-19T14:19:59.000Z",
-   "resumen": "En desarrollo de las acciones operativas y de control orientadas a fortalecer la seguridad y la convivencia ciudadana, la Policía Nacional de…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-capturo-en-flagrancia-un-hombre-por-presunta-falsedad-marcaria-en-cienaga-oro"
-  },
-  {
-   "id": "operacion-opalo-policia-captura-presunto-extorsionista-en-yacopi-cundinamarca",
-   "titulo": "Operación “Ópalo”: Policía captura a presunto extorsionista en Yacopí, Cundinamarca",
-   "lugar": "Cundinamarca",
-   "publicado": "2026-11-19T10:21:50.000Z",
-   "resumen": "En el marco del Plan Cazador y de la operación “Ópalo”, unidades del GAULA del Departamento de Policía Cundinamarca, en coordinación con el Grupo…",
-   "enlace": "https://www.policia.gov.co/noticia/operacion-opalo-policia-captura-presunto-extorsionista-en-yacopi-cundinamarca"
-  },
-  {
-   "id": "policia-nacional-fortalece-prevencion-del-hurto-residencias-en-norte-monteria",
-   "titulo": "Policía Nacional fortalece la prevención del hurto a residencias en el norte de Montería",
-   "lugar": "Montería",
-   "publicado": "2026-11-19T00:48:16.000Z",
-   "resumen": "Con el propósito de fortalecer la seguridad ciudadana, prevenir el hurto a residencias y promover la participación activa de la comunidad en la…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-fortalece-prevencion-del-hurto-residencias-en-norte-monteria"
-  },
-  {
-   "id": "policia-nacional-fortalece-seguridad-en-restaurantes-gastrobares-monteria",
-   "titulo": "Policía Nacional fortalece la seguridad en restaurantes y gastrobares de Montería",
-   "lugar": "Montería",
-   "publicado": "2026-11-19T00:41:22.000Z",
-   "resumen": "La Policía Nacional, en Montería, desarrolló actividades de prevención y presencia institucional en diferentes restaurantes y gastrobares de la…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-fortalece-seguridad-en-restaurantes-gastrobares-monteria"
-  },
-  {
-   "id": "capturado-en-monteria-por-presunta-agresion-uniformados-policia-nacional",
-   "titulo": "Capturado en Montería por presunta agresión a uniformados de la Policía Nacional",
-   "lugar": "Montería",
-   "publicado": "2026-11-19T00:36:38.000Z",
-   "resumen": "En desarrollo de las actividades de vigilancia y atención a llamados ciudadanos, uniformados adscritos al CAI Cantaclaro lograron la captura en…",
-   "enlace": "https://www.policia.gov.co/noticia/capturado-en-monteria-por-presunta-agresion-uniformados-policia-nacional"
-  },
-  {
-   "id": "policia-nacional-fortalece-acciones-prevencion-contra-explotacion-infantil-en-monteria",
-   "titulo": "Policía Nacional fortalece acciones de prevención contra la explotación infantil en Montería",
-   "lugar": "Montería",
-   "publicado": "2026-11-19T00:32:29.000Z",
-   "resumen": "En desarrollo de la estrategia E-PAÍS, la Policía Nacional en Montería, a través del Grupo de Protección a la Infancia y la Adolescencia, llevó a…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-fortalece-acciones-prevencion-contra-explotacion-infantil-en-monteria"
-  },
-  {
-   "id": "policia-fortalece-prevencion-violencia-intrafamiliar-en-monteria",
-   "titulo": "Policía fortalece la prevención de la violencia intrafamiliar en Montería",
-   "lugar": "Montería",
-   "publicado": "2026-11-19T00:11:30.000Z",
-   "resumen": "La Policía Nacional, a través del Grupo de Protección a la Infancia y Adolescencia de la Policía Metropolitana de San Jerónimo de Montería,…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-fortalece-prevencion-violencia-intrafamiliar-en-monteria"
-  },
-  {
-   "id": "policia-incauta-mas-310-kilogramos-marihuana-en-tambo-narino",
-   "titulo": "Policía incauta más de 310 kilogramos de marihuana en El Tambo, Nariño",
-   "lugar": "El Tambo",
-   "publicado": "2026-11-18T22:11:59.000Z",
-   "resumen": "En una operación contra las redes dedicadas al tráfico de estupefacientes, la Policía Nacional incautó más de 310 kilogramos de marihuana que,…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-incauta-mas-310-kilogramos-marihuana-en-tambo-narino"
-  },
-  {
-   "id": "capturados-dos-presuntos-integrantes-del-clan-del-golfo-en-jagua-ibirico-cesar",
-   "titulo": "Capturados dos presuntos integrantes del Clan del Golfo en La Jagua de Ibirico, Cesar",
-   "lugar": "La Jagua de Ibirico",
-   "publicado": "2026-11-18T21:42:06.000Z",
-   "resumen": "La Policía Nacional, a través de la Seccional de Investigación Criminal, logró la captura en flagrancia de dos presuntos integrantes de la…",
-   "enlace": "https://www.policia.gov.co/noticia/capturados-dos-presuntos-integrantes-del-clan-del-golfo-en-jagua-ibirico-cesar"
-  },
-  {
-   "id": "policia-captura-en-flagrancia-presunto-extorsionista-en-valledupar",
-   "titulo": "Policía captura en flagrancia a presunto extorsionista en Valledupar",
-   "lugar": "Valledupar",
-   "publicado": "2026-11-18T21:27:37.000Z",
-   "resumen": "La oportuna reacción de la Policía Nacional permitió la captura en flagrancia de un hombre de 27 años , señalado de extorsionar a…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-captura-en-flagrancia-presunto-extorsionista-en-valledupar"
-  },
-  {
-   "id": "policia-captura-en-paz-un-hombre-requerido-por-extorsion-agravada-en-grado-tentativa",
-   "titulo": "Policía captura en La Paz a un hombre requerido por extorsión agravada en grado de tentativa",
-   "lugar": "Valledupar",
-   "publicado": "2026-11-18T21:24:05.000Z",
-   "resumen": "La Policía Nacional capturó por orden judicial a un hombre de 38 años, requerido por el delito de extorsión agravada en grado de tentativa.",
-   "enlace": "https://www.policia.gov.co/noticia/policia-captura-en-paz-un-hombre-requerido-por-extorsion-agravada-en-grado-tentativa"
-  },
-  {
-   "id": "tres-capturados-dos-motocicletas-recuperadas-en-operativos-contra-hurto-en-quindio",
-   "titulo": "Tres capturados y dos motocicletas recuperadas en operativos contra el hurto en el Quindío",
-   "lugar": "Calarcá",
-   "publicado": "2026-11-18T21:22:42.000Z",
-   "resumen": "La Policía Nacional obtuvo resultados operativos en dos procedimientos adelantados en el departamento del Quindío, que permitieron la captura de…",
-   "enlace": "https://www.policia.gov.co/noticia/tres-capturados-dos-motocicletas-recuperadas-en-operativos-contra-hurto-en-quindio"
-  },
-  {
-   "id": "policia-notifico-captura-por-hurto-calificado-agravado-en-valledupar",
-   "titulo": "Policía notificó captura por hurto calificado y agravado en Valledupar",
-   "lugar": "Valledupar",
-   "publicado": "2026-11-18T21:05:59.000Z",
-   "resumen": "La Policía Nacional, a través de la Policía Metropolitana de Valledupar, hizo efectiva una orden de captura contra un hombre de 24 años, requerido…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-notifico-captura-por-hurto-calificado-agravado-en-valledupar"
   }
  ]
 }
