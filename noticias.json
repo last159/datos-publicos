@@ -1,8 +1,152 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-23T22:44:23.423737Z",
+ "descargado": "2026-11-24T21:21:58.023832Z",
  "noticias": [
+  {
+   "id": "controles-viales-continuan-afectando-economias-ilegales-en-departamento",
+   "titulo": "Controles viales continúan afectando economías ilegales en el departamento",
+   "lugar": "Quibdó",
+   "publicado": "2026-11-24T16:53:11.000Z",
+   "resumen": "La ofensiva de la Policía Nacional contra las actividades que financian la minería ilegal permitió la incautación de 198,7 galones de combustible…",
+   "enlace": "https://www.policia.gov.co/noticia/controles-viales-continuan-afectando-economias-ilegales-en-departamento"
+  },
+  {
+   "id": "alias-chulo-fue-sorprendido-con-un-revolver-6-cartuchos",
+   "titulo": "Alias ‘Chulo’ fue sorprendido con un revólver y 6 cartuchos.",
+   "lugar": "Ibagué",
+   "publicado": "2026-11-24T16:01:26.000Z",
+   "resumen": "En desarrollo de las acciones operativas y preventivas orientadas a combatir la delincuencia y fortalecer la seguridad ciudadana en Ibagué,…",
+   "enlace": "https://www.policia.gov.co/noticia/alias-chulo-fue-sorprendido-con-un-revolver-6-cartuchos"
+  },
+  {
+   "id": "policia-nacional-continua-recibiendo-componente-tecnologico-para-fortalecer-seguridad-en",
+   "titulo": "Policía Nacional continúa recibiendo componente tecnológico para fortalecer la seguridad en los municipios de Caldas",
+   "lugar": "Belalcázar",
+   "publicado": "2026-11-24T15:43:56.000Z",
+   "resumen": "En esta oportunidad, desde el municipio de Belalcázar, recibimos de la Gobernación de Caldas, a través de la Secretaría de Gobierno Departamental…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-continua-recibiendo-componente-tecnologico-para-fortalecer-seguridad-en"
+  },
+  {
+   "id": "policia-capturo-tres-personas-por-presunto-ejercicio-ilicito-actividad-monopolistica",
+   "titulo": "Policía capturó a tres personas por el presunto ejercicio ilícito de actividad monopolística de arbitrio rentístico en la dorada",
+   "lugar": "La Dorada",
+   "publicado": "2026-11-24T15:29:52.000Z",
+   "resumen": "La Policía Nacional en el departamento de Caldas, a través de actividades de prevención, registro, control y disuasión adelantadas por el personal…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-capturo-tres-personas-por-presunto-ejercicio-ilicito-actividad-monopolistica"
+  },
+  {
+   "id": "policia-capturo-en-flagrancia-una-mujer-senalada-atacar-su-pareja-sentimental-con-arma",
+   "titulo": "Policía capturó en flagrancia a una mujer señalada de atacar a su pareja sentimental con arma cortopunzante",
+   "lugar": "Pensilvania",
+   "publicado": "2026-11-24T14:44:22.000Z",
+   "resumen": "La Policía Nacional, en el departamento de Caldas, en desarrollo de las actividades de prevención y control, logró la captura de una mujer de 44…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-capturo-en-flagrancia-una-mujer-senalada-atacar-su-pareja-sentimental-con-arma"
+  },
+  {
+   "id": "caldas-fortalece-seguridad-con-mas-240-camaras-videovigilancia-en-16-municipios",
+   "titulo": "Caldas fortalece la seguridad con más de 240 cámaras de videovigilancia en 16 municipios",
+   "lugar": "Caldas",
+   "publicado": "2026-11-24T14:35:30.000Z",
+   "resumen": "Con el propósito de fortalecer las capacidades institucionales para la prevención del delito, el monitoreo permanente y la atención oportuna de…",
+   "enlace": "https://www.policia.gov.co/noticia/caldas-fortalece-seguridad-con-mas-240-camaras-videovigilancia-en-16-municipios"
+  },
+  {
+   "id": "operativos-control-permitieron-sacar-circulacion-un-arma-fuego-ilegal-en-quibdo",
+   "titulo": "Operativos de control permitieron sacar de circulación un arma de fuego ilegal en Quibdó",
+   "lugar": "Quibdó",
+   "publicado": "2026-11-24T13:54:46.000Z",
+   "resumen": "Con el propósito de prevenir la comisión de delitos que afectan la seguridad ciudadana, uniformados de la Policía Nacional capturaron a un hombre…",
+   "enlace": "https://www.policia.gov.co/noticia/operativos-control-permitieron-sacar-circulacion-un-arma-fuego-ilegal-en-quibdo"
+  },
+  {
+   "id": "policia-nacional-capturo-cuatro-personas-por-trafico-estupefacientes-en-tebaida",
+   "titulo": "Policía Nacional capturó a cuatro personas por tráfico de estupefacientes en La Tebaida",
+   "lugar": "La Tebaida",
+   "publicado": "2026-11-24T13:52:52.000Z",
+   "resumen": "La Policía Nacional en el marco de las acciones permanentes contra el tráfico local de estupefacientes, a través de labores investigativas y…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-capturo-cuatro-personas-por-trafico-estupefacientes-en-tebaida"
+  },
+  {
+   "id": "dos-hombres-fueron-capturados-tras-intimidar-con-un-arma-fuego-un-ciudadano-para-hurtarle",
+   "titulo": "Dos hombres fueron capturados tras intimidar con un arma de fuego a un ciudadano para hurtarle sus pertenencias",
+   "lugar": "Medellín",
+   "publicado": "2026-11-23T21:05:03.000Z",
+   "resumen": "La rápida respuesta de la Policía Nacional ante una alerta recibida a través de la línea de emergencia 123 permitió la captura de dos hombres, de…",
+   "enlace": "https://www.policia.gov.co/noticia/dos-hombres-fueron-capturados-tras-intimidar-con-un-arma-fuego-un-ciudadano-para-hurtarle"
+  },
+  {
+   "id": "desarticulada-estructura-dedicada-al-hurto-violento-motocicletas-joyas-en-medellin",
+   "titulo": "Desarticulada estructura dedicada al hurto violento de motocicletas y joyas en Medellín",
+   "lugar": "Medellín",
+   "publicado": "2026-11-23T20:45:22.000Z",
+   "resumen": "En desarrollo de la ofensiva institucional contra las estructuras delincuenciales que afectan la seguridad y el patrimonio económico de los…",
+   "enlace": "https://www.policia.gov.co/noticia/desarticulada-estructura-dedicada-al-hurto-violento-motocicletas-joyas-en-medellin"
+  },
+  {
+   "id": "mas-330-kilos-marihuana-fueron-incautados-en-cali-andalucia-altura-buga",
+   "titulo": "Más de 330 kilos de marihuana fueron incautados en la vía Cali – Andalucía, a la altura de Buga",
+   "lugar": "Guadalajara de Buga",
+   "publicado": "2026-11-23T19:57:49.000Z",
+   "resumen": "En desarrollo de actividades de registro, prevención y control sobre la vía Cali – Andalucía, a la altura del kilómetro 62, en jurisdicción del…",
+   "enlace": "https://www.policia.gov.co/noticia/mas-330-kilos-marihuana-fueron-incautados-en-cali-andalucia-altura-buga"
+  },
+  {
+   "id": "se-realizo-captura-presunto-responsable-se-evito-distribucion-sustancias-peligrosas-para",
+   "titulo": "Se realizó la captura de presunto responsable y se evitó la distribución de sustancias peligrosas para la salud",
+   "lugar": "Palmira",
+   "publicado": "2026-11-23T19:55:13.000Z",
+   "resumen": "En el marco de las estrategias institucionales para la protección de la salud pública y la lucha frontal contra los delitos que afectan la…",
+   "enlace": "https://www.policia.gov.co/noticia/se-realizo-captura-presunto-responsable-se-evito-distribucion-sustancias-peligrosas-para"
+  },
+  {
+   "id": "policia-nacional-aprehendio-un-adolescente-requerido-por-extorsion-vinculado-acciones",
+   "titulo": "Policía Nacional aprehendió a un adolescente requerido por extorsión y vinculado a acciones criminales del GDCO La Inmaculada en Tuluá",
+   "lugar": "Tuluá",
+   "publicado": "2026-11-23T19:53:20.000Z",
+   "resumen": "De acuerdo con las investigaciones, el adolescente presuntamente estaría al servicio de alias “Cachama”, quien lo habría instrumentalizado para…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-aprehendio-un-adolescente-requerido-por-extorsion-vinculado-acciones"
+  },
+  {
+   "id": "golpe-al-contrabando-en-norte-del-valle-tres-capturados-4450-cajetillas-cigarrillos",
+   "titulo": "Golpe al contrabando en el Norte del Valle tres capturados y 4.450 cajetillas de cigarrillos incautadas en Toro",
+   "lugar": "Toro",
+   "publicado": "2026-11-23T19:51:17.000Z",
+   "resumen": "En desarrollo de las acciones operativas contra las economías ilícitas, la Policía Nacional logró la captura de tres personas en el municipio de…",
+   "enlace": "https://www.policia.gov.co/noticia/golpe-al-contrabando-en-norte-del-valle-tres-capturados-4450-cajetillas-cigarrillos"
+  },
+  {
+   "id": "policia-nacional-afecta-componente-armado-sicarial-estructura-delincuencial-en-tulua",
+   "titulo": "Policía Nacional afecta componente armado y sicarial de estructura delincuencial en Tuluá",
+   "lugar": "Tuluá",
+   "publicado": "2026-11-23T19:48:46.000Z",
+   "resumen": "La operación fue adelantada por unidades de la Seccional de Investigación Criminal (SIJIN), con el apoyo de la Seccional de Inteligencia Policial…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-afecta-componente-armado-sicarial-estructura-delincuencial-en-tulua"
+  },
+  {
+   "id": "policia-capturo-cinco-presuntos-integrantes-del-clan-del-golfo-en-trujillo-bolivar-valle",
+   "titulo": "Policía capturó a cinco presuntos integrantes del Clan del Golfo en Trujillo y Bolívar, Valle del Cauca",
+   "lugar": "Trujillo",
+   "publicado": "2026-11-23T19:40:08.000Z",
+   "resumen": "En desarrollo de operaciones contra las estructuras criminales que afectan la seguridad y tranquilidad de los vallecaucanos, la Policía Nacional…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-capturo-cinco-presuntos-integrantes-del-clan-del-golfo-en-trujillo-bolivar-valle"
+  },
+  {
+   "id": "megatoma-seguridad-en-18-municipios-del-valle-del-cauca-deja-64-capturados-mas-una-tonelada",
+   "titulo": "Megatoma de la seguridad en 18 municipios del Valle del Cauca deja 64 capturados y más de una tonelada de estupefacientes incautada",
+   "lugar": "Tuluá",
+   "publicado": "2026-11-23T19:33:25.000Z",
+   "resumen": "En el marco de la Operación Patriota “Valle firme contra el crimen”, y mediante una acción coordinada e interinstitucional entre el Gobierno…",
+   "enlace": "https://www.policia.gov.co/noticia/megatoma-seguridad-en-18-municipios-del-valle-del-cauca-deja-64-capturados-mas-una-tonelada"
+  },
+  {
+   "id": "capturado-un-adulto-aprehendido-un-adolescente-con-dos-kilos-presunta-marihuana-en-tulua",
+   "titulo": "Capturado un adulto y aprehendido un adolescente con dos kilos de presunta marihuana en Tuluá",
+   "lugar": "Tuluá",
+   "publicado": "2026-11-23T19:27:58.000Z",
+   "resumen": "Los hechos se registraron en un establecimiento comercial del municipio de Tuluá, luego de que la Policía Nacional recibiera información oportuna…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-un-adulto-aprehendido-un-adolescente-con-dos-kilos-presunta-marihuana-en-tulua"
+  },
   {
    "id": "policia-nacional-retuvo-en-macanal-un-hombre-requerido-por-argentina-mediante-notificacion",
    "titulo": "Policía Nacional retuvo en Macanal a un hombre requerido por Argentina mediante notificación roja de interpol",
@@ -98,150 +242,6 @@
    "publicado": "2026-11-22T15:41:54.000Z",
    "resumen": "Con el propósito de fortalecer las condiciones de seguridad y convivencia ciudadana en el sector rural, la Policía Nacional en el departamento de…",
    "enlace": "https://www.policia.gov.co/noticia/llego-norte-santander-escuadron-femenino-operaciones-rurales-efeor"
-  },
-  {
-   "id": "policia-capturo-en-flagrancia-un-hombre-recupero-una-joya-hurtada-en-ocana",
-   "titulo": "Policía capturó en flagrancia a un hombre y recuperó una joya hurtada en Ocaña",
-   "lugar": "Ocaña",
-   "publicado": "2026-11-22T15:10:51.000Z",
-   "resumen": "En el marco de las actividades de patrullaje, registro y control adelantadas para fortalecer la seguridad y convivencia ciudadana, la Policía…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-capturo-en-flagrancia-un-hombre-recupero-una-joya-hurtada-en-ocana"
-  },
-  {
-   "id": "policia-nacional-en-neiva-reporta-11-capturas-durante-operativos-seguridad-fin-semana",
-   "titulo": "Policía Nacional en Neiva reporta 11 capturas durante operativos de seguridad el fin de semana",
-   "lugar": "Neiva",
-   "publicado": "2026-11-22T13:16:36.000Z",
-   "resumen": "Durante el fin de semana, entre el viernes 20 y el domingo 22 de noviembre, la Policía Nacional en Neiva desarrolló diferentes acciones operativas…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-en-neiva-reporta-11-capturas-durante-operativos-seguridad-fin-semana"
-  },
-  {
-   "id": "cuatro-presuntos-expendedores-fueron-capturados-en-diferentes-sectores-cartagena",
-   "titulo": "Cuatro presuntos expendedores fueron capturados en diferentes sectores de Cartagena",
-   "lugar": "Cartagena",
-   "publicado": "2026-11-22T00:42:17.000Z",
-   "resumen": "En desarrollo de actividades de registro y control adelantadas por las patrullas de vigilancia en diferentes sectores de Cartagena, la Policía…",
-   "enlace": "https://www.policia.gov.co/noticia/cuatro-presuntos-expendedores-fueron-capturados-en-diferentes-sectores-cartagena"
-  },
-  {
-   "id": "oportuna-alerta-red-apoyo-permite-policia-capturar-en-flagrancia-un-hombre-en-barrio-santa",
-   "titulo": "Oportuna alerta de la Red de Apoyo permite a la Policía capturar en flagrancia a un hombre en el barrio Santa Clara",
-   "lugar": "Montería",
-   "publicado": "2026-11-22T00:38:48.000Z",
-   "resumen": "En desarrollo de las estrategias de seguridad y convivencia ciudadana, la Policía Nacional logró la captura en flagrancia de un sujeto de 25 años…",
-   "enlace": "https://www.policia.gov.co/noticia/oportuna-alerta-red-apoyo-permite-policia-capturar-en-flagrancia-un-hombre-en-barrio-santa"
-  },
-  {
-   "id": "en-las-fiestas-del-rio-2026-seguridad-tambien-es-compromiso-todos",
-   "titulo": "¡En las Fiestas del Río 2026, la seguridad también es compromiso de todos!",
-   "lugar": "Montería",
-   "publicado": "2026-11-22T00:16:19.000Z",
-   "resumen": "La Policía Nacional continúa fortaleciendo las acciones de prevención y acompañamiento ciudadano durante el desarrollo de las Fiestas del Río 2026…",
-   "enlace": "https://www.policia.gov.co/noticia/en-las-fiestas-del-rio-2026-seguridad-tambien-es-compromiso-todos"
-  },
-  {
-   "id": "policia-acompana-las-verbenas-populares-en-monteria-para-garantizar-seguridad-convivencia",
-   "titulo": "La Policía acompaña las verbenas populares en Montería para garantizar la seguridad y convivencia",
-   "lugar": "Montería",
-   "publicado": "2026-11-21T23:48:50.000Z",
-   "resumen": "Montería, Córdoba. Con el propósito de garantizar la seguridad, la convivencia ciudadana y el bienestar de las familias…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-acompana-las-verbenas-populares-en-monteria-para-garantizar-seguridad-convivencia"
-  },
-  {
-   "id": "carabineros-policia-nacional-mejoran-vivienda-una-familia-campesina-en-villamaria",
-   "titulo": "Carabineros de la Policía Nacional mejoran vivienda de una familia campesina en Villamaría",
-   "lugar": "Manizales",
-   "publicado": "2026-11-20T23:56:36.000Z",
-   "resumen": "En cumplimiento de su compromiso con las comunidades rurales, la Policía Nacional, a través de la Seccional de Carabineros y Protección Ambiental…",
-   "enlace": "https://www.policia.gov.co/noticia/carabineros-policia-nacional-mejoran-vivienda-una-familia-campesina-en-villamaria"
-  },
-  {
-   "id": "policia-captura-un-hombre-e-incauta-un-arma-fuego-en-santa-rosa-cabal",
-   "titulo": "Policía captura a un hombre e incauta un arma de fuego en Santa Rosa de Cabal",
-   "lugar": "Santa Rosa de Cabal",
-   "publicado": "2026-11-20T23:55:43.000Z",
-   "resumen": "En desarrollo de actividades de patrullaje, registro y control, la Policía Nacional logró la captura de un hombre por el presunto delito de…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-captura-un-hombre-e-incauta-un-arma-fuego-en-santa-rosa-cabal"
-  },
-  {
-   "id": "policia-aprehende-adolescente-encuentra-400-kilos-marihuana-en-vias-risaralda",
-   "titulo": "Policía aprehende a adolescente y encuentra 400 kilos de marihuana en vías de Risaralda",
-   "lugar": "Belén de Umbría",
-   "publicado": "2026-11-20T23:45:15.000Z",
-   "resumen": "En la vía nacional que conduce al municipio de Belén de Umbría, la Policía Nacional, a través de la Seccional de Tránsito y Transporte de…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-aprehende-adolescente-encuentra-400-kilos-marihuana-en-vias-risaralda"
-  },
-  {
-   "id": "policia-captura-en-quimbaya-hombre-requerido-por-orden-judicial",
-   "titulo": "Policía captura en Quimbaya a hombre requerido por orden judicial",
-   "lugar": "Quimbaya",
-   "publicado": "2026-11-20T20:10:35.000Z",
-   "resumen": "En desarrollo de las actividades de vigilancia y control adelantadas por uniformados de la Estación de Policía Quimbaya, fue capturado un hombre…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-captura-en-quimbaya-hombre-requerido-por-orden-judicial"
-  },
-  {
-   "id": "policia-captura-un-hombre-e-incauta-una-escopeta-en-barrancominas-guainia",
-   "titulo": "Policía captura a un hombre e incauta una escopeta en Barrancominas, Guainía",
-   "lugar": "Inírida",
-   "publicado": "2026-11-20T15:31:13.000Z",
-   "resumen": "La Policía Nacional, en cumplimiento de su compromiso con la seguridad y la convivencia ciudadana, logró la captura de un ciudadano por el…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-captura-un-hombre-e-incauta-una-escopeta-en-barrancominas-guainia"
-  },
-  {
-   "id": "policia-desarticula-grupo-delincuencial-dedicado-al-trafico-estupefacientes-en-chiquinquira",
-   "titulo": "Policía desarticula grupo delincuencial dedicado al tráfico de estupefacientes en Chiquinquirá",
-   "lugar": "Chiquinquirá",
-   "publicado": "2026-11-20T15:20:45.000Z",
-   "resumen": "En el marco de la lucha frontal contra el tráfico de estupefacientes, la Policía Nacional, en articulación con la Fiscalía General de la Nación,…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-desarticula-grupo-delincuencial-dedicado-al-trafico-estupefacientes-en-chiquinquira"
-  },
-  {
-   "id": "policia-nacional-implementa-manual-del-servicio-vigilancia-policial-para-fortalecer",
-   "titulo": "La Policía Nacional implementa el Manual del Servicio de Vigilancia Policial para fortalecer la seguridad ciudadana",
-   "lugar": "Bogotá",
-   "publicado": "2026-11-20T14:22:03.000Z",
-   "resumen": "La Policía Nacional de Colombia puso en marcha el nuevo Manual del Servicio de Vigilancia Policial, expedido mediante la Resolución 03543 del 6 de…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-implementa-manual-del-servicio-vigilancia-policial-para-fortalecer"
-  },
-  {
-   "id": "policia-captura-en-flagrancia-un-hombre-por-homicidio-en-medellin",
-   "titulo": "Policía captura en flagrancia a un hombre por homicidio en Medellín",
-   "lugar": "Medellín",
-   "publicado": "2026-11-20T01:40:11.000Z",
-   "resumen": "En desarrollo de las estrategias institucionales orientadas a la protección de la vida y la judicialización de quienes atentan contra la…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-captura-en-flagrancia-un-hombre-por-homicidio-en-medellin"
-  },
-  {
-   "id": "policia-captura-hombre-requerido-por-delitos-contra-los-recursos-naturales-medioambiente",
-   "titulo": "Policía captura a hombre requerido por delitos contra los recursos naturales y el medioambiente",
-   "lugar": "Medellín",
-   "publicado": "2026-11-20T01:34:57.000Z",
-   "resumen": "En desarrollo de las estrategias institucionales orientadas a combatir las economías ilícitas y garantizar el cumplimiento de los requerimientos…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-captura-hombre-requerido-por-delitos-contra-los-recursos-naturales-medioambiente"
-  },
-  {
-   "id": "acciones-control-permitieron-hacer-efectiva-una-orden-judicial-en-novita",
-   "titulo": "Acciones de control permitieron hacer efectiva una orden judicial en Nóvita",
-   "lugar": "Nóvita",
-   "publicado": "2026-11-19T21:59:05.000Z",
-   "resumen": "La Policía Nacional hizo efectiva en Nóvita una orden judicial contra un hombre requerido por el presunto delito de acto sexual violento agravado…",
-   "enlace": "https://www.policia.gov.co/noticia/acciones-control-permitieron-hacer-efectiva-una-orden-judicial-en-novita"
-  },
-  {
-   "id": "policia-nacional-captura-en-istmina-un-hombre-requerido-por-violencia-intrafamiliar",
-   "titulo": "Policía Nacional captura en Istmina a un hombre requerido por violencia intrafamiliar",
-   "lugar": "Istmina",
-   "publicado": "2026-11-19T21:56:09.000Z",
-   "resumen": "En el municipio de Istmina, las labores investigativas adelantadas por la Policía Nacional, en coordinación con la Fiscalía General de la Nación,…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-captura-en-istmina-un-hombre-requerido-por-violencia-intrafamiliar"
-  },
-  {
-   "id": "policia-captura-un-hombre-por-presunta-violacion-habitacion-ajena-en-armenia",
-   "titulo": "Policía captura a un hombre por presunta violación de habitación ajena en Armenia",
-   "lugar": "Armenia",
-   "publicado": "2026-11-19T21:35:18.000Z",
-   "resumen": "La Policía Nacional en el departamento del Quindío logró la captura de un hombre de 35 años por el presunto delito de violación de habitación…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-captura-un-hombre-por-presunta-violacion-habitacion-ajena-en-armenia"
   }
  ]
 }
