@@ -1,8 +1,56 @@
 {
  "fuente": "Policía Nacional de Colombia",
  "url": "https://www.policia.gov.co/noticias",
- "descargado": "2026-11-26T20:16:06.533441Z",
+ "descargado": "2026-11-27T20:02:26.065926Z",
  "noticias": [
+  {
+   "id": "policia-captura-tres-adultos-aprehende-una-adolescente-con-marihuana-en-terminal-neiva",
+   "titulo": "Policía captura a tres adultos y aprehende a una adolescente con marihuana en terminal de Neiva",
+   "lugar": "Neiva",
+   "publicado": "2026-11-26T23:13:37.000Z",
+   "resumen": "En desarrollo del Plan Encomiendas, estrategia de la Policía Nacional orientada a fortalecer los controles sobre equipajes, paquetes y elementos…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-captura-tres-adultos-aprehende-una-adolescente-con-marihuana-en-terminal-neiva"
+  },
+  {
+   "id": "policia-nacional-en-neiva-realiza-velaton-en-memoria-las-victimas-violencia-contra-las",
+   "titulo": "Policía Nacional en Neiva realiza velatón en memoria de las víctimas de violencia contra las mujeres",
+   "lugar": "Neiva",
+   "publicado": "2026-11-26T22:42:59.000Z",
+   "resumen": "En el marco de la conmemoración del 25 de noviembre, Día Internacional de la Eliminación de la Violencia contra la Mujer, la Policía Nacional en…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-nacional-en-neiva-realiza-velaton-en-memoria-las-victimas-violencia-contra-las"
+  },
+  {
+   "id": "capturado-alias-terry-por-presuntas-amenazas-contra-defensores-derechos-humanos-en",
+   "titulo": "Capturado alias “Terry” por presuntas amenazas contra defensores de derechos humanos en Barrancabermeja",
+   "lugar": "Barrancabermeja",
+   "publicado": "2026-11-26T22:07:28.000Z",
+   "resumen": "En desarrollo de las acciones investigativas y operativas para contrarrestar las amenazas contra líderes sociales y defensores de derechos humanos…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-alias-terry-por-presuntas-amenazas-contra-defensores-derechos-humanos-en"
+  },
+  {
+   "id": "operacion-perseo-dos-capturados-siete-motocicletas-recuperadas-25-hechos-delictivos",
+   "titulo": "Operación Perseo: dos capturados, siete motocicletas recuperadas y 25 hechos delictivos esclarecidos en Pereira y Dosquebradas",
+   "lugar": "Pereira",
+   "publicado": "2026-11-26T21:55:03.000Z",
+   "resumen": "Una presunta modalidad de hurto que combinaba engaños sentimentales, suministro de sustancias químicas y fraude bancario fue desarticulada por la…",
+   "enlace": "https://www.policia.gov.co/noticia/operacion-perseo-dos-capturados-siete-motocicletas-recuperadas-25-hechos-delictivos"
+  },
+  {
+   "id": "policia-metropolitana-pereira-reafirma-su-compromiso-con-proteccion-del-rio-otun",
+   "titulo": "Policía Metropolitana de Pereira reafirma su compromiso con la protección del río Otún",
+   "lugar": "Pereira",
+   "publicado": "2026-11-26T21:41:29.000Z",
+   "resumen": "El señor coronel Óscar Leonel Ochoa Sánchez, comandante de la Policía Metropolitana de Pereira, participó en el III Conversatorio Voces del Otún,…",
+   "enlace": "https://www.policia.gov.co/noticia/policia-metropolitana-pereira-reafirma-su-compromiso-con-proteccion-del-rio-otun"
+  },
+  {
+   "id": "capturado-en-acacias-por-presunta-agresion-con-arma-traumatica-un-uniformado",
+   "titulo": "Capturado en Acacías por presunta agresión con arma traumática a un uniformado",
+   "lugar": "Acacías",
+   "publicado": "2026-11-26T20:16:31.000Z",
+   "resumen": "La Policía Nacional, a través de uniformados de la Estación de Policía Acacías, capturó en flagrancia a un hombre señalado de presuntamente…",
+   "enlace": "https://www.policia.gov.co/noticia/capturado-en-acacias-por-presunta-agresion-con-arma-traumatica-un-uniformado"
+  },
   {
    "id": "lomo-caballo-carabineros-fortalecen-seguridad-en-campo-bolivarense",
    "titulo": "A lomo de caballo, carabineros fortalecen la seguridad en el campo bolivarense",
@@ -194,54 +242,6 @@
    "publicado": "2026-11-25T12:47:40.000Z",
    "resumen": "La Policía Nacional continúa fortaleciendo la protección de niños, niñas y adolescentes en el departamento del Chocó.",
    "enlace": "https://www.policia.gov.co/noticia/ofensiva-contra-quienes-atentan-contra-ninez-deja-un-nuevo-resultado-operacional-en-choco"
-  },
-  {
-   "id": "ofensiva-sostenida-contra-homicidio-hurto-porte-ilegal-armas-fuego-en-magdalena",
-   "titulo": "Ofensiva sostenida contra el homicidio, hurto y el porte ilegal de armas de fuego en el Magdalena",
-   "lugar": "Santa Marta",
-   "publicado": "2026-11-24T22:09:22.000Z",
-   "resumen": "La Policía Nacional en el Magdalena fortalece su ofensiva contra el homicidio, hurto, el porte ilegal de armas de fuego y las estructuras…",
-   "enlace": "https://www.policia.gov.co/noticia/ofensiva-sostenida-contra-homicidio-hurto-porte-ilegal-armas-fuego-en-magdalena"
-  },
-  {
-   "id": "incautan-80000-cigarrillos-contrabando-en-vias-del-cesar",
-   "titulo": "Incautan 80.000 cigarrillos de contrabando en vías del Cesar",
-   "lugar": "Cesar",
-   "publicado": "2026-11-24T21:49:33.000Z",
-   "resumen": "En el marco de los controles adelantados sobre los principales corredores viales del departamento de Cesar, la Policía Nacional logró la…",
-   "enlace": "https://www.policia.gov.co/noticia/incautan-80000-cigarrillos-contrabando-en-vias-del-cesar"
-  },
-  {
-   "id": "policia-fortalece-seguridad-en-entorno-turistico-ronda-del-sinu",
-   "titulo": "Policía fortalece la seguridad en el entorno turístico de la Ronda del Sinú",
-   "lugar": "Montería",
-   "publicado": "2026-11-24T21:43:36.000Z",
-   "resumen": "La Policía Nacional en Montería, en el marco de la estrategia Turismo Seguro, desarrolla actividades de vigilancia, control y prevención en el…",
-   "enlace": "https://www.policia.gov.co/noticia/policia-fortalece-seguridad-en-entorno-turistico-ronda-del-sinu"
-  },
-  {
-   "id": "capturados-dos-hombres-por-porte-ilegal-armas-en-cesar",
-   "titulo": "Capturados dos hombres por porte ilegal de armas en Cesar",
-   "lugar": "San Alberto",
-   "publicado": "2026-11-24T20:25:38.000Z",
-   "resumen": "En el marco de operativos focalizados contra el porte ilegal de armas y el crimen organizado, la Policía Nacional, a través de su Seccional de…",
-   "enlace": "https://www.policia.gov.co/noticia/capturados-dos-hombres-por-porte-ilegal-armas-en-cesar"
-  },
-  {
-   "id": "dos-presuntos-dinamizadores-del-microtrafico-capturados-con-mas-650-dosis-cocaina-en-union",
-   "titulo": "Dos presuntos dinamizadores del microtráfico capturados con más de 650 dosis de cocaína en la Unión",
-   "lugar": "Valle del Cauca",
-   "publicado": "2026-11-24T19:54:39.000Z",
-   "resumen": "La Policía Nacional, a través del Distrito de Policía Roldanillo, se permite informar a la comunidad que, gracias a la oportuna información…",
-   "enlace": "https://www.policia.gov.co/noticia/dos-presuntos-dinamizadores-del-microtrafico-capturados-con-mas-650-dosis-cocaina-en-union"
-  },
-  {
-   "id": "dos-armas-fuego-incautadas-un-capturado-por-violencia-intrafamiliar-en-roldanillo",
-   "titulo": "Dos armas de fuego incautadas y un capturado por violencia intrafamiliar en Roldanillo",
-   "lugar": "Roldanillo",
-   "publicado": "2026-11-24T19:52:40.000Z",
-   "resumen": "En una acción articulada entre uniformados de la Estación de Policía Roldanillo, la Fiscalía General de la Nación y Policía Judicial, se logró la…",
-   "enlace": "https://www.policia.gov.co/noticia/dos-armas-fuego-incautadas-un-capturado-por-violencia-intrafamiliar-en-roldanillo"
   }
  ]
 }
